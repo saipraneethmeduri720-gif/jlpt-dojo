@@ -1,0 +1,3044 @@
+[
+  {
+    "id": "n5-o-0001",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "あ",
+    "reading": "a",
+    "meaning": "a",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0002",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "い",
+    "reading": "i",
+    "meaning": "i",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0003",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "う",
+    "reading": "u",
+    "meaning": "u",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0004",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "え",
+    "reading": "e",
+    "meaning": "e",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0005",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "お",
+    "reading": "o",
+    "meaning": "o",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0006",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "か",
+    "reading": "ka",
+    "meaning": "ka",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0007",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "き",
+    "reading": "ki",
+    "meaning": "ki",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0008",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "く",
+    "reading": "ku",
+    "meaning": "ku",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0009",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "け",
+    "reading": "ke",
+    "meaning": "ke",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0010",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "こ",
+    "reading": "ko",
+    "meaning": "ko",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0011",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "さ",
+    "reading": "sa",
+    "meaning": "sa",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0012",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "し",
+    "reading": "shi",
+    "meaning": "shi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0013",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "す",
+    "reading": "su",
+    "meaning": "su",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0014",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "せ",
+    "reading": "se",
+    "meaning": "se",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0015",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "そ",
+    "reading": "so",
+    "meaning": "so",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0016",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "た",
+    "reading": "ta",
+    "meaning": "ta",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0017",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ち",
+    "reading": "chi",
+    "meaning": "chi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0018",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "つ",
+    "reading": "tsu",
+    "meaning": "tsu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0019",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "て",
+    "reading": "te",
+    "meaning": "te",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0020",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "と",
+    "reading": "to",
+    "meaning": "to",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0021",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "な",
+    "reading": "na",
+    "meaning": "na",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0022",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "に",
+    "reading": "ni",
+    "meaning": "ni",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0023",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ぬ",
+    "reading": "nu",
+    "meaning": "nu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0024",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ね",
+    "reading": "ne",
+    "meaning": "ne",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0025",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "の",
+    "reading": "no",
+    "meaning": "no",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0026",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "は",
+    "reading": "ha",
+    "meaning": "ha",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0027",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ひ",
+    "reading": "hi",
+    "meaning": "hi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0028",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ふ",
+    "reading": "fu",
+    "meaning": "fu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0029",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "へ",
+    "reading": "he",
+    "meaning": "he",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0030",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ほ",
+    "reading": "ho",
+    "meaning": "ho",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0031",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ま",
+    "reading": "ma",
+    "meaning": "ma",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0032",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "み",
+    "reading": "mi",
+    "meaning": "mi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0033",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "む",
+    "reading": "mu",
+    "meaning": "mu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0034",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "め",
+    "reading": "me",
+    "meaning": "me",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0035",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "も",
+    "reading": "mo",
+    "meaning": "mo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0036",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "や",
+    "reading": "ya",
+    "meaning": "ya",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0037",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ゆ",
+    "reading": "yu",
+    "meaning": "yu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0038",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "よ",
+    "reading": "yo",
+    "meaning": "yo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0039",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ら",
+    "reading": "ra",
+    "meaning": "ra",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0040",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "り",
+    "reading": "ri",
+    "meaning": "ri",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0041",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "る",
+    "reading": "ru",
+    "meaning": "ru",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0042",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "れ",
+    "reading": "re",
+    "meaning": "re",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0043",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ろ",
+    "reading": "ro",
+    "meaning": "ro",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0044",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "わ",
+    "reading": "wa",
+    "meaning": "wa",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0045",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "を",
+    "reading": "wo",
+    "meaning": "wo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0046",
+    "title": "Hiragana (平仮名)",
+    "subCategory": "hiragana",
+    "japanese": "ん",
+    "reading": "n",
+    "meaning": "n",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0047",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ア",
+    "reading": "a",
+    "meaning": "a",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0048",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "イ",
+    "reading": "i",
+    "meaning": "i",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0049",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ウ",
+    "reading": "u",
+    "meaning": "u",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0050",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "エ",
+    "reading": "e",
+    "meaning": "e",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0051",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "オ",
+    "reading": "o",
+    "meaning": "o",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0052",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "カ",
+    "reading": "ka",
+    "meaning": "ka",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0053",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "キ",
+    "reading": "ki",
+    "meaning": "ki",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0054",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ク",
+    "reading": "ku",
+    "meaning": "ku",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0055",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ケ",
+    "reading": "ke",
+    "meaning": "ke",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0056",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "コ",
+    "reading": "ko",
+    "meaning": "ko",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0057",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "サ",
+    "reading": "sa",
+    "meaning": "sa",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0058",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "シ",
+    "reading": "shi",
+    "meaning": "shi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0059",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ス",
+    "reading": "su",
+    "meaning": "su",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0060",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "セ",
+    "reading": "se",
+    "meaning": "se",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0061",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ソ",
+    "reading": "so",
+    "meaning": "so",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0062",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "タ",
+    "reading": "ta",
+    "meaning": "ta",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0063",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "チ",
+    "reading": "chi",
+    "meaning": "chi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0064",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ツ",
+    "reading": "tsu",
+    "meaning": "tsu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0065",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "テ",
+    "reading": "te",
+    "meaning": "te",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0066",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ト",
+    "reading": "to",
+    "meaning": "to",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0067",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ナ",
+    "reading": "na",
+    "meaning": "na",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0068",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ニ",
+    "reading": "ni",
+    "meaning": "ni",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0069",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヌ",
+    "reading": "nu",
+    "meaning": "nu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0070",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ネ",
+    "reading": "ne",
+    "meaning": "ne",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0071",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ノ",
+    "reading": "no",
+    "meaning": "no",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0072",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ハ",
+    "reading": "ha",
+    "meaning": "ha",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0073",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヒ",
+    "reading": "hi",
+    "meaning": "hi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0074",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "フ",
+    "reading": "fu",
+    "meaning": "fu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0075",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヘ",
+    "reading": "he",
+    "meaning": "he",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0076",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ホ",
+    "reading": "ho",
+    "meaning": "ho",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0077",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "マ",
+    "reading": "ma",
+    "meaning": "ma",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0078",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ミ",
+    "reading": "mi",
+    "meaning": "mi",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0079",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ム",
+    "reading": "mu",
+    "meaning": "mu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0080",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "メ",
+    "reading": "me",
+    "meaning": "me",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0081",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "モ",
+    "reading": "mo",
+    "meaning": "mo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0082",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヤ",
+    "reading": "ya",
+    "meaning": "ya",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0083",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ユ",
+    "reading": "yu",
+    "meaning": "yu",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0084",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヨ",
+    "reading": "yo",
+    "meaning": "yo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0085",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ラ",
+    "reading": "ra",
+    "meaning": "ra",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0086",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "リ",
+    "reading": "ri",
+    "meaning": "ri",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0087",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ル",
+    "reading": "ru",
+    "meaning": "ru",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0088",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "レ",
+    "reading": "re",
+    "meaning": "re",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0089",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ロ",
+    "reading": "ro",
+    "meaning": "ro",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0090",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ワ",
+    "reading": "wa",
+    "meaning": "wa",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0091",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ヲ",
+    "reading": "wo",
+    "meaning": "wo",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0092",
+    "title": "Katakana (片仮名)",
+    "subCategory": "katakana",
+    "japanese": "ン",
+    "reading": "n",
+    "meaning": "n",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0093",
+    "title": "Number 0",
+    "subCategory": "numbers",
+    "japanese": "0",
+    "reading": "れい",
+    "meaning": "zero",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0094",
+    "title": "Number 1",
+    "subCategory": "numbers",
+    "japanese": "1",
+    "reading": "いち",
+    "meaning": "one",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0095",
+    "title": "Number 2",
+    "subCategory": "numbers",
+    "japanese": "2",
+    "reading": "に",
+    "meaning": "two",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0096",
+    "title": "Number 3",
+    "subCategory": "numbers",
+    "japanese": "3",
+    "reading": "さん",
+    "meaning": "three",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0097",
+    "title": "Number 4",
+    "subCategory": "numbers",
+    "japanese": "4",
+    "reading": "よん",
+    "meaning": "four",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0098",
+    "title": "Number 5",
+    "subCategory": "numbers",
+    "japanese": "5",
+    "reading": "ご",
+    "meaning": "five",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0099",
+    "title": "Number 6",
+    "subCategory": "numbers",
+    "japanese": "6",
+    "reading": "ろく",
+    "meaning": "six",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0100",
+    "title": "Number 7",
+    "subCategory": "numbers",
+    "japanese": "7",
+    "reading": "なな",
+    "meaning": "seven",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0101",
+    "title": "Number 8",
+    "subCategory": "numbers",
+    "japanese": "8",
+    "reading": "はち",
+    "meaning": "eight",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0102",
+    "title": "Number 9",
+    "subCategory": "numbers",
+    "japanese": "9",
+    "reading": "きゅう",
+    "meaning": "nine",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0103",
+    "title": "Number 10",
+    "subCategory": "numbers",
+    "japanese": "10",
+    "reading": "じゅう",
+    "meaning": "ten",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0104",
+    "title": "Number 100",
+    "subCategory": "numbers",
+    "japanese": "100",
+    "reading": "ひゃく",
+    "meaning": "hundred",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0105",
+    "title": "Number 1,000",
+    "subCategory": "numbers",
+    "japanese": "1,000",
+    "reading": "せん",
+    "meaning": "thousand",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0106",
+    "title": "Number 10,000",
+    "subCategory": "numbers",
+    "japanese": "10,000",
+    "reading": "まん",
+    "meaning": "ten thousand",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0107",
+    "title": "Number 100,000,000",
+    "subCategory": "numbers",
+    "japanese": "100,000,000",
+    "reading": "おく",
+    "meaning": "hundred million",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0108",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一つ",
+    "reading": "ひとつ",
+    "meaning": "one (thing)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0109",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二つ",
+    "reading": "ふたつ",
+    "meaning": "two (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0110",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三つ",
+    "reading": "みっつ",
+    "meaning": "three (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0111",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "四つ",
+    "reading": "よっつ",
+    "meaning": "four (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0112",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "五つ",
+    "reading": "いつつ",
+    "meaning": "five (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0113",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "六つ",
+    "reading": "むっつ",
+    "meaning": "six (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0114",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "七つ",
+    "reading": "ななつ",
+    "meaning": "seven (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0115",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "八つ",
+    "reading": "やっつ",
+    "meaning": "eight (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0116",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "九つ",
+    "reading": "ここのつ",
+    "meaning": "nine (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0117",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "十",
+    "reading": "とお",
+    "meaning": "ten (things)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0118",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "いくつ",
+    "reading": "いくつ",
+    "meaning": "how many",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0119",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一人",
+    "reading": "ひとり",
+    "meaning": "one person",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0120",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二人",
+    "reading": "ふたり",
+    "meaning": "two people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0121",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三人",
+    "reading": "さんにん",
+    "meaning": "three people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0122",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "四人",
+    "reading": "よにん",
+    "meaning": "four people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0123",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "五人",
+    "reading": "ごにん",
+    "meaning": "five people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0124",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "六人",
+    "reading": "ろくにん",
+    "meaning": "six people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0125",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "七人",
+    "reading": "しちにん",
+    "meaning": "seven people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0126",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "八人",
+    "reading": "はちにん",
+    "meaning": "eight people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0127",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "九人",
+    "reading": "きゅうにん",
+    "meaning": "nine people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0128",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "十人",
+    "reading": "じゅうにん",
+    "meaning": "ten people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0129",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "何人",
+    "reading": "なんにん",
+    "meaning": "how many people",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0130",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一本",
+    "reading": "いっぽん",
+    "meaning": "one long object",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0131",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二本",
+    "reading": "にほん",
+    "meaning": "two long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0132",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三本",
+    "reading": "さんぼん",
+    "meaning": "three long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0133",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "四本",
+    "reading": "よんほん",
+    "meaning": "four long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0134",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "五本",
+    "reading": "ごほん",
+    "meaning": "five long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0135",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "六本",
+    "reading": "ろっぽん",
+    "meaning": "six long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0136",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "七本",
+    "reading": "ななほん",
+    "meaning": "seven long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0137",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "八本",
+    "reading": "はっぽん",
+    "meaning": "eight long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0138",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "九本",
+    "reading": "きゅうほん",
+    "meaning": "nine long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0139",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "十本",
+    "reading": "じゅっぽん",
+    "meaning": "ten long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0140",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "何本",
+    "reading": "なんぼん",
+    "meaning": "how many long objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0141",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一枚",
+    "reading": "いちまい",
+    "meaning": "one flat object",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0142",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二枚",
+    "reading": "にまい",
+    "meaning": "two flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0143",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三枚",
+    "reading": "さんまい",
+    "meaning": "three flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0144",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "四枚",
+    "reading": "よんまい",
+    "meaning": "four flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0145",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "五枚",
+    "reading": "ごまい",
+    "meaning": "five flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0146",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "六枚",
+    "reading": "ろくまい",
+    "meaning": "six flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0147",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "七枚",
+    "reading": "ななまい",
+    "meaning": "seven flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0148",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "八枚",
+    "reading": "はちまい",
+    "meaning": "eight flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0149",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "九枚",
+    "reading": "きゅうまい",
+    "meaning": "nine flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0150",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "十枚",
+    "reading": "じゅうまい",
+    "meaning": "ten flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0151",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "何枚",
+    "reading": "なんまい",
+    "meaning": "how many flat objects",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0152",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一台",
+    "reading": "いちだい",
+    "meaning": "one machine",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0153",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二台",
+    "reading": "にだい",
+    "meaning": "two machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0154",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三台",
+    "reading": "さんだい",
+    "meaning": "three machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0155",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "四台",
+    "reading": "よんだい",
+    "meaning": "four machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0156",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "五台",
+    "reading": "ごだい",
+    "meaning": "five machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0157",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "六台",
+    "reading": "ろくだい",
+    "meaning": "six machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0158",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "七台",
+    "reading": "ななだい",
+    "meaning": "seven machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0159",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "八台",
+    "reading": "はちだい",
+    "meaning": "eight machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0160",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "九台",
+    "reading": "きゅうだい",
+    "meaning": "nine machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0161",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "十台",
+    "reading": "じゅうだい",
+    "meaning": "ten machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0162",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "何台",
+    "reading": "なんだい",
+    "meaning": "how many machines",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0163",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "月曜日",
+    "reading": "げつようび",
+    "meaning": "Monday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0164",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "火曜日",
+    "reading": "かようび",
+    "meaning": "Tuesday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0165",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "水曜日",
+    "reading": "すいようび",
+    "meaning": "Wednesday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0166",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "木曜日",
+    "reading": "もくようび",
+    "meaning": "Thursday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0167",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "金曜日",
+    "reading": "きんようび",
+    "meaning": "Friday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0168",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "土曜日",
+    "reading": "どようび",
+    "meaning": "Saturday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0169",
+    "title": "Day of the week",
+    "subCategory": "days",
+    "japanese": "日曜日",
+    "reading": "にちようび",
+    "meaning": "Sunday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0170",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "1月",
+    "reading": "いちがつ",
+    "meaning": "January",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0171",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "2月",
+    "reading": "にがつ",
+    "meaning": "February",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0172",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "3月",
+    "reading": "さんがつ",
+    "meaning": "March",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0173",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "4月",
+    "reading": "しがつ",
+    "meaning": "April",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0174",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "5月",
+    "reading": "ごがつ",
+    "meaning": "May",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0175",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "6月",
+    "reading": "ろくがつ",
+    "meaning": "June",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0176",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "7月",
+    "reading": "しちがつ",
+    "meaning": "July",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0177",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "8月",
+    "reading": "はちがつ",
+    "meaning": "August",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0178",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "9月",
+    "reading": "くがつ",
+    "meaning": "September",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0179",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "10月",
+    "reading": "じゅうがつ",
+    "meaning": "October",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0180",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "11月",
+    "reading": "じゅういちがつ",
+    "meaning": "November",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0181",
+    "title": "Month",
+    "subCategory": "months",
+    "japanese": "12月",
+    "reading": "じゅうにがつ",
+    "meaning": "December",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0182",
+    "title": "Day 1",
+    "subCategory": "dates",
+    "japanese": "1日",
+    "reading": "ついたち",
+    "meaning": "the 1th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0183",
+    "title": "Day 2",
+    "subCategory": "dates",
+    "japanese": "2日",
+    "reading": "ふつか",
+    "meaning": "the 2th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0184",
+    "title": "Day 3",
+    "subCategory": "dates",
+    "japanese": "3日",
+    "reading": "みっか",
+    "meaning": "the 3th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0185",
+    "title": "Day 4",
+    "subCategory": "dates",
+    "japanese": "4日",
+    "reading": "よっか",
+    "meaning": "the 4th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0186",
+    "title": "Day 5",
+    "subCategory": "dates",
+    "japanese": "5日",
+    "reading": "いつか",
+    "meaning": "the 5th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0187",
+    "title": "Day 6",
+    "subCategory": "dates",
+    "japanese": "6日",
+    "reading": "むいか",
+    "meaning": "the 6th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0188",
+    "title": "Day 7",
+    "subCategory": "dates",
+    "japanese": "7日",
+    "reading": "なのか",
+    "meaning": "the 7th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0189",
+    "title": "Day 8",
+    "subCategory": "dates",
+    "japanese": "8日",
+    "reading": "ようか",
+    "meaning": "the 8th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0190",
+    "title": "Day 9",
+    "subCategory": "dates",
+    "japanese": "9日",
+    "reading": "ここのか",
+    "meaning": "the 9th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0191",
+    "title": "Day 10",
+    "subCategory": "dates",
+    "japanese": "10日",
+    "reading": "とおか",
+    "meaning": "the 10th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0192",
+    "title": "Day 11",
+    "subCategory": "dates",
+    "japanese": "11日",
+    "reading": "じゅういちにち",
+    "meaning": "the 11th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0193",
+    "title": "Day 12",
+    "subCategory": "dates",
+    "japanese": "12日",
+    "reading": "じゅうににち",
+    "meaning": "the 12th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0194",
+    "title": "Day 13",
+    "subCategory": "dates",
+    "japanese": "13日",
+    "reading": "じゅうさんにち",
+    "meaning": "the 13th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0195",
+    "title": "Day 14",
+    "subCategory": "dates",
+    "japanese": "14日",
+    "reading": "じゅうよっか",
+    "meaning": "the 14th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0196",
+    "title": "Day 15",
+    "subCategory": "dates",
+    "japanese": "15日",
+    "reading": "じゅうごにち",
+    "meaning": "the 15th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0197",
+    "title": "Day 16",
+    "subCategory": "dates",
+    "japanese": "16日",
+    "reading": "じゅうろくにち",
+    "meaning": "the 16th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0198",
+    "title": "Day 17",
+    "subCategory": "dates",
+    "japanese": "17日",
+    "reading": "じゅうしちにち",
+    "meaning": "the 17th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0199",
+    "title": "Day 18",
+    "subCategory": "dates",
+    "japanese": "18日",
+    "reading": "じゅうはちにち",
+    "meaning": "the 18th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0200",
+    "title": "Day 19",
+    "subCategory": "dates",
+    "japanese": "19日",
+    "reading": "じゅうくにち",
+    "meaning": "the 19th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0201",
+    "title": "Day 20",
+    "subCategory": "dates",
+    "japanese": "20日",
+    "reading": "はつか",
+    "meaning": "the 20th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0202",
+    "title": "Day 21",
+    "subCategory": "dates",
+    "japanese": "21日",
+    "reading": "にじゅういちにち",
+    "meaning": "the 21th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0203",
+    "title": "Day 22",
+    "subCategory": "dates",
+    "japanese": "22日",
+    "reading": "にじゅうににち",
+    "meaning": "the 22th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0204",
+    "title": "Day 23",
+    "subCategory": "dates",
+    "japanese": "23日",
+    "reading": "にじゅうさんにち",
+    "meaning": "the 23th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0205",
+    "title": "Day 24",
+    "subCategory": "dates",
+    "japanese": "24日",
+    "reading": "にじゅうよっか",
+    "meaning": "the 24th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0206",
+    "title": "Day 25",
+    "subCategory": "dates",
+    "japanese": "25日",
+    "reading": "にじゅうごにち",
+    "meaning": "the 25th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0207",
+    "title": "Day 26",
+    "subCategory": "dates",
+    "japanese": "26日",
+    "reading": "にじゅうろくにち",
+    "meaning": "the 26th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0208",
+    "title": "Day 27",
+    "subCategory": "dates",
+    "japanese": "27日",
+    "reading": "にじゅうしちにち",
+    "meaning": "the 27th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0209",
+    "title": "Day 28",
+    "subCategory": "dates",
+    "japanese": "28日",
+    "reading": "にじゅうはちにち",
+    "meaning": "the 28th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0210",
+    "title": "Day 29",
+    "subCategory": "dates",
+    "japanese": "29日",
+    "reading": "にじゅうくにち",
+    "meaning": "the 29th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0211",
+    "title": "Day 30",
+    "subCategory": "dates",
+    "japanese": "30日",
+    "reading": "さんじゅうにち",
+    "meaning": "the 30th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0212",
+    "title": "Day 31",
+    "subCategory": "dates",
+    "japanese": "31日",
+    "reading": "さんじゅういちにち",
+    "meaning": "the 31th (day of month)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0213",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今",
+    "reading": "いま",
+    "meaning": "now",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0214",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "朝",
+    "reading": "あさ",
+    "meaning": "morning",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0215",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "昼",
+    "reading": "ひる",
+    "meaning": "noon; daytime",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0216",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "夜",
+    "reading": "よる",
+    "meaning": "night",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0217",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今日",
+    "reading": "きょう",
+    "meaning": "today",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0218",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "昨日",
+    "reading": "きのう",
+    "meaning": "yesterday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0219",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "明日",
+    "reading": "あした",
+    "meaning": "tomorrow",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0220",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "一昨日",
+    "reading": "おととい",
+    "meaning": "the day before yesterday",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0221",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "明後日",
+    "reading": "あさって",
+    "meaning": "the day after tomorrow",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0222",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今朝",
+    "reading": "けさ",
+    "meaning": "this morning",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0223",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今晩",
+    "reading": "こんばん",
+    "meaning": "tonight",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0224",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "毎日",
+    "reading": "まいにち",
+    "meaning": "every day",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0225",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "先週",
+    "reading": "せんしゅう",
+    "meaning": "last week",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0226",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今週",
+    "reading": "こんしゅう",
+    "meaning": "this week",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0227",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "来週",
+    "reading": "らいしゅう",
+    "meaning": "next week",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0228",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "午前",
+    "reading": "ごぜん",
+    "meaning": "a.m.; morning",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0229",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "午後",
+    "reading": "ごご",
+    "meaning": "p.m.; afternoon",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0230",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "1時",
+    "reading": "いちじ",
+    "meaning": "1 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0231",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "2時",
+    "reading": "にじ",
+    "meaning": "2 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0232",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "3時",
+    "reading": "さんじ",
+    "meaning": "3 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0233",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "4時",
+    "reading": "よじ",
+    "meaning": "4 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0234",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "5時",
+    "reading": "ごじ",
+    "meaning": "5 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0235",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "6時",
+    "reading": "ろくじ",
+    "meaning": "6 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0236",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "7時",
+    "reading": "しちじ",
+    "meaning": "7 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0237",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "8時",
+    "reading": "はちじ",
+    "meaning": "8 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0238",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "9時",
+    "reading": "くじ",
+    "meaning": "9 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0239",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "10時",
+    "reading": "じゅうじ",
+    "meaning": "10 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0240",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "11時",
+    "reading": "じゅういちじ",
+    "meaning": "11 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0241",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "12時",
+    "reading": "じゅうにじ",
+    "meaning": "12 o'clock",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0242",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "何時",
+    "reading": "なんじ",
+    "meaning": "what time",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0243",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "1分",
+    "reading": "いっぷん",
+    "meaning": "one minute",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0244",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "5分",
+    "reading": "ごふん",
+    "meaning": "five minutes",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0245",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "10分",
+    "reading": "じゅっぷん",
+    "meaning": "ten minutes",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0246",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "30分",
+    "reading": "さんじゅっぷん",
+    "meaning": "thirty minutes",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0247",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "半",
+    "reading": "はん",
+    "meaning": "half",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0248",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "おはようございます",
+    "reading": "おはようございます",
+    "meaning": "Good morning (polite)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0249",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "Hello; Good afternoon",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0250",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "Good evening",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0251",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "さようなら",
+    "reading": "さようなら",
+    "meaning": "Goodbye",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0252",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "おやすみなさい",
+    "reading": "おやすみなさい",
+    "meaning": "Good night",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0253",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "ありがとうございます",
+    "reading": "ありがとうございます",
+    "meaning": "Thank you (polite)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0254",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "すみません",
+    "reading": "すみません",
+    "meaning": "Excuse me; I'm sorry",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0255",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meaning": "I'm sorry (casual)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0256",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "いただきます",
+    "reading": "いただきます",
+    "meaning": "Said before eating",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0257",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "ごちそうさまでした",
+    "reading": "ごちそうさまでした",
+    "meaning": "Said after eating (thank you for the meal)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0258",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "いってきます",
+    "reading": "いってきます",
+    "meaning": "I'm leaving (and will come back)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0259",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "いってらっしゃい",
+    "reading": "いってらっしゃい",
+    "meaning": "See you later (to someone leaving)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0260",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "ただいま",
+    "reading": "ただいま",
+    "meaning": "I'm home",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0261",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "おかえりなさい",
+    "reading": "おかえりなさい",
+    "meaning": "Welcome back",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0262",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "はじめまして",
+    "reading": "はじめまして",
+    "meaning": "Nice to meet you (first meeting)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0263",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "よろしくおねがいします",
+    "reading": "よろしくおねがいします",
+    "meaning": "Please treat me well",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0264",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "おげんきですか",
+    "reading": "おげんきですか",
+    "meaning": "How are you? (polite)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0265",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "はい",
+    "reading": "はい",
+    "meaning": "yes",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0266",
+    "title": "Greeting (挨拶)",
+    "subCategory": "greetings",
+    "japanese": "いいえ",
+    "reading": "いいえ",
+    "meaning": "no",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0267",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "何",
+    "reading": "なに",
+    "meaning": "what",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0268",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "誰",
+    "reading": "だれ",
+    "meaning": "who",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0269",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どこ",
+    "reading": "どこ",
+    "meaning": "where",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0270",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "いつ",
+    "reading": "いつ",
+    "meaning": "when",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0271",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "なぜ",
+    "reading": "なぜ",
+    "meaning": "why",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0272",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どうして",
+    "reading": "どうして",
+    "meaning": "why; how",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0273",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どう",
+    "reading": "どう",
+    "meaning": "how",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0274",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "いくら",
+    "reading": "いくら",
+    "meaning": "how much (money)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0275",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "いくつ",
+    "reading": "いくつ",
+    "meaning": "how many",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0276",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どれ",
+    "reading": "どれ",
+    "meaning": "which one",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0277",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どの",
+    "reading": "どの",
+    "meaning": "which",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0278",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どちら",
+    "reading": "どちら",
+    "meaning": "which (of two); where (polite)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0279",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "どんな",
+    "reading": "どんな",
+    "meaning": "what kind of",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0280",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "何歳",
+    "reading": "なんさい",
+    "meaning": "how old",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0281",
+    "title": "Question word",
+    "subCategory": "questions",
+    "japanese": "何曜日",
+    "reading": "なんようび",
+    "meaning": "what day of the week",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0282",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜です",
+    "reading": "〜です",
+    "meaning": "to be (polite copula)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0283",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ます",
+    "reading": "〜ます",
+    "meaning": "polite verb ending (non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0284",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ません",
+    "reading": "〜ません",
+    "meaning": "polite negative verb ending",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0285",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ました",
+    "reading": "〜ました",
+    "meaning": "polite past verb ending",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0286",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ましょう",
+    "reading": "〜ましょう",
+    "meaning": "let's ~ (volitional)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0287",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てください",
+    "reading": "〜てください",
+    "meaning": "please ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0288",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てもいいですか",
+    "reading": "〜てもいいですか",
+    "meaning": "May I ~? (permission)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0289",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てはいけません",
+    "reading": "〜てはいけません",
+    "meaning": "must not ~ (prohibition)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0290",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜たいです",
+    "reading": "〜たいです",
+    "meaning": "I want to ~ (desire)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0291",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がほしいです",
+    "reading": "〜がほしいです",
+    "meaning": "I want ~ (object)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0292",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ましょうか",
+    "reading": "〜ましょうか",
+    "meaning": "Shall I ~? (offer)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0293",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ませんか",
+    "reading": "〜ませんか",
+    "meaning": "Won't you ~? (invitation)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0294",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜があります",
+    "reading": "〜があります",
+    "meaning": "there is ~ (inanimate)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0295",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がいます",
+    "reading": "〜がいます",
+    "meaning": "there is ~ (animate)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0296",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がすきです",
+    "reading": "〜がすきです",
+    "meaning": "I like ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0297",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がじょうずです",
+    "reading": "〜がじょうずです",
+    "meaning": "to be good at ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0298",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がへたです",
+    "reading": "〜がへたです",
+    "meaning": "to be poor at ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0299",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜より〜のほうが",
+    "reading": "〜より〜のほうが",
+    "meaning": "~ is more ~ than ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0300",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がいちばん",
+    "reading": "〜がいちばん",
+    "meaning": "~ is the most ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0301",
+    "title": "Basic pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜とおもいます",
+    "reading": "〜とおもいます",
+    "meaning": "I think that ~",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0302",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べる",
+    "reading": "たべる",
+    "meaning": "to eat (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0303",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べます",
+    "reading": "たべます",
+    "meaning": "to eat (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0304",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べません",
+    "reading": "たべません",
+    "meaning": "not eat (polite negative)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0305",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べました",
+    "reading": "たべました",
+    "meaning": "ate (polite past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0306",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べて",
+    "reading": "たべて",
+    "meaning": "eat (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0307",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "食べない",
+    "reading": "たべない",
+    "meaning": "not eat (plain negative)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0308",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "飲む",
+    "reading": "のむ",
+    "meaning": "to drink (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0309",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "飲みます",
+    "reading": "のみます",
+    "meaning": "to drink (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0310",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "飲んで",
+    "reading": "のんで",
+    "meaning": "drink (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0311",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "行く",
+    "reading": "いく",
+    "meaning": "to go (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0312",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "行きます",
+    "reading": "いきます",
+    "meaning": "to go (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0313",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "行って",
+    "reading": "いって",
+    "meaning": "go (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0314",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "話す",
+    "reading": "はなす",
+    "meaning": "to speak (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0315",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "話します",
+    "reading": "はなします",
+    "meaning": "to speak (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0316",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "話して",
+    "reading": "はなして",
+    "meaning": "speak (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0317",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "見る",
+    "reading": "みる",
+    "meaning": "to see (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0318",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "見ます",
+    "reading": "みます",
+    "meaning": "to see (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0319",
+    "title": "Verb conjugation (動詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "見て",
+    "reading": "みて",
+    "meaning": "see (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0320",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "する",
+    "reading": "する",
+    "meaning": "to do (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0321",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "します",
+    "reading": "します",
+    "meaning": "to do (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0322",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "しました",
+    "reading": "しました",
+    "meaning": "did (polite past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0323",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "して",
+    "reading": "して",
+    "meaning": "do (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0324",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "来る",
+    "reading": "くる",
+    "meaning": "to come (dictionary form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0325",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "来ます",
+    "reading": "きます",
+    "meaning": "to come (polite non-past)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0326",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "来て",
+    "reading": "きて",
+    "meaning": "come (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0327",
+    "title": "Irregular verb (不規則動詞)",
+    "subCategory": "conjugation",
+    "japanese": "来ない",
+    "reading": "こない",
+    "meaning": "not come (plain negative)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0328",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "高い",
+    "reading": "たかい",
+    "meaning": "high; expensive (い-adjective)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0329",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "高くない",
+    "reading": "たかくない",
+    "meaning": "not high/expensive",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0330",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "高かった",
+    "reading": "たかかった",
+    "meaning": "was high/expensive",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0331",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "高くて",
+    "reading": "たかくて",
+    "meaning": "high/expensive and (te-form)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0332",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "安い",
+    "reading": "やすい",
+    "meaning": "cheap (い-adjective)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0333",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "新しい",
+    "reading": "あたらしい",
+    "meaning": "new (い-adjective)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0334",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "静か",
+    "reading": "しずか",
+    "meaning": "quiet (な-adjective)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0335",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "静かじゃない",
+    "reading": "しずかじゃない",
+    "meaning": "not quiet",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0336",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "静かだった",
+    "reading": "しずかだった",
+    "meaning": "was quiet",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0337",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "元気",
+    "reading": "げんき",
+    "meaning": "healthy; energetic (な-adjective)",
+    "jlptLevel": "n5"
+  },
+  {
+    "id": "n5-o-0338",
+    "title": "Adjective conjugation (形容詞の活用)",
+    "subCategory": "conjugation",
+    "japanese": "きれい",
+    "reading": "きれい",
+    "meaning": "pretty; clean (な-adjective)",
+    "jlptLevel": "n5"
+  }
+]

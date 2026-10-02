@@ -1,0 +1,17 @@
+=== COUNTS ===
+N5: kanji 84, vocabulary 674, grammar 81, other 338
+N4: kanji 169, vocabulary 630, grammar 98, other 77
+N3: kanji 387, vocabulary 1659, grammar 101, other 42
+N2: kanji 398, vocabulary 1778, grammar 123, other 50
+N1: kanji 1345, vocabulary 3070, grammar 123, other 29
+kanji cumulative N5: 84
+kanji cumulative N4: 253
+kanji cumulative N3: 640
+kanji cumulative N2: 1038
+kanji cumulative N1: 2383
+
+=== PROBLEMS ===
+none
+
+=== CROSS-CHECK vs KANJIDIC2 ===
+kanji with on/kun reading mismatches vs KANJIDIC2: 0 / 2383

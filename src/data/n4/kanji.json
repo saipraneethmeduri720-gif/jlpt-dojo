@@ -1,0 +1,8351 @@
+[
+  {
+    "id": "n4-k-0001",
+    "character": "会",
+    "meaning": "meeting, meet, party, association",
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "strokeCount": 6,
+    "radical": "人",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "to meet"
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company"
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting"
+      },
+      {
+        "word": "会議室",
+        "reading": "かいぎしつ",
+        "meaning": "meeting room"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "もうスミスさんに会われましたね。",
+        "reading": "もうスミスさんにあわれましたね。",
+        "english": "You've met Mr. Smith already, haven't you?"
+      },
+      {
+        "japanese": "じゃあパーティーで会いましょう。",
+        "reading": "じゃあパーティーであいましょう。",
+        "english": "See you at the party."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0002",
+    "character": "同",
+    "meaning": "same, agree, equal",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな.じ"
+    ],
+    "strokeCount": 6,
+    "radical": "口",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same"
+      },
+      {
+        "word": "共同",
+        "reading": "きょうどう",
+        "meaning": "cooperation, association, collaboration, joint"
+      },
+      {
+        "word": "同一",
+        "reading": "どういつ",
+        "meaning": "identity, sameness, similarity"
+      },
+      {
+        "word": "同時",
+        "reading": "どうじ",
+        "meaning": "simultaneous(ly), concurrent, same time, synchronous"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この木はあの木とほぼ同じ高さだ。",
+        "reading": "このきはあのきとほぼおなじたかさだ。",
+        "english": "This tree is about as high as that one."
+      },
+      {
+        "japanese": "マイクとトムは同じクラスです。",
+        "reading": "マイクとトムはおなじクラスです。",
+        "english": "Mike and Tom are in the same class."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0003",
+    "character": "事",
+    "meaning": "matter, thing, fact, business",
+    "onyomi": [
+      "ジ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "strokeCount": 8,
+    "radical": "亅",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
+      },
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "meaning": "fire"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      },
+      {
+        "word": "事務所",
+        "reading": "じむしょ",
+        "meaning": "office"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "おいしい食事をありがとう。",
+        "reading": "おいしいしょくじをありがとう。",
+        "english": "Thanks for the delicious meal."
+      },
+      {
+        "japanese": "食事は家庭で食べますか、外食ですか。",
+        "reading": "しょくじはかていでたべますか、がいしょくですか。",
+        "english": "Do you eat at home or eat out?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0004",
+    "character": "自",
+    "meaning": "oneself",
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "strokeCount": 6,
+    "radical": "自",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
+      },
+      {
+        "word": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automobile"
+      },
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "oneself"
+      },
+      {
+        "word": "自由",
+        "reading": "じゆう",
+        "meaning": "freedom"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ぼくの自転車はパンクしている。",
+        "reading": "ぼくのじてんしゃはパンクしている。",
+        "english": "My bicycle has a flat tire."
+      },
+      {
+        "japanese": "マユコは自転車で学校にいく。",
+        "reading": "マユコはじてんしゃでがっこうにいく。",
+        "english": "Mayuko goes to school by bicycle."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0005",
+    "character": "社",
+    "meaning": "company, firm, office, association",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "strokeCount": 7,
+    "radical": "示",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company"
+      },
+      {
+        "word": "社会",
+        "reading": "しゃかい",
+        "meaning": "society, public"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "company president"
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "Shinto shrine"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ビルは三年前にこの会社に入った。",
+        "reading": "ビルはさんねん#1392580にこのかいしゃにはいった。",
+        "english": "Bill joined our company three years ago."
+      },
+      {
+        "japanese": "会社をクビにならなきゃいいけどね。",
+        "reading": "かいしゃをクビにならなきゃいいけどね。",
+        "english": "I hope I can hold on to my job."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0006",
+    "character": "発",
+    "meaning": "departure, discharge, publish, emit",
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "strokeCount": 9,
+    "radical": "癶",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "meaning": "to depart"
+      },
+      {
+        "word": "発音",
+        "reading": "はつおん",
+        "meaning": "pronunciation"
+      },
+      {
+        "word": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "explosion, detonation, eruption"
+      },
+      {
+        "word": "発見",
+        "reading": "はっけん",
+        "meaning": "discovery, detection, finding"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その電車は午前９時にここを出発します。",
+        "reading": "そのでんしゃはごぜん９じにここをしゅっぱつします。",
+        "english": "The train departs here at 9:00 a.m."
+      },
+      {
+        "japanese": "その火事はおととい発生した。",
+        "reading": "そのかじはおとといはっせいした。",
+        "english": "A fire broke out the day before yesterday."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0007",
+    "character": "者",
+    "meaning": "someone, person",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "strokeCount": 8,
+    "radical": "老",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "medical doctor"
+      },
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentist"
+      },
+      {
+        "word": "学者",
+        "reading": "がくしゃ",
+        "meaning": "scholar"
+      },
+      {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning": "a patient"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "医者になるつもりだったのですが。",
+        "reading": "いしゃになるつもりだったのですが。",
+        "english": "I intended to become a doctor."
+      },
+      {
+        "japanese": "日本語の話せる医者はいますか。",
+        "reading": "にほんごのはなせるいしゃはいますか。",
+        "english": "Do you know any doctors who speak Japanese?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0008",
+    "character": "地",
+    "meaning": "ground, earth",
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 6,
+    "radical": "土",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "underground train"
+      },
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map"
+      },
+      {
+        "word": "地震",
+        "reading": "じしん",
+        "meaning": "earthquake"
+      },
+      {
+        "word": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "地下鉄で行きたいのです。",
+        "english": "I want to get there by subway."
+      },
+      {
+        "japanese": "地下鉄から出るのに私はもがいた。",
+        "reading": "ちかてつからでるのにわたしはもがいた。",
+        "english": "I struggled to get out of the subway."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0009",
+    "character": "業",
+    "meaning": "business, vocation, arts, performance",
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "strokeCount": 13,
+    "radical": "木",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "授業",
+        "reading": "じゅぎょう",
+        "meaning": "lesson, class work"
+      },
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "the manufacturing industry"
+      },
+      {
+        "word": "産業",
+        "reading": "さんぎょう",
+        "meaning": "industry"
+      },
+      {
+        "word": "卒業",
+        "reading": "そつぎょう",
+        "meaning": "graduation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "それは授業の終わりだった。",
+        "reading": "それはじゅぎょうのおわりだった。",
+        "english": "That was the end of the class."
+      },
+      {
+        "japanese": "そんなに授業をさぼっちゃダメよ。",
+        "reading": "そんなにじゅぎょうをさぼっちゃダメよ。",
+        "english": "Don't cut your classes so often."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0010",
+    "character": "方",
+    "meaning": "direction, person, alternative",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた",
+      "-かた",
+      "-がた"
+    ],
+    "strokeCount": 4,
+    "radical": "方",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "方",
+        "reading": "かた",
+        "meaning": "person, way of doing"
+      },
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "word": "泳ぎ方",
+        "reading": "およぎかた",
+        "meaning": "way of swimming"
+      },
+      {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning": "method"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "こちらはあなたがお話しになるお方です。",
+        "reading": "こちらはあなたがおはなしになるおかたです。",
+        "english": "This is the man for you to speak to."
+      },
+      {
+        "japanese": "お話になる方のお名前は。",
+        "reading": "おはなしになるかたのおなまえは。",
+        "english": "Who do you want to speak to?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0011",
+    "character": "新",
+    "meaning": "new",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら.しい",
+      "あら.た",
+      "あら-",
+      "にい-"
+    ],
+    "strokeCount": 13,
+    "radical": "斤",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "newspaper"
+      },
+      {
+        "word": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "newspaper company"
+      },
+      {
+        "word": "新た",
+        "reading": "あらた",
+        "meaning": "new, fresh, novel"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "先生は新しい車が気に入っている。",
+        "reading": "せんせいはあたらしいくるまがきにいっている。",
+        "english": "Our teacher likes his new car."
+      },
+      {
+        "japanese": "新しいレストランが出来たそうだ。",
+        "reading": "あたらしいレストランができたそうだ。",
+        "english": "It is said that a new restaurant was constructed."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0012",
+    "character": "場",
+    "meaning": "location, place",
+    "onyomi": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "strokeCount": 12,
+    "radical": "土",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "売り場",
+        "reading": "うりば",
+        "meaning": "place where things are sold"
+      },
+      {
+        "word": "会場",
+        "reading": "かいじょう",
+        "meaning": "assembly hall or meeting place"
+      },
+      {
+        "word": "工場",
+        "reading": "こうじょう",
+        "meaning": "factory"
+      },
+      {
+        "word": "駐車場",
+        "reading": "ちゅうしゃじょう",
+        "meaning": "parking lot"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "スナック売り場は、どこですか。",
+        "reading": "スナックうりばは、どこですか。",
+        "english": "Where can I buy snacks?"
+      },
+      {
+        "japanese": "ビタミン剤売り場はどこですか。",
+        "reading": "ビタミンざいうりばはどこですか。",
+        "english": "Where's the aisle for vitamins?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0013",
+    "character": "員",
+    "meaning": "employee, member, number, the one in charge",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "radical": "口",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "shop assistant"
+      },
+      {
+        "word": "委員",
+        "reading": "いいん",
+        "meaning": "committee member"
+      },
+      {
+        "word": "会員",
+        "reading": "かいいん",
+        "meaning": "member, the membership"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "クラブの会員は会議室に集まった。",
+        "reading": "クラブのかいいんはかいぎしつにあつまった。",
+        "english": "The club members assembled in the meeting room."
+      },
+      {
+        "japanese": "私は公務員です。",
+        "reading": "わたしはこうむいんです。",
+        "english": "I'm a government worker."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0014",
+    "character": "立",
+    "meaning": "stand up, rise, set up, erect",
+    "onyomi": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "strokeCount": 5,
+    "radical": "立",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "meaning": "to stand"
+      },
+      {
+        "word": "立てる",
+        "reading": "たてる",
+        "meaning": "to stand something up"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be helpful"
+      },
+      {
+        "word": "立ち上がる",
+        "reading": "たちあがる",
+        "meaning": "to stand up"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "木立の間に家が見える。",
+        "reading": "こだちのあいだにいえがみえる。",
+        "english": "I see a house among the trees."
+      },
+      {
+        "japanese": "われわれはドアのそばに立ってまった。",
+        "reading": "われわれはドアのそばにたってまった。",
+        "english": "We stood at the door and waited."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0015",
+    "character": "開",
+    "meaning": "open, unfold, unseal",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "strokeCount": 12,
+    "radical": "門",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "開く",
+        "reading": "あく",
+        "meaning": "to open, to become open"
+      },
+      {
+        "word": "開ける",
+        "reading": "あける",
+        "meaning": "to open"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "start, commencement, beginning"
+      },
+      {
+        "word": "開会",
+        "reading": "かいかい",
+        "meaning": "opening of a meeting"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ぐいと押すとドアは開いた。",
+        "reading": "ぐいとおすとドアはあいた。",
+        "english": "The door yielded to a strong push."
+      },
+      {
+        "japanese": "ドアはどうしても開かなかった。",
+        "reading": "ドアはどうしてもあかなかった。",
+        "english": "The door would not open."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0016",
+    "character": "手",
+    "meaning": "hand",
+    "onyomi": [
+      "シュ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "strokeCount": 4,
+    "radical": "手",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "bathroom"
+      },
+      {
+        "word": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
+      },
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "meaning": "skillful"
+      },
+      {
+        "word": "手",
+        "reading": "て",
+        "meaning": "hand"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "左手を上げなさい。",
+        "reading": "ひだりてをあげなさい。",
+        "english": "Raise your left hand."
+      },
+      {
+        "japanese": "あちらに着いたら手紙をください。",
+        "reading": "あちらについたらてがみをください。",
+        "english": "Please write to me when you get there."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0017",
+    "character": "力",
+    "meaning": "power, strength, strong, strain",
+    "onyomi": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "kunyomi": [
+      "ちから"
+    ],
+    "strokeCount": 2,
+    "radical": "力",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "strength, power"
+      },
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation, collaboration"
+      },
+      {
+        "word": "強力",
+        "reading": "きょうりょく",
+        "meaning": "powerful, strong"
+      },
+      {
+        "word": "努力",
+        "reading": "どりょく",
+        "meaning": "great effort, exertion, endeavour, effort"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私にはこの石を持ち上げる力がない。",
+        "reading": "わたしにはこのいしをもちあげるちからがない。",
+        "english": "I have no strength to lift this stone."
+      },
+      {
+        "japanese": "柔道では力より技のほうが大切である。",
+        "reading": "じゅうどうではちからよりわざのほうがたいせつである。",
+        "english": "In judo, technique is more important than strength."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0018",
+    "character": "問",
+    "meaning": "question, ask, problem",
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "strokeCount": 11,
+    "radical": "口",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      },
+      {
+        "word": "学問",
+        "reading": "がくもん",
+        "meaning": "scholarship, study, learning"
+      },
+      {
+        "word": "疑問",
+        "reading": "ぎもん",
+        "meaning": "question, problem, doubt, guess"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あの先生に質問してもいいですよ。",
+        "reading": "あのせんせいにしつもんしてもいいですよ。",
+        "english": "You may ask a question of that teacher."
+      },
+      {
+        "japanese": "質問は書いていただけませんか。",
+        "reading": "しつもんはかいていただけませんか。",
+        "english": "Will you put your questions in written form?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0019",
+    "character": "代",
+    "meaning": "substitute, change, convert, replace",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.わる",
+      "かわ.る",
+      "かわ.り",
+      "か.わり",
+      "-がわ.り",
+      "-が.わり",
+      "か.える",
+      "よ",
+      "しろ"
+    ],
+    "strokeCount": 5,
+    "radical": "人",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "代わり",
+        "reading": "かわり",
+        "meaning": "substitute, alternate"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "era"
+      },
+      {
+        "word": "近代",
+        "reading": "きんだい",
+        "meaning": "present day"
+      },
+      {
+        "word": "現代",
+        "reading": "げんだい",
+        "meaning": "nowadays, modern times, present-day"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その缶は灰皿の代わりになる。",
+        "reading": "そのかんははいざらのかわりになる。",
+        "english": "The can will do for an ashtray."
+      },
+      {
+        "japanese": "毎月のガス代はいくらですか。",
+        "english": "How much is your monthly gas bill?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0020",
+    "character": "明",
+    "meaning": "bright, light",
+    "onyomi": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "kunyomi": [
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "strokeCount": 8,
+    "radical": "日",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "meaning": "bright"
+      },
+      {
+        "word": "明日",
+        "reading": "あした",
+        "meaning": "tomorrow"
+      },
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
+      },
+      {
+        "word": "明かり",
+        "reading": "あかり",
+        "meaning": "lamplight, light (in general), brightness"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "外はだんだん明るくなっていく。",
+        "reading": "そとはだんだんあかるくなっていく。",
+        "english": "It is getting lighter outside."
+      },
+      {
+        "japanese": "ダイヤは明るく光った。",
+        "reading": "ダイヤはあかるくひかった。",
+        "english": "The diamond shone brightly."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0021",
+    "character": "動",
+    "meaning": "move, motion, change, confusion",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うご.く",
+      "うご.かす"
+    ],
+    "strokeCount": 11,
+    "radical": "力",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automobile"
+      },
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "animal"
+      },
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "to move"
+      },
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning": "to exercise"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "自動車にひかれたのではないですか。",
+        "reading": "じどうしゃにひかれたのではないですか。",
+        "english": "Wasn't he killed by a car?"
+      },
+      {
+        "japanese": "ぼくの自動車はずいぶんガソリンをくう。",
+        "reading": "ぼくのじどうしゃはずいぶんガソリンをくう。",
+        "english": "My car burns a lot of gas."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0022",
+    "character": "京",
+    "meaning": "capital, 10**16",
+    "onyomi": [
+      "キョウ",
+      "ケイ",
+      "キン"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "strokeCount": 8,
+    "radical": "亠",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "上京",
+        "reading": "じょうきょう",
+        "meaning": "proceeding to the capital (Tokyo)"
+      },
+      {
+        "word": "帰京",
+        "reading": "ききょう",
+        "meaning": "returning to Tokyo"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "これは東京一のインドレストランです。",
+        "reading": "これはとうきょういちのインドレストランです。",
+        "english": "This is the best Indian restaurant anywhere in Tokyo."
+      },
+      {
+        "japanese": "東京ミッドタウンは緑がいっぱい！",
+        "reading": "とうきょうミッドタウンはみどりがいっぱい！",
+        "english": "There's a lot of greenery in Tokyo Midtown!"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0023",
+    "character": "目",
+    "meaning": "eye, class, look, insight",
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "strokeCount": 5,
+    "radical": "目",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "目",
+        "reading": "め",
+        "meaning": "eye"
+      },
+      {
+        "word": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "to meet (someone of higher status)"
+      },
+      {
+        "word": "科目",
+        "reading": "かもく",
+        "meaning": "(school) subject, curriculum, course"
+      },
+      {
+        "word": "注目",
+        "reading": "ちゅうもく",
+        "meaning": "notice, attention, observation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "何としても海をひと目みたいものだ。",
+        "english": "I ache for a sight of the sea."
+      },
+      {
+        "japanese": "大会９日目、ベスト８が出揃った。",
+        "english": "The top eight players survived the ninth day of the tournament."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0024",
+    "character": "通",
+    "meaning": "traffic, pass through, avenue, commute",
+    "onyomi": [
+      "ツウ",
+      "ツ"
+    ],
+    "kunyomi": [
+      "とお.る",
+      "とお.り",
+      "-とお.り",
+      "-どお.り",
+      "とお.す",
+      "とお.し",
+      "-どお.し",
+      "かよ.う"
+    ],
+    "strokeCount": 10,
+    "radical": "辵",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "通う",
+        "reading": "かよう",
+        "meaning": "to commute"
+      },
+      {
+        "word": "交通",
+        "reading": "こうつう",
+        "meaning": "traffic, transportation"
+      },
+      {
+        "word": "通る",
+        "reading": "とおる",
+        "meaning": "to go through"
+      },
+      {
+        "word": "普通",
+        "reading": "ふつう",
+        "meaning": "usually, normally, ordinary, local train (stopping at every station)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "夏の通学服は白と青のチェックです。",
+        "english": "My summer school dress is blue and white checkered."
+      },
+      {
+        "japanese": "レストランやパブは五つ木通りにたくさんあります。",
+        "reading": "レストランやパブはいつつきどおりにたくさんあります。",
+        "english": "Many restaurants and pubs are on Itsutsugi Street."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0025",
+    "character": "言",
+    "meaning": "say, word",
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い.う",
+      "こと"
+    ],
+    "strokeCount": 7,
+    "radical": "言",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "word, language"
+      },
+      {
+        "word": "言わば",
+        "reading": "いわば",
+        "meaning": "so to speak"
+      },
+      {
+        "word": "言語",
+        "reading": "げんご",
+        "meaning": "language"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "「みんなひと休みしようぜ」とジョンは言った。",
+        "english": "John said, \"Hey guys, let's take a break.\""
+      },
+      {
+        "japanese": "さんざん小言をいってやる。",
+        "reading": "さんざんこごとをいってやる。",
+        "english": "I give a good scolding."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0026",
+    "character": "理",
+    "meaning": "logic, arrangement, reason, justice",
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "ことわり"
+    ],
+    "strokeCount": 11,
+    "radical": "玉",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "cuisine"
+      },
+      {
+        "word": "地理",
+        "reading": "ちり",
+        "meaning": "geography"
+      },
+      {
+        "word": "無理",
+        "reading": "むり",
+        "meaning": "impossible"
+      },
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "reason"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "これらのりんごは料理用にもってこいだ。",
+        "reading": "これらのりんごはりょうりようにもってこいだ。",
+        "english": "These apples are good cookers."
+      },
+      {
+        "japanese": "なんておいしい料理なんでしょう。",
+        "reading": "なんておいしいりょうりなんでしょう。",
+        "english": "This dish is terrific."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0027",
+    "character": "体",
+    "meaning": "body, substance, object, reality",
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "strokeCount": 7,
+    "radical": "人",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "体",
+        "reading": "からだ",
+        "meaning": "body"
+      },
+      {
+        "word": "大体",
+        "reading": "だいたい",
+        "meaning": "generally"
+      },
+      {
+        "word": "一体",
+        "reading": "いったい",
+        "meaning": "one object, one body, what on earth?, really?, generally"
+      },
+      {
+        "word": "具体",
+        "reading": "ぐたい",
+        "meaning": "concrete, tangible, material"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "とりわけ体に気をつけなさい。",
+        "reading": "とりわけからだにきをつけなさい。",
+        "english": "Above all, take care of yourself."
+      },
+      {
+        "japanese": "このスカートは体にちょうどよくあう。",
+        "reading": "このスカートはからだにちょうどよくあう。",
+        "english": "This skirt hangs nicely."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0028",
+    "character": "田",
+    "meaning": "rice field, rice paddy",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "strokeCount": 5,
+    "radical": "田",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "meaning": "countryside"
+      },
+      {
+        "word": "田",
+        "reading": "た",
+        "meaning": "rice field"
+      },
+      {
+        "word": "田植え",
+        "reading": "たうえ",
+        "meaning": "rice planting"
+      },
+      {
+        "word": "田んぼ",
+        "reading": "たんぼ",
+        "meaning": "paddy field, farm"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "去年の夏、父の田舎に行きました。",
+        "english": "I visited my father's hometown last summer."
+      },
+      {
+        "japanese": "私はむしろ田舎に一人で住みたい。",
+        "reading": "わたしはむしろいなかにひとりですみたい。",
+        "english": "I would rather live alone in the country."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0029",
+    "character": "主",
+    "meaning": "lord, chief, master, main thing",
+    "onyomi": [
+      "シュ",
+      "ス",
+      "シュウ"
+    ],
+    "kunyomi": [
+      "ぬし",
+      "おも",
+      "あるじ"
+    ],
+    "strokeCount": 5,
+    "radical": "丶",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "御主人",
+        "reading": "ごしゅじん",
+        "meaning": "(honorable) your husband"
+      },
+      {
+        "word": "主に",
+        "reading": "おもに",
+        "meaning": "mainly, primarily"
+      },
+      {
+        "word": "主義",
+        "reading": "しゅぎ",
+        "meaning": "doctrine, rule, principle"
+      },
+      {
+        "word": "主張",
+        "reading": "しゅちょう",
+        "meaning": "claim, request, insistence, assertion"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "犬は少なくとも主人の帰りを待った。",
+        "reading": "いぬはすくなくともしゅじんのかえりをまった。",
+        "english": "The dog waited day after day for its master's return."
+      },
+      {
+        "japanese": "あなたのご主人は食事にうるさいのかな？",
+        "reading": "あなたのごしゅじんはしょくじにうるさいのかな？",
+        "english": "Is your husband a picky eater?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0030",
+    "character": "題",
+    "meaning": "topic, subject",
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 18,
+    "radical": "頁",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "meaning": "homework"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      },
+      {
+        "word": "題",
+        "reading": "だい",
+        "meaning": "title, subject, theme, topic"
+      },
+      {
+        "word": "話題",
+        "reading": "わだい",
+        "meaning": "topic, subject"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "「友情」という題で作文を書きなさい。",
+        "reading": "「ゆうじょう」というだいでさくぶんをかきなさい。",
+        "english": "Write an essay on \"Friendship\"."
+      },
+      {
+        "japanese": "宿題はもうやってしまいましたか。",
+        "reading": "しゅくだいはもうやってしまいましたか。",
+        "english": "Have you done your assignment yet?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0031",
+    "character": "意",
+    "meaning": "idea, mind, heart, taste",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 13,
+    "radical": "心",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "word": "意見",
+        "reading": "いけん",
+        "meaning": "opinion"
+      },
+      {
+        "word": "注意",
+        "reading": "ちゅうい",
+        "meaning": "caution"
+      },
+      {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その語にはいくつかの意味がある。",
+        "reading": "そのごにはいくつかのいみがある。",
+        "english": "The word has several meanings."
+      },
+      {
+        "japanese": "おっしゃる意味がわかりませんが。",
+        "reading": "おっしゃるいみがわかりませんが。",
+        "english": "What you said does not make sense."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0032",
+    "character": "不",
+    "meaning": "negative, non-, bad, ugly",
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 4,
+    "radical": "一",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenience"
+      },
+      {
+        "word": "不",
+        "reading": "ふ",
+        "meaning": "un, non, negative prefix"
+      },
+      {
+        "word": "不安",
+        "reading": "ふあん",
+        "meaning": "anxiety, uneasiness, insecurity, suspense"
+      },
+      {
+        "word": "不可",
+        "reading": "ふか",
+        "meaning": "wrong, bad, improper, unjustifiable, inadvisable"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "宿題を忘れるなんて君は不注意だった。",
+        "reading": "しゅくだいをわすれるなんてきみはふちゅういだった。",
+        "english": "It was careless of you to forget your homework."
+      },
+      {
+        "japanese": "事故はしばしば不注意から生じる。",
+        "reading": "じこはしばしばふちゅういからしょうじる。",
+        "english": "Accidents often result from carelessness."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0033",
+    "character": "作",
+    "meaning": "make, production, prepare, build",
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "strokeCount": 7,
+    "radical": "人",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "作文",
+        "reading": "さくぶん",
+        "meaning": "composition, writing"
+      },
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": "to make"
+      },
+      {
+        "word": "作業",
+        "reading": "さぎょう",
+        "meaning": "work, operation, manufacturing, fatigue duty"
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "work, opus, performance, production"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "紙は木から作られる。",
+        "reading": "かみはきからつくられる。",
+        "english": "Paper is made from wood."
+      },
+      {
+        "japanese": "彼の英作文には９行に９つの誤りがあります。",
+        "english": "His English composition has nine mistakes in as many lines."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0034",
+    "character": "用",
+    "meaning": "utilize, business, service, use",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もち.いる"
+    ],
+    "strokeCount": 5,
+    "radical": "用",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "用",
+        "reading": "よう",
+        "meaning": "use"
+      },
+      {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
+      },
+      {
+        "word": "用事",
+        "reading": "ようじ",
+        "meaning": "things to do"
+      },
+      {
+        "word": "利用",
+        "reading": "りよう",
+        "meaning": "utilization"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "これらのりんごは料理用にもってこいだ。",
+        "reading": "これらのりんごはりょうりようにもってこいだ。",
+        "english": "These apples are good cookers."
+      },
+      {
+        "japanese": "会議室は現在使用中です。",
+        "english": "The meeting room is in use now."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0035",
+    "character": "度",
+    "meaning": "degrees, occurrence, time, counter for occurrences",
+    "onyomi": [
+      "ド",
+      "ト",
+      "タク"
+    ],
+    "kunyomi": [
+      "たび",
+      "-た.い"
+    ],
+    "strokeCount": 9,
+    "radical": "广",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "もう一度",
+        "reading": "もういちど",
+        "meaning": "again"
+      },
+      {
+        "word": "一度",
+        "reading": "いちど",
+        "meaning": "once"
+      },
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "now, next time"
+      },
+      {
+        "word": "支度",
+        "reading": "したく",
+        "meaning": "to prepare"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その映画をもう一度見たいな。",
+        "reading": "そのえいがをもういちどみたいな。",
+        "english": "I want to see the movie again."
+      },
+      {
+        "japanese": "今度の水曜日ならいいですよ。",
+        "reading": "こんどのすいようびならいいですよ。",
+        "english": "Next Wednesday will be fine."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0036",
+    "character": "強",
+    "meaning": "strong",
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "し.いる",
+      "こわ.い"
+    ],
+    "strokeCount": 11,
+    "radical": "弓",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "powerful"
+      },
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "to study"
+      },
+      {
+        "word": "強調",
+        "reading": "きょうちょう",
+        "meaning": "emphasis, stress, stressed point"
+      },
+      {
+        "word": "強力",
+        "reading": "きょうりょく",
+        "meaning": "powerful, strong"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "トラとライオンとどちらが強いか。",
+        "reading": "トラとライオンとどちらがつよいか。",
+        "english": "Which is stronger, a tiger or a lion?"
+      },
+      {
+        "japanese": "あの小学校はサッカーが強い。",
+        "reading": "あのしょうがっこうはサッカーがつよい。",
+        "english": "That primary school has a strong soccer team."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0037",
+    "character": "公",
+    "meaning": "public, prince, official, governmental",
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "strokeCount": 4,
+    "radical": "八",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "government worker"
+      },
+      {
+        "word": "公平",
+        "reading": "こうへい",
+        "meaning": "fairness, impartial, justice"
+      },
+      {
+        "word": "公害",
+        "reading": "こうがい",
+        "meaning": "public nuisance, pollution"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この公園はすべての人に公開されている。",
+        "reading": "このこうえんはすべてのひとにこうかいされている。",
+        "english": "The park is open to everybody."
+      },
+      {
+        "japanese": "二つの公園の間に川がありますか。",
+        "reading": "ふたつのこうえんのあいだにかわがありますか。",
+        "english": "Is there a river between the two parks?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0038",
+    "character": "持",
+    "meaning": "hold, have",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "も.つ",
+      "-も.ち",
+      "も.てる"
+    ],
+    "strokeCount": 9,
+    "radical": "手",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold"
+      },
+      {
+        "word": "お金持ち",
+        "reading": "おかねもち",
+        "meaning": "rich man"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling, mood"
+      },
+      {
+        "word": "維持",
+        "reading": "いじ",
+        "meaning": "maintenance, preservation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ペンか鉛筆を持っていますか。",
+        "reading": "ペンかえんぴつをもっていますか。",
+        "english": "Do you have a pen or a pencil?"
+      },
+      {
+        "japanese": "きみは何と大きい家を持っているんだろう。",
+        "reading": "きみはなんとおおきいいえをもっているんだろう。",
+        "english": "What a big house you have!"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0039",
+    "character": "野",
+    "meaning": "plains, field, rustic, civilian life",
+    "onyomi": [
+      "ヤ",
+      "ショ"
+    ],
+    "kunyomi": [
+      "の",
+      "の-"
+    ],
+    "strokeCount": 11,
+    "radical": "里",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "野菜",
+        "reading": "やさい",
+        "meaning": "vegetable"
+      },
+      {
+        "word": "野",
+        "reading": "の",
+        "meaning": "field"
+      },
+      {
+        "word": "分野",
+        "reading": "ぶんや",
+        "meaning": "field, sphere, realm, division, branch"
+      },
+      {
+        "word": "平野",
+        "reading": "へいや",
+        "meaning": "plain, open field"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その店は野菜を売っている。",
+        "reading": "そのみせはやさいをうっている。",
+        "english": "The store deals in vegetables."
+      },
+      {
+        "japanese": "野菜をたくさん食べなさい。",
+        "reading": "やさいをたくさんたべなさい。",
+        "english": "Eat a lot of vegetables."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0040",
+    "character": "以",
+    "meaning": "by means of, because, in view of, compared with",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "もっ.て"
+    ],
+    "strokeCount": 5,
+    "radical": "人",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "以下",
+        "reading": "いか",
+        "meaning": "less than"
+      },
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "with the exception of"
+      },
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "more than, this is all"
+      },
+      {
+        "word": "以内",
+        "reading": "いない",
+        "meaning": "within"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "月曜日以外ならいつでもいいですよ。",
+        "reading": "げつようびいがいならいつでもいいですよ。",
+        "english": "Any day will do except Monday."
+      },
+      {
+        "japanese": "それは千円以下では買えません。",
+        "reading": "それはせんえんいかではかえません。",
+        "english": "You can't buy it under 1,000 yen."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0041",
+    "character": "思",
+    "meaning": "think",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おも.う",
+      "おもえら.く",
+      "おぼ.す"
+    ],
+    "strokeCount": 9,
+    "radical": "心",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember"
+      },
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think, to feel"
+      },
+      {
+        "word": "意思",
+        "reading": "いし",
+        "meaning": "intention, purpose"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "meaning": "memories, recollections, reminiscence"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたを見るとお兄さんを思い出します。",
+        "reading": "あなたをみるとおにいさんをおもいだします。",
+        "english": "You remind me of your brother."
+      },
+      {
+        "japanese": "「雨がすぐあがるでしょうか」「あがらないと思うよ」",
+        "reading": "「あめがすぐあがるでしょうか」「あがらないとおもうよ」",
+        "english": "\"Will it stop raining soon?\" \"I'm afraid not.\""
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0042",
+    "character": "家",
+    "meaning": "house, home, family, professional",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "strokeCount": 10,
+    "radical": "宀",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "house"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      },
+      {
+        "word": "家庭",
+        "reading": "かてい",
+        "meaning": "household"
+      },
+      {
+        "word": "家内",
+        "reading": "かない",
+        "meaning": "housewife"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その家は赤レンガづくりです。",
+        "reading": "そのいえはあかレンガづくりです。",
+        "english": "The house is built of red bricks."
+      },
+      {
+        "japanese": "木立の間に家が見える。",
+        "reading": "こだちのあいだにいえがみえる。",
+        "english": "I see a house among the trees."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0043",
+    "character": "世",
+    "meaning": "generation, world, society, public",
+    "onyomi": [
+      "セイ",
+      "セ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "strokeCount": 5,
+    "radical": "一",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "the world"
+      },
+      {
+        "word": "世話",
+        "reading": "せわ",
+        "meaning": "to look after"
+      },
+      {
+        "word": "世紀",
+        "reading": "せいき",
+        "meaning": "century, era"
+      },
+      {
+        "word": "世間",
+        "reading": "せけん",
+        "meaning": "world, society"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "おじいさんの世話をする。",
+        "reading": "おじいさんのせわをする。",
+        "english": "I take care of my grandfather."
+      },
+      {
+        "japanese": "あなたはペットの世話ができない。",
+        "reading": "あなたはペットのせわができない。",
+        "english": "You can't care for pets."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0044",
+    "character": "多",
+    "meaning": "many, frequent, much",
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "strokeCount": 6,
+    "radical": "夕",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "meaning": "many"
+      },
+      {
+        "word": "多少",
+        "reading": "たしょう",
+        "meaning": "more or less, somewhat, a little, some"
+      },
+      {
+        "word": "滅多に",
+        "reading": "めったに",
+        "meaning": "rarely (with neg. verb), seldom"
+      },
+      {
+        "word": "幾多",
+        "reading": "いくた",
+        "meaning": "many, numerous"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この学校は男子よりも女子が多い。",
+        "reading": "このがっこうはだんしよりもじょしがおおい。",
+        "english": "There are more girls than boys in this school."
+      },
+      {
+        "japanese": "そこには、水が多かったからである。",
+        "reading": "そこには、みずがおおかったからである。",
+        "english": "Because there was plenty of water..."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0045",
+    "character": "正",
+    "meaning": "correct, justice, righteous, 10**40",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "strokeCount": 5,
+    "radical": "止",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "正しい",
+        "reading": "ただしい",
+        "meaning": "correct"
+      },
+      {
+        "word": "修正",
+        "reading": "しゅうせい",
+        "meaning": "amendment, correction, revision, modification"
+      },
+      {
+        "word": "正午",
+        "reading": "しょうご",
+        "meaning": "noon, mid-day"
+      },
+      {
+        "word": "正直",
+        "reading": "しょうじき",
+        "meaning": "honesty, integrity, frankness"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
+        "english": "School busing and taking a proactive stance against discrimination were hotly debated topics."
+      },
+      {
+        "japanese": "雨が正午前にはやむよう祈っていたのですが。",
+        "reading": "あめがしょうご#1392580にはやむよういのっていたのですが。",
+        "english": "We had hoped that the rain would stop before noon."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0046",
+    "character": "安",
+    "meaning": "relax, cheap, low, quiet",
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "strokeCount": 6,
+    "radical": "宀",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "cheap"
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "safety"
+      },
+      {
+        "word": "安定",
+        "reading": "あんてい",
+        "meaning": "stability, equilibrium"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この帽子は１０００円なら安い。",
+        "reading": "このぼうしは１０００えんならやすい。",
+        "english": "This hat is cheap at 1000 yen."
+      },
+      {
+        "japanese": "もっと安いものを見せてください。",
+        "reading": "もっとやすいものをみせてください。",
+        "english": "Show me a cheaper one, please."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0047",
+    "character": "院",
+    "meaning": "Inst., institution, temple, mansion",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "radical": "阜",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital"
+      },
+      {
+        "word": "退院",
+        "reading": "たいいん",
+        "meaning": "to leave hospital"
+      },
+      {
+        "word": "入院",
+        "reading": "にゅういん",
+        "meaning": "to hospitalise"
+      },
+      {
+        "word": "寺院",
+        "reading": "じいん",
+        "meaning": "temple"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この近くに病院はありますか。",
+        "reading": "このちかくにびょういんはありますか。",
+        "english": "Is there a hospital near here?"
+      },
+      {
+        "japanese": "病院まで１０マイルもある。",
+        "reading": "びょういんまで１０マイルもある。",
+        "english": "It is no less than ten miles to the hospital."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0048",
+    "character": "心",
+    "meaning": "heart, mind, spirit, heart radical (no. 61)",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ",
+      "-ごころ"
+    ],
+    "strokeCount": 4,
+    "radical": "心",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
+      },
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "core, heart"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "meaning": "to worry"
+      },
+      {
+        "word": "感心",
+        "reading": "かんしん",
+        "meaning": "admiration, Well done!"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あいつに仕事を任せておけば安心だ。",
+        "reading": "あいつにしごとをまかせておけばあんしんだ。",
+        "english": "You can trust him with any job."
+      },
+      {
+        "japanese": "私はそのことについては安心している。",
+        "reading": "わたしはそのことについてはあんしんしている。",
+        "english": "I feel at ease about it."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0049",
+    "character": "界",
+    "meaning": "world, boundary",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "radical": "田",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "the world"
+      },
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "limit, bound"
+      },
+      {
+        "word": "境界",
+        "reading": "きょうかい",
+        "meaning": "boundary"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "世界には四つの海洋がある。",
+        "reading": "せかいにはよっつのかいようがある。",
+        "english": "There are four oceans in the world."
+      },
+      {
+        "japanese": "この世界の教育にはがっかりしてしまう。",
+        "reading": "このせかいのきょういくにはがっかりしてしまう。",
+        "english": "Education in this world disappoints me."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0050",
+    "character": "教",
+    "meaning": "teach, faith, doctrine",
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "strokeCount": 11,
+    "radical": "攴",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach, to tell"
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
+      },
+      {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning": "education"
+      },
+      {
+        "word": "教会",
+        "reading": "きょうかい",
+        "meaning": "church"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "生年月日を教えてくださいますか？",
+        "reading": "せいねんがっぴをおしえてくださいますか？",
+        "english": "May I have your birth date?"
+      },
+      {
+        "japanese": "あの学校では中国語を教えている。",
+        "reading": "あのがっこうではちゅうごくごをおしえている。",
+        "english": "They teach Chinese at that school."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0051",
+    "character": "文",
+    "meaning": "sentence, literature, style, art",
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "ふみ",
+      "あや"
+    ],
+    "strokeCount": 4,
+    "radical": "文",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "作文",
+        "reading": "さくぶん",
+        "meaning": "composition, writing"
+      },
+      {
+        "word": "文章",
+        "reading": "ぶんしょう",
+        "meaning": "sentence, text"
+      },
+      {
+        "word": "文化",
+        "reading": "ぶんか",
+        "meaning": "culture"
+      },
+      {
+        "word": "文学",
+        "reading": "ぶんがく",
+        "meaning": "literature"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "彼の英作文には９行に９つの誤りがあります。",
+        "english": "His English composition has nine mistakes in as many lines."
+      },
+      {
+        "japanese": "作文は書いてしまいましたか。",
+        "reading": "さくぶんはかいてしまいましたか。",
+        "english": "Have you finished writing your composition?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0052",
+    "character": "元",
+    "meaning": "beginning, former time, origin",
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "strokeCount": 4,
+    "radical": "儿",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "health, vitality"
+      },
+      {
+        "word": "元",
+        "reading": "もと",
+        "meaning": "origin, original, former"
+      },
+      {
+        "word": "元々",
+        "reading": "もともと",
+        "meaning": "originally, by nature, from the start"
+      },
+      {
+        "word": "還元",
+        "reading": "かんげん",
+        "meaning": "resolution, reduction, return to origins"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "トムのおばあさんは元気そうですよ。",
+        "reading": "トムのおばあさんはげんきそうですよ。",
+        "english": "Tom's grandmother looks healthy."
+      },
+      {
+        "japanese": "こんにちは、ロジャー。とっても元気よ。",
+        "reading": "こんにちは、ロジャー。とってもげんきよ。",
+        "english": "Hi, Roger. I'm pretty good!"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0053",
+    "character": "重",
+    "meaning": "heavy, important, esteem, respect",
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "strokeCount": 9,
+    "radical": "里",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "meaning": "heavy"
+      },
+      {
+        "word": "貴重",
+        "reading": "きちょう",
+        "meaning": "precious, valuable"
+      },
+      {
+        "word": "重視",
+        "reading": "じゅうし",
+        "meaning": "importance, stress, serious consideration"
+      },
+      {
+        "word": "重大",
+        "reading": "じゅうだい",
+        "meaning": "serious, important, grave, weighty"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "トムはジャックよりも１０ポンド重い。",
+        "reading": "トムはジャックよりも１０ポンドおもい。",
+        "english": "Tom is heavier than Jack by ten pounds."
+      },
+      {
+        "japanese": "この本はあの本ほど重くない。",
+        "reading": "このほんはあのほんほどおもくない。",
+        "english": "This book isn't as heavy as that book."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0054",
+    "character": "近",
+    "meaning": "near, early, akin, tantamount",
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "strokeCount": 7,
+    "radical": "辵",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "近い",
+        "reading": "ちかい",
+        "meaning": "near"
+      },
+      {
+        "word": "近く",
+        "reading": "ちかく",
+        "meaning": "near"
+      },
+      {
+        "word": "近所",
+        "reading": "きんじょ",
+        "meaning": "neighbourhood"
+      },
+      {
+        "word": "最近",
+        "reading": "さいきん",
+        "meaning": "latest, nowadays"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この近くに映画館はありますか。",
+        "reading": "このちかくにえいがかんはありますか。",
+        "english": "Are there any movie theaters near here?"
+      },
+      {
+        "japanese": "クリスマスが近くなってきた。",
+        "reading": "クリスマスがちかくなってきた。",
+        "english": "Christmas is fast approaching."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0055",
+    "character": "考",
+    "meaning": "consider, think over",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが.える",
+      "かんが.え"
+    ],
+    "strokeCount": 6,
+    "radical": "老",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "to consider"
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "thinking, thought, ideas, intention"
+      },
+      {
+        "word": "考慮",
+        "reading": "こうりょ",
+        "meaning": "consideration, taking into account"
+      },
+      {
+        "word": "参考",
+        "reading": "さんこう",
+        "meaning": "reference, consultation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なんで彼は考えを変えたのか。",
+        "reading": "なんでかれはかんがえをかえたのか。",
+        "english": "What made him change his mind?"
+      },
+      {
+        "japanese": "父さんは考えを変えると思うかい。",
+        "reading": "とうさんはかんがえをかえるとおもうかい。",
+        "english": "Do you think Dad will change his mind?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0056",
+    "character": "画",
+    "meaning": "brush-stroke, picture",
+    "onyomi": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "strokeCount": 8,
+    "radical": "田",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie"
+      },
+      {
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": "cinema"
+      },
+      {
+        "word": "計画",
+        "reading": "けいかく",
+        "meaning": "to plan"
+      },
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "meaning": "comic"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その映画をもう一度見たいな。",
+        "reading": "そのえいがをもういちどみたいな。",
+        "english": "I want to see the movie again."
+      },
+      {
+        "japanese": "映画を見に行こうではないですか。",
+        "reading": "えいがをみにいこうではないですか。",
+        "english": "What do you say to going to the movies?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0057",
+    "character": "海",
+    "meaning": "sea, ocean",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "strokeCount": 9,
+    "radical": "水",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "sea"
+      },
+      {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning": "coast"
+      },
+      {
+        "word": "海外",
+        "reading": "かいがい",
+        "meaning": "foreign, abroad, overseas"
+      },
+      {
+        "word": "海水浴",
+        "reading": "かいすいよく",
+        "meaning": "sea bathing, seawater bath"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "何としても海をひと目みたいものだ。",
+        "english": "I ache for a sight of the sea."
+      },
+      {
+        "japanese": "海までは、たった１マイルです。",
+        "reading": "うみまでは、たった１マイルです。",
+        "english": "It is no more than a mile to the sea."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0058",
+    "character": "売",
+    "meaning": "sell",
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "strokeCount": 7,
+    "radical": "士",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "売る",
+        "reading": "うる",
+        "meaning": "to sell"
+      },
+      {
+        "word": "売り場",
+        "reading": "うりば",
+        "meaning": "place where things are sold"
+      },
+      {
+        "word": "売れる",
+        "reading": "うれる",
+        "meaning": "to be sold"
+      },
+      {
+        "word": "商売",
+        "reading": "しょうばい",
+        "meaning": "trade, business, commerce, transaction, occupation"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "トムはメアリーにバイクを売った。",
+        "reading": "トムはメアリーにバイクをうった。",
+        "english": "Tom sold his motorcycle to Mary."
+      },
+      {
+        "japanese": "バターは１ポンドいくらで売られる。",
+        "reading": "バターは１ポンドいくらでうられる。",
+        "english": "Butter is sold by the pound."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0059",
+    "character": "知",
+    "meaning": "know, wisdom",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し.る",
+      "し.らせる"
+    ],
+    "strokeCount": 8,
+    "radical": "矢",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "to know"
+      },
+      {
+        "word": "承知",
+        "reading": "しょうち",
+        "meaning": "to consent"
+      },
+      {
+        "word": "知らせる",
+        "reading": "しらせる",
+        "meaning": "to notify"
+      },
+      {
+        "word": "知らせ",
+        "reading": "しらせ",
+        "meaning": "notice"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なぜ空が青いか知っているか。",
+        "reading": "なぜそらがあおいかしっているか。",
+        "english": "Do you know why the sky is blue?"
+      },
+      {
+        "japanese": "ぼくは知らないし、気にもしない。",
+        "reading": "ぼくはしらないし、きにもしない。",
+        "english": "I don't know, nor do I care."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0060",
+    "character": "道",
+    "meaning": "road-way, street, district, journey",
+    "onyomi": [
+      "ドウ",
+      "トウ"
+    ],
+    "kunyomi": [
+      "みち",
+      "いう"
+    ],
+    "strokeCount": 12,
+    "radical": "辵",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "street"
+      },
+      {
+        "word": "柔道",
+        "reading": "じゅうどう",
+        "meaning": "judo"
+      },
+      {
+        "word": "水道",
+        "reading": "すいどう",
+        "meaning": "water supply"
+      },
+      {
+        "word": "道具",
+        "reading": "どうぐ",
+        "meaning": "tool, means"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "おまわりさんに道を尋ねなさい。",
+        "reading": "おまわりさんにみちをたずねなさい。",
+        "english": "Ask the policeman the way."
+      },
+      {
+        "japanese": "二本の道はそこでクロスしている。",
+        "reading": "にほんのみちはそこでクロスしている。",
+        "english": "The two roads cross there."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0061",
+    "character": "集",
+    "meaning": "gather, meet, congregate, swarm",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "strokeCount": 12,
+    "radical": "隹",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "to gather"
+      },
+      {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "to collect something"
+      },
+      {
+        "word": "集まり",
+        "reading": "あつまり",
+        "meaning": "gathering, meeting, assembly, collection"
+      },
+      {
+        "word": "集団",
+        "reading": "しゅうだん",
+        "meaning": "group, mass"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "通りに人がたくさん集まっている。",
+        "reading": "とおりにひとがたくさんあつまっている。",
+        "english": "There is a crowd of people on the street."
+      },
+      {
+        "japanese": "たくさんの学生がそこに集まった。",
+        "reading": "たくさんのがくせいがそこにあつまった。",
+        "english": "Dozens of students gathered there."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0062",
+    "character": "別",
+    "meaning": "separate, branch off, diverge, fork",
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "わか.れる",
+      "わ.ける"
+    ],
+    "strokeCount": 7,
+    "radical": "刀",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "特別",
+        "reading": "とくべつ",
+        "meaning": "special"
+      },
+      {
+        "word": "別",
+        "reading": "べつ",
+        "meaning": "different"
+      },
+      {
+        "word": "別れる",
+        "reading": "わかれる",
+        "meaning": "to separate"
+      },
+      {
+        "word": "区別",
+        "reading": "くべつ",
+        "meaning": "distinction, differentiation, classification"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
+        "english": "School busing and taking a proactive stance against discrimination were hotly debated topics."
+      },
+      {
+        "japanese": "お別れのあいさつに来ました。",
+        "reading": "おわかれのあいさつにきました。",
+        "english": "I've come to say goodbye."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0063",
+    "character": "物",
+    "meaning": "thing, object, matter",
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの",
+      "もの-"
+    ],
+    "strokeCount": 8,
+    "radical": "牛",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "買い物",
+        "reading": "かいもの",
+        "meaning": "shopping"
+      },
+      {
+        "word": "果物",
+        "reading": "くだもの",
+        "meaning": "fruit"
+      },
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "meaning": "building"
+      },
+      {
+        "word": "食べ物",
+        "reading": "たべもの",
+        "meaning": "food"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "１日おきに買い物に行く。",
+        "english": "I go shopping every other day."
+      },
+      {
+        "japanese": "ジェーンは買い物に出かけている。",
+        "reading": "ジェーンはかいものにでかけている。",
+        "english": "Jane is out shopping."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0064",
+    "character": "使",
+    "meaning": "use, send on a mission, order, messenger",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
+    ],
+    "strokeCount": 8,
+    "radical": "人",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embassy"
+      },
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": "to use"
+      },
+      {
+        "word": "使用",
+        "reading": "しよう",
+        "meaning": "use, application, employment, utilization"
+      },
+      {
+        "word": "大使",
+        "reading": "たいし",
+        "meaning": "ambassador"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ＬＬ教室を使ってもよいですか。",
+        "reading": "ＬＬきょうしつをつかってもよいですか。",
+        "english": "May we use the language lab?"
+      },
+      {
+        "japanese": "日本大使館はどこにありますか。",
+        "english": "Where is the Japanese Embassy?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0065",
+    "character": "品",
+    "meaning": "goods, refinement, dignity, article",
+    "onyomi": [
+      "ヒン",
+      "ホン"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "strokeCount": 9,
+    "radical": "口",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "品物",
+        "reading": "しなもの",
+        "meaning": "goods"
+      },
+      {
+        "word": "食料品",
+        "reading": "しょくりょうひん",
+        "meaning": "groceries"
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "work, opus, performance, production"
+      },
+      {
+        "word": "品",
+        "reading": "しな",
+        "meaning": "thing, article, goods, dignity, article (goods), counter for meal courses"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "同社は醤油その他の食品を生産する。",
+        "reading": "どうしゃはしょうゆそのほかのしょくひんをせいさんする。",
+        "english": "The company produces soy sauce and other food products."
+      },
+      {
+        "japanese": "これらの品物は非売品です。",
+        "reading": "これらのしなものはひばいひんです。",
+        "english": "These articles are not for sale."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0066",
+    "character": "計",
+    "meaning": "plot, plan, scheme, measure",
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか.る",
+      "はか.らう"
+    ],
+    "strokeCount": 9,
+    "radical": "言",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "時計",
+        "reading": "とけい",
+        "meaning": "watch, clock"
+      },
+      {
+        "word": "計画",
+        "reading": "けいかく",
+        "meaning": "to plan"
+      },
+      {
+        "word": "会計",
+        "reading": "かいけい",
+        "meaning": "account, finance, accountant"
+      },
+      {
+        "word": "計",
+        "reading": "けい",
+        "meaning": "plan"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたの時計では何時ですか。",
+        "reading": "あなたのとけいではなんじですか。",
+        "english": "What time is it by your watch?"
+      },
+      {
+        "japanese": "この時計はせいぜい１０ドルだ。",
+        "reading": "このとけいはせいぜい１０ドルだ。",
+        "english": "This watch costs ten dollars at the most."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0067",
+    "character": "死",
+    "meaning": "death, die",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し.ぬ",
+      "し.に-"
+    ],
+    "strokeCount": 6,
+    "radical": "歹",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      },
+      {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning": "death, mortality"
+      },
+      {
+        "word": "必死",
+        "reading": "ひっし",
+        "meaning": "inevitable death, desperation, frantic, inevitable result"
+      },
+      {
+        "word": "死体",
+        "reading": "したい",
+        "meaning": "corpse"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その少年は死んだものとしてあきらめられた。",
+        "reading": "そのしょうねんはしんだものとしてあきらめられた。",
+        "english": "The boy was given up for dead."
+      },
+      {
+        "japanese": "生きるものはすべていつかは死ぬ。",
+        "reading": "いきるものはすべていつかはしぬ。",
+        "english": "All living things die some day."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0068",
+    "character": "特",
+    "meaning": "special",
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "radical": "牛",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "特に",
+        "reading": "とくに",
+        "meaning": "particularly, especially"
+      },
+      {
+        "word": "特別",
+        "reading": "とくべつ",
+        "meaning": "special"
+      },
+      {
+        "word": "特急",
+        "reading": "とっきゅう",
+        "meaning": "limited express train (faster than an express train)"
+      },
+      {
+        "word": "特徴",
+        "reading": "とくちょう",
+        "meaning": "feature, characteristic"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "特定の食べ物を食べた後に、胸やけがするのですか？",
+        "english": "Do you get heartburn after eating certain foods?"
+      },
+      {
+        "japanese": "ここは特に朝は交通がはげしい。",
+        "reading": "ここはとくにあさはこうつうがはげしい。",
+        "english": "The traffic is heavy here, especially in the morning."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0069",
+    "character": "私",
+    "meaning": "private, I, me",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたくし",
+      "わたし"
+    ],
+    "strokeCount": 7,
+    "radical": "禾",
+    "grade": 6,
+    "exampleWords": [
+      {
+        "word": "私",
+        "reading": "わたくし",
+        "meaning": "(humble) I, myself"
+      },
+      {
+        "word": "私鉄",
+        "reading": "してつ",
+        "meaning": "private railway"
+      },
+      {
+        "word": "私立",
+        "reading": "しりつ",
+        "meaning": "private (establishment)"
+      },
+      {
+        "word": "私物",
+        "reading": "しぶつ",
+        "meaning": "private property, personal effects"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "姉は私のズボンにアイロンをかけてくれる。",
+        "english": "My sister presses my trousers."
+      },
+      {
+        "japanese": "私はエレベーターで下におりた。",
+        "reading": "わたしはエレベーターでしたにおりた。",
+        "english": "I went down by elevator."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0070",
+    "character": "始",
+    "meaning": "commence, begin",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "strokeCount": 8,
+    "radical": "女",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": "to begin"
+      },
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "to begin"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "start, commencement, beginning"
+      },
+      {
+        "word": "始まり",
+        "reading": "はじまり",
+        "meaning": "origin, beginning"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私たちは商売をゼロから始めなければならなかった。",
+        "reading": "わたしたちはしょうばいをゼロからはじめなければならなかった。",
+        "english": "We had to start our business from zero."
+      },
+      {
+        "japanese": "今コンサートが始まろうとしている。",
+        "reading": "いまコンサートがはじまろうとしている。",
+        "english": "The concert is beginning now."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0071",
+    "character": "朝",
+    "meaning": "morning, dynasty, regime, epoch",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "strokeCount": 12,
+    "radical": "月",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": "morning"
+      },
+      {
+        "word": "朝ごはん",
+        "reading": "あさごはん",
+        "meaning": "breakfast"
+      },
+      {
+        "word": "今朝",
+        "reading": "けさ",
+        "meaning": "this morning"
+      },
+      {
+        "word": "毎朝",
+        "reading": "まいあさ",
+        "meaning": "every morning"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "朝のラッシュは今がピークだ。",
+        "reading": "あさのラッシュはいまがピークだ。",
+        "english": "The morning rush is at its peak now."
+      },
+      {
+        "japanese": "ジョージは朝にたくさんのチーズを食べた。",
+        "reading": "ジョージはあさにたくさんのチーズをたべた。",
+        "english": "George had a lot of cheese for breakfast."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0072",
+    "character": "運",
+    "meaning": "carry, luck, destiny, fate",
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "はこ.ぶ"
+    ],
+    "strokeCount": 12,
+    "radical": "辵",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "meaning": "to drive"
+      },
+      {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "meaning": "driver"
+      },
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning": "to exercise"
+      },
+      {
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "to transport"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "車の運転を習っています。",
+        "reading": "くるまのうんてんをならっています。",
+        "english": "I've been learning to drive."
+      },
+      {
+        "japanese": "週に一度でいいから運動しなさい。",
+        "reading": "しゅうにいちどでいいからうんどうしなさい。",
+        "english": "Try to exercise at least once a week."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0073",
+    "character": "終",
+    "meaning": "end, finish",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "お.わる",
+      "-お.わる",
+      "おわ.る",
+      "お.える",
+      "つい",
+      "つい.に"
+    ],
+    "strokeCount": 11,
+    "radical": "糸",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "終る",
+        "reading": "おわる",
+        "meaning": "to finish"
+      },
+      {
+        "word": "終わり",
+        "reading": "おわり",
+        "meaning": "the end"
+      },
+      {
+        "word": "終える",
+        "reading": "おえる",
+        "meaning": "to finish"
+      },
+      {
+        "word": "最終",
+        "reading": "さいしゅう",
+        "meaning": "last, final, closing"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "すっかり食べ終わってはいない。",
+        "reading": "すっかりたべおわってはいない。",
+        "english": "I haven't quite finished eating."
+      },
+      {
+        "japanese": "そのコンサートは十時に終わった。",
+        "english": "The concert came to an end at ten o'clock."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0074",
+    "character": "台",
+    "meaning": "pedestal, a stand, counter for machines and vehicles",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "strokeCount": 5,
+    "radical": "口",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      },
+      {
+        "word": "台",
+        "reading": "だい",
+        "meaning": "stand, rack, table, support"
+      },
+      {
+        "word": "舞台",
+        "reading": "ぶたい",
+        "meaning": "stage (theatre)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "１台の車が入り口に止まった。",
+        "english": "A car stopped at the entrance."
+      },
+      {
+        "japanese": "ルーシーは今台所にいるでしょう。",
+        "reading": "ルーシーはいまだいどころにいるでしょう。",
+        "english": "Lucy should be in the kitchen now."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0075",
+    "character": "広",
+    "meaning": "wide, broad, spacious",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
+    ],
+    "strokeCount": 5,
+    "radical": "广",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "背広",
+        "reading": "せびろ",
+        "meaning": "business suit"
+      },
+      {
+        "word": "広い",
+        "reading": "ひろい",
+        "meaning": "spacious, wide"
+      },
+      {
+        "word": "広告",
+        "reading": "こうこく",
+        "meaning": "advertisement"
+      },
+      {
+        "word": "広がる",
+        "reading": "ひろがる",
+        "meaning": "to spread (out), to extend, to stretch, to reach to, to get around"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私は新しい背広を買った。",
+        "reading": "わたしはあたらしいせびろをかった。",
+        "english": "I bought a new suit of clothes."
+      },
+      {
+        "japanese": "彼はくたくたの背広を着ていた。",
+        "reading": "かれはくたくたのせびろをきていた。",
+        "english": "He was wearing a threadbare suit."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0076",
+    "character": "住",
+    "meaning": "dwell, reside, live, inhabit",
+    "onyomi": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
+    ],
+    "kunyomi": [
+      "す.む",
+      "す.まう",
+      "-ず.まい"
+    ],
+    "strokeCount": 7,
+    "radical": "人",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "住む",
+        "reading": "すむ",
+        "meaning": "to live in"
+      },
+      {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "an address, a residence"
+      },
+      {
+        "word": "住宅",
+        "reading": "じゅうたく",
+        "meaning": "resident, housing"
+      },
+      {
+        "word": "住民",
+        "reading": "じゅうみん",
+        "meaning": "citizens, inhabitants, residents, population"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "どうしてアメリカに住んでいたの？",
+        "reading": "どうしてアメリカにすんでいたの？",
+        "english": "Why did he live in the United States?"
+      },
+      {
+        "japanese": "ここにかつて住んでいたのですか。",
+        "reading": "ここにかつてすんでいたのですか。",
+        "english": "Did you use to live here?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0077",
+    "character": "真",
+    "meaning": "true, reality, Buddhist sect",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "strokeCount": 10,
+    "radical": "目",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "photograph"
+      },
+      {
+        "word": "真ん中",
+        "reading": "まんなか",
+        "meaning": "middle"
+      },
+      {
+        "word": "真剣",
+        "reading": "しんけん",
+        "meaning": "seriousness, earnestness"
+      },
+      {
+        "word": "真っ赤",
+        "reading": "まっか",
+        "meaning": "deep red, flushed (of face)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なんてキレイな写真なんでしょう。",
+        "reading": "なんてキレイなしゃしんなんでしょう。",
+        "english": "What a beautiful picture!"
+      },
+      {
+        "japanese": "ここにあなたに見せる写真がある。",
+        "reading": "ここにあなたにみせるしゃしんがある。",
+        "english": "Here is a picture to show you."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0078",
+    "character": "有",
+    "meaning": "possess, have, exist, happen",
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "strokeCount": 6,
+    "radical": "月",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famous"
+      },
+      {
+        "word": "有効",
+        "reading": "ゆうこう",
+        "meaning": "validity, availability, effectiveness"
+      },
+      {
+        "word": "有能",
+        "reading": "ゆうのう",
+        "meaning": "able, capable, efficient, skill"
+      },
+      {
+        "word": "有利",
+        "reading": "ゆうり",
+        "meaning": "advantageous, better, profitable, lucrative"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "そのホテルは食事で有名である。",
+        "reading": "そのホテルはしょくじでゆうめいである。",
+        "english": "The hotel is noted for its food."
+      },
+      {
+        "japanese": "トーマス先生はとても有名な先生です。",
+        "english": "Mr Thomas is a very able teacher."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0079",
+    "character": "口",
+    "meaning": "mouth",
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "strokeCount": 3,
+    "radical": "口",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrance"
+      },
+      {
+        "word": "口",
+        "reading": "くち",
+        "meaning": "mouth, opening"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit"
+      },
+      {
+        "word": "人口",
+        "reading": "じんこう",
+        "meaning": "population"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "１台の車が入り口に止まった。",
+        "english": "A car stopped at the entrance."
+      },
+      {
+        "japanese": "数人の人が入り口でぶらついていた。",
+        "reading": "すうにんのひとがいりぐちでぶらついていた。",
+        "english": "Some people were hanging around at the entrance."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0080",
+    "character": "少",
+    "meaning": "few, little",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "strokeCount": 4,
+    "radical": "小",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "少ない",
+        "reading": "すくない",
+        "meaning": "a few"
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "meaning": "few"
+      },
+      {
+        "word": "少女",
+        "reading": "しょうじょ",
+        "meaning": "daughter, young lady, virgin, maiden, little girl"
+      },
+      {
+        "word": "少々",
+        "reading": "しょうしょう",
+        "meaning": "just a minute, small quantity"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "コックさんは少しもかけていない。",
+        "reading": "コックさんはすこしもかけていない。",
+        "english": "The cook hasn't put any on it."
+      },
+      {
+        "japanese": "このスープは塩が少し足りない。",
+        "reading": "このスープはしおがすこしたりない。",
+        "english": "This soup wants a bit of salt."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0081",
+    "character": "町",
+    "meaning": "town, village, block, street",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "strokeCount": 7,
+    "radical": "田",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "町",
+        "reading": "まち",
+        "meaning": "town, city"
+      },
+      {
+        "word": "下町",
+        "reading": "したまち",
+        "meaning": "Shitamachi, lower parts of town"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その町はロンドンのすぐ北にある。",
+        "reading": "そのまちはロンドンのすぐきたにある。",
+        "english": "The town lies just above London."
+      },
+      {
+        "japanese": "この町に来たのははじめてですか。",
+        "reading": "このまちにきたのははじめてですか。",
+        "english": "Is this the first time that you have come to this town?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0082",
+    "character": "料",
+    "meaning": "fee, materials",
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "radical": "斗",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "cuisine"
+      },
+      {
+        "word": "食料品",
+        "reading": "しょくりょうひん",
+        "meaning": "groceries"
+      },
+      {
+        "word": "給料",
+        "reading": "きゅうりょう",
+        "meaning": "salary, wages"
+      },
+      {
+        "word": "材料",
+        "reading": "ざいりょう",
+        "meaning": "ingredients, material"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "来月タクシー料金があがります。",
+        "reading": "らいげつタクシーりょうきんがあがります。",
+        "english": "Taxi fares will go up next month."
+      },
+      {
+        "japanese": "これらのりんごは料理用にもってこいだ。",
+        "reading": "これらのりんごはりょうりようにもってこいだ。",
+        "english": "These apples are good cookers."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0083",
+    "character": "工",
+    "meaning": "craft, construction, katakana e radical (no. 48)",
+    "onyomi": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 3,
+    "radical": "工",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "the manufacturing industry"
+      },
+      {
+        "word": "工場",
+        "reading": "こうじょう",
+        "meaning": "factory"
+      },
+      {
+        "word": "人工",
+        "reading": "じんこう",
+        "meaning": "artificial, manmade, human work, human skill, artificiality"
+      },
+      {
+        "word": "工夫",
+        "reading": "くふう",
+        "meaning": "labourer, worker"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "７月の工業生産は急増した。",
+        "english": "Industrial production rose sharply in July."
+      },
+      {
+        "japanese": "工業よりも金融に関心のある学生のほうが多い。",
+        "reading": "こうぎょうよりもきんゆうにかんしんのあるがくせいのほうがおおい。",
+        "english": "More students are interested in finance than in industry."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0084",
+    "character": "建",
+    "meaning": "build",
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "kunyomi": [
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "strokeCount": 9,
+    "radical": "廴",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "meaning": "building"
+      },
+      {
+        "word": "建てる",
+        "reading": "たてる",
+        "meaning": "to build"
+      },
+      {
+        "word": "二階建て",
+        "reading": "にかいだて",
+        "meaning": "two storied"
+      },
+      {
+        "word": "建設",
+        "reading": "けんせつ",
+        "meaning": "construction, establishment"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "建物がとっても小さく見えるよ。",
+        "reading": "たてものがとってもちいさくみえるよ。",
+        "english": "The buildings look so tiny."
+      },
+      {
+        "japanese": "リンダは建物の中に入って来ました。",
+        "reading": "リンダはたてもののなかにはいってきました。",
+        "english": "Linda came into the building."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0085",
+    "character": "空",
+    "meaning": "empty, sky, void, vacant",
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "strokeCount": 8,
+    "radical": "穴",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "空",
+        "reading": "そら",
+        "meaning": "sky"
+      },
+      {
+        "word": "空く",
+        "reading": "あく",
+        "meaning": "to open, to become empty"
+      },
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "air, atmosphere"
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "airport"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なぜ空が青いか知っているか。",
+        "reading": "なぜそらがあおいかしっているか。",
+        "english": "Do you know why the sky is blue?"
+      },
+      {
+        "japanese": "空はすっかりもやがかかっていた。",
+        "reading": "そらはすっかりもやがかかっていた。",
+        "english": "The sky misted over."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0086",
+    "character": "急",
+    "meaning": "hurry, emergency, sudden, steep",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "いそ.ぐ",
+      "いそ.ぎ",
+      "せ.く"
+    ],
+    "strokeCount": 9,
+    "radical": "心",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry"
+      },
+      {
+        "word": "急",
+        "reading": "きゅう",
+        "meaning": "urgent, steep"
+      },
+      {
+        "word": "急行",
+        "reading": "きゅうこう",
+        "meaning": "speedy, express"
+      },
+      {
+        "word": "特急",
+        "reading": "とっきゅう",
+        "meaning": "limited express train (faster than an express train)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "それでは学校へ急ぎましょう。",
+        "reading": "それではがっこうへいそぎましょう。",
+        "english": "Now let's hurry to school."
+      },
+      {
+        "japanese": "ジョンはひどく急いでいたので話をする暇もなかった。",
+        "reading": "ジョンはひどくいそいでいたのではなしをするひまもなかった。",
+        "english": "John was in such a hurry that he had no time for talking."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0087",
+    "character": "止",
+    "meaning": "stop, halt",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "と.まる",
+      "-ど.まり",
+      "と.める",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
+    ],
+    "strokeCount": 4,
+    "radical": "止",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": "to come to a halt"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "to stop something"
+      },
+      {
+        "word": "止む",
+        "reading": "やむ",
+        "meaning": "to stop"
+      },
+      {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning": "prohibition, ban"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "１台の車が入り口に止まった。",
+        "english": "A car stopped at the entrance."
+      },
+      {
+        "japanese": "トイレの水が止まりません。",
+        "reading": "トイレのみずがとまりません。",
+        "english": "The toilet won't stop running."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0088",
+    "character": "送",
+    "meaning": "escort, send",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おく.る"
+    ],
+    "strokeCount": 9,
+    "radical": "辵",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "to send"
+      },
+      {
+        "word": "放送",
+        "reading": "ほうそう",
+        "meaning": "to broadcast"
+      },
+      {
+        "word": "見送り",
+        "reading": "みおくり",
+        "meaning": "seeing one off, farewell, escort"
+      },
+      {
+        "word": "送り仮名",
+        "reading": "おくりがな",
+        "meaning": "part of word written in kana"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この手紙を日本に送ってくれませんか。",
+        "english": "Could you send this letter to Japan?"
+      },
+      {
+        "japanese": "車で家まで送ってもらえませんか？",
+        "reading": "くるまでいえまでおくってもらえませんか？",
+        "english": "Will you drive me home?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0089",
+    "character": "切",
+    "meaning": "cut, cutoff, be sharp",
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
+    ],
+    "strokeCount": 4,
+    "radical": "刀",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "切手",
+        "reading": "きって",
+        "meaning": "postage stamp"
+      },
+      {
+        "word": "切符",
+        "reading": "きっぷ",
+        "meaning": "ticket"
+      },
+      {
+        "word": "切る",
+        "reading": "きる",
+        "meaning": "to cut"
+      },
+      {
+        "word": "大切",
+        "reading": "たいせつ",
+        "meaning": "important"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "肉を薄く切りなさい。",
+        "reading": "にくをうすくきりなさい。",
+        "english": "Cut the meat into thin slices."
+      },
+      {
+        "japanese": "あなたの家族はきっと親切でしょう。",
+        "reading": "あなたのかぞくはきっとしんせつでしょう。",
+        "english": "Your family must be very nice."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0090",
+    "character": "転",
+    "meaning": "revolve, turn around, change",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "strokeCount": 11,
+    "radical": "車",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
+      },
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "meaning": "to drive"
+      },
+      {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "meaning": "driver"
+      },
+      {
+        "word": "転ぶ",
+        "reading": "ころぶ",
+        "meaning": "to fall down, to fall over"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ぼくの自転車はパンクしている。",
+        "reading": "ぼくのじてんしゃはパンクしている。",
+        "english": "My bicycle has a flat tire."
+      },
+      {
+        "japanese": "マユコは自転車で学校にいく。",
+        "reading": "マユコはじてんしゃでがっこうにいく。",
+        "english": "Mayuko goes to school by bicycle."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0091",
+    "character": "研",
+    "meaning": "polish, study of, sharpen",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "と.ぐ"
+    ],
+    "strokeCount": 9,
+    "radical": "石",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research"
+      },
+      {
+        "word": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "study room, laboratory"
+      },
+      {
+        "word": "研修",
+        "reading": "けんしゅう",
+        "meaning": "training"
+      },
+      {
+        "word": "研ぐ",
+        "reading": "とぐ",
+        "meaning": "to sharpen, to grind, to scour, to hone, to polish, to wash (rice)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたのご研究は、いかがですか。",
+        "reading": "あなたのごけんきゅうは、いかがですか。",
+        "english": "How are your studies going?"
+      },
+      {
+        "japanese": "私はエイズの研究に従事している。",
+        "reading": "わたしはエイズのけんきゅうにじゅうじしている。",
+        "english": "I am engaged in AIDS research."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0092",
+    "character": "足",
+    "meaning": "leg, foot, be sufficient, counter for pairs of footwear",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "strokeCount": 7,
+    "radical": "足",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "足",
+        "reading": "あし",
+        "meaning": "foot, leg"
+      },
+      {
+        "word": "足す",
+        "reading": "たす",
+        "meaning": "to add a number"
+      },
+      {
+        "word": "足りる",
+        "reading": "たりる",
+        "meaning": "to be enough"
+      },
+      {
+        "word": "不足",
+        "reading": "ふそく",
+        "meaning": "insufficiency, shortage, deficiency, lack, dearth"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "また足がしびれた。",
+        "reading": "またあしがしびれた。",
+        "english": "My foot's asleep again!"
+      },
+      {
+        "japanese": "ヘビを見て足がすくんでしまった。",
+        "reading": "ヘビをみてあしがすくんでしまった。",
+        "english": "I froze at the sight of the snake."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0093",
+    "character": "究",
+    "meaning": "research, study",
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "きわ.める"
+    ],
+    "strokeCount": 7,
+    "radical": "穴",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research"
+      },
+      {
+        "word": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "study room, laboratory"
+      },
+      {
+        "word": "究極",
+        "reading": "きゅうきょく",
+        "meaning": "ultimate, final, eventual"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたのご研究は、いかがですか。",
+        "reading": "あなたのごけんきゅうは、いかがですか。",
+        "english": "How are your studies going?"
+      },
+      {
+        "japanese": "私はエイズの研究に従事している。",
+        "reading": "わたしはエイズのけんきゅうにじゅうじしている。",
+        "english": "I am engaged in AIDS research."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0094",
+    "character": "楽",
+    "meaning": "music, comfort, ease",
+    "onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "strokeCount": 13,
+    "radical": "木",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
+      },
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "meaning": "enjoyable"
+      },
+      {
+        "word": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "joy"
+      },
+      {
+        "word": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "to enjoy oneself"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この音楽を聞いてくつろぎなさい。",
+        "reading": "このおんがくをきいてくつろぎなさい。",
+        "english": "Listen to this music and relax."
+      },
+      {
+        "japanese": "ダンス音楽のレコードをかけてくれないか。",
+        "reading": "ダンスおんがくのレコードをかけてくれないか。",
+        "english": "Will you play some dance records?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0095",
+    "character": "起",
+    "meaning": "rouse, wake up, get up",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お.きる",
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
+    ],
+    "strokeCount": 10,
+    "radical": "走",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "to get up"
+      },
+      {
+        "word": "起す",
+        "reading": "おこす",
+        "meaning": "to wake"
+      },
+      {
+        "word": "起こる",
+        "reading": "おこる",
+        "meaning": "to occur, to happen"
+      },
+      {
+        "word": "起床",
+        "reading": "きしょう",
+        "meaning": "rising, getting out of bed"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "お子さんはまだ起きているのですか。",
+        "reading": "おこさんはまだおきているのですか。",
+        "english": "Is the kid still up?"
+      },
+      {
+        "japanese": "６時ごろ起きた。",
+        "reading": "６じごろおきた。",
+        "english": "I got up at about six."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0096",
+    "character": "着",
+    "meaning": "don, arrive, wear, counter for suits of clothing",
+    "onyomi": [
+      "チャク",
+      "ジャク"
+    ],
+    "kunyomi": [
+      "き.る",
+      "き.せる",
+      "つ.く",
+      "つ.ける"
+    ],
+    "strokeCount": 12,
+    "radical": "目",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "上着",
+        "reading": "うわぎ",
+        "meaning": "jacket"
+      },
+      {
+        "word": "着る",
+        "reading": "きる",
+        "meaning": "to put on from the shoulders down"
+      },
+      {
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "to arrive at"
+      },
+      {
+        "word": "着物",
+        "reading": "きもの",
+        "meaning": "kimono"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あちらに着いたら手紙をください。",
+        "reading": "あちらについたらてがみをください。",
+        "english": "Please write to me when you get there."
+      },
+      {
+        "japanese": "ドアのそばのかぎに上着をかけなさい。",
+        "reading": "ドアのそばのかぎにうわぎをかけなさい。",
+        "english": "Hang your jacket on the hook by the door."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0097",
+    "character": "店",
+    "meaning": "store, shop",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ",
+      "たな"
+    ],
+    "strokeCount": 8,
+    "radical": "广",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "meaning": "coffee lounge"
+      },
+      {
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "shop"
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "shop assistant"
+      },
+      {
+        "word": "支店",
+        "reading": "してん",
+        "meaning": "branch store (office)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私たちは喫茶店で昼食をとった。",
+        "reading": "わたしたちはきっさてんでちゅうしょくをとった。",
+        "english": "We ate lunch in a coffee lounge."
+      },
+      {
+        "japanese": "この喫茶店でよくおしゃべりしたわね。",
+        "reading": "このきっさてんでよくおしゃべりしたわね。",
+        "english": "We would often have a chat in this coffee shop."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0098",
+    "character": "病",
+    "meaning": "ill, sick",
+    "onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "strokeCount": 10,
+    "radical": "疒",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital"
+      },
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
+      },
+      {
+        "word": "看病",
+        "reading": "かんびょう",
+        "meaning": "nursing (a patient)"
+      },
+      {
+        "word": "臆病",
+        "reading": "おくびょう",
+        "meaning": "cowardice, timidity"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "彼女は先週の水曜日から病気です。",
+        "reading": "かのじょはせんしゅうのすいようびからびょうきです。",
+        "english": "She has been sick since last Wednesday."
+      },
+      {
+        "japanese": "この近くに病院はありますか。",
+        "reading": "このちかくにびょういんはありますか。",
+        "english": "Is there a hospital near here?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0099",
+    "character": "質",
+    "meaning": "substance, quality, matter, temperament",
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "kunyomi": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "strokeCount": 15,
+    "radical": "貝",
+    "grade": 5,
+    "exampleWords": [
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
+      },
+      {
+        "word": "質",
+        "reading": "しつ",
+        "meaning": "quality, nature (of person)"
+      },
+      {
+        "word": "物質",
+        "reading": "ぶっしつ",
+        "meaning": "material, substance"
+      },
+      {
+        "word": "性質",
+        "reading": "せいしつ",
+        "meaning": "nature, property, disposition"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あの先生に質問してもいいですよ。",
+        "reading": "あのせんせいにしつもんしてもいいですよ。",
+        "english": "You may ask a question of that teacher."
+      },
+      {
+        "japanese": "質問は書いていただけませんか。",
+        "reading": "しつもんはかいていただけませんか。",
+        "english": "Will you put your questions in written form?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0100",
+    "character": "待",
+    "meaning": "wait, depend on",
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "ま.つ",
+      "-ま.ち"
+    ],
+    "strokeCount": 9,
+    "radical": "彳",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      },
+      {
+        "word": "招待",
+        "reading": "しょうたい",
+        "meaning": "to invite"
+      },
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "expectation, anticipation, hope"
+      },
+      {
+        "word": "待合室",
+        "reading": "まちあいしつ",
+        "meaning": "waiting room"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "五日待ってくれ。",
+        "reading": "いつかまってくれ。",
+        "english": "Give me five days."
+      },
+      {
+        "japanese": "火曜日まで待ってもよいのではありませんか。",
+        "reading": "かようびまでまってもよいのではありませんか。",
+        "english": "You might as well wait until Tuesday."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0101",
+    "character": "試",
+    "meaning": "test, try, attempt, experiment",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "strokeCount": 13,
+    "radical": "言",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "match, game"
+      },
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "meaning": "examination"
+      },
+      {
+        "word": "試し",
+        "reading": "ためし",
+        "meaning": "trial, test"
+      },
+      {
+        "word": "試す",
+        "reading": "ためす",
+        "meaning": "to attempt, to test"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "このコートいいですね。試着してもいいですか。",
+        "reading": "このコートいいですね。しちゃくしてもいいですか。",
+        "english": "I like this coat. May I try it on?"
+      },
+      {
+        "japanese": "病気なので試験が受けられません。",
+        "reading": "びょうきなのでしけんがうけられません。",
+        "english": "I can't sit for the examination because I am ill."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0102",
+    "character": "族",
+    "meaning": "tribe, family",
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "radical": "方",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      },
+      {
+        "word": "貴族",
+        "reading": "きぞく",
+        "meaning": "noble, aristocrat"
+      },
+      {
+        "word": "民族",
+        "reading": "みんぞく",
+        "meaning": "people, race, nation, racial customs, folk customs"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたの家族はきっと親切でしょう。",
+        "reading": "あなたのかぞくはきっとしんせつでしょう。",
+        "english": "Your family must be very nice."
+      },
+      {
+        "japanese": "家族について聞いてもいいですか。",
+        "reading": "かぞくについてきいてもいいですか。",
+        "english": "May I ask about your family?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0103",
+    "character": "銀",
+    "meaning": "silver",
+    "onyomi": [
+      "ギン"
+    ],
+    "kunyomi": [
+      "しろがね"
+    ],
+    "strokeCount": 14,
+    "radical": "金",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "bank"
+      },
+      {
+        "word": "銀",
+        "reading": "ぎん",
+        "meaning": "silver, silver coin, silver paint"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "銀行にどれだけお金がありますか。",
+        "reading": "ぎんこうにどれだけおかねがありますか。",
+        "english": "How much money do you have in the bank?"
+      },
+      {
+        "japanese": "銀行でお金をおろさなくちゃ。",
+        "reading": "ぎんこうでおかねをおろさなくちゃ。",
+        "english": "I have to withdraw some cash from the bank."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0104",
+    "character": "早",
+    "meaning": "early, fast",
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "strokeCount": 6,
+    "radical": "日",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "early"
+      },
+      {
+        "word": "早速",
+        "reading": "さっそく",
+        "meaning": "at once, immediately, without delay, promptly"
+      },
+      {
+        "word": "早口",
+        "reading": "はやくち",
+        "meaning": "fast-talking"
+      },
+      {
+        "word": "素早い",
+        "reading": "すばやい",
+        "meaning": "fast, quick, prompt, agile"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "時のたつのは早いものだ。",
+        "reading": "ときのたつのははやいものだ。",
+        "english": "Time flies."
+      },
+      {
+        "japanese": "今年は春の訪れが早かった。",
+        "reading": "ことしははるのおとずれがはやかった。",
+        "english": "Spring has come early this year."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0105",
+    "character": "映",
+    "meaning": "reflect, reflection, projection",
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す",
+      "は.える",
+      "-ば.え"
+    ],
+    "strokeCount": 9,
+    "radical": "日",
+    "grade": 6,
+    "exampleWords": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie"
+      },
+      {
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": "cinema"
+      },
+      {
+        "word": "映す",
+        "reading": "うつす",
+        "meaning": "to project, to reflect, to cast (shadow)"
+      },
+      {
+        "word": "映る",
+        "reading": "うつる",
+        "meaning": "to be reflected, to harmonize with, to come out (photo)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その映画をもう一度見たいな。",
+        "reading": "そのえいがをもういちどみたいな。",
+        "english": "I want to see the movie again."
+      },
+      {
+        "japanese": "映画を見に行こうではないですか。",
+        "reading": "えいがをみにいこうではないですか。",
+        "english": "What do you say to going to the movies?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0106",
+    "character": "親",
+    "meaning": "parent, intimacy, relative, familiarity",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "strokeCount": 16,
+    "radical": "見",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "両親",
+        "reading": "りょうしん",
+        "meaning": "both parents"
+      },
+      {
+        "word": "親",
+        "reading": "おや",
+        "meaning": "parents"
+      },
+      {
+        "word": "親切",
+        "reading": "しんせつ",
+        "meaning": "kindness"
+      },
+      {
+        "word": "親しい",
+        "reading": "したしい",
+        "meaning": "intimate, close (e.g. friend)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたの家族はきっと親切でしょう。",
+        "reading": "あなたのかぞくはきっとしんせつでしょう。",
+        "english": "Your family must be very nice."
+      },
+      {
+        "japanese": "そうしてくれて君は親切ですね。",
+        "reading": "そうしてくれてきみはしんせつですね。",
+        "english": "It is kind of you to do so."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0107",
+    "character": "験",
+    "meaning": "verification, effect, testing",
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "strokeCount": 18,
+    "radical": "馬",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "経験",
+        "reading": "けいけん",
+        "meaning": "to experience"
+      },
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "meaning": "examination"
+      },
+      {
+        "word": "実験",
+        "reading": "じっけん",
+        "meaning": "experiment"
+      },
+      {
+        "word": "受験",
+        "reading": "じゅけん",
+        "meaning": "taking an examination"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "病気なので試験が受けられません。",
+        "reading": "びょうきなのでしけんがうけられません。",
+        "english": "I can't sit for the examination because I am ill."
+      },
+      {
+        "japanese": "入学試験を受けるつもりですか。",
+        "reading": "にゅうがくしけんをうけるつもりですか。",
+        "english": "Are you going to take the entrance examination?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0108",
+    "character": "英",
+    "meaning": "England, English, hero, outstanding",
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "はなぶさ"
+    ],
+    "strokeCount": 8,
+    "radical": "艸",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "meaning": "English language"
+      },
+      {
+        "word": "英文",
+        "reading": "えいぶん",
+        "meaning": "sentence in English"
+      },
+      {
+        "word": "英和",
+        "reading": "えいわ",
+        "meaning": "English-Japanese (e.g. dictionary)"
+      },
+      {
+        "word": "和英",
+        "reading": "わえい",
+        "meaning": "Japanese-English"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "アメリカでは英語を話します。",
+        "reading": "アメリカではえいごをはなします。",
+        "english": "They speak English in America."
+      },
+      {
+        "japanese": "先生のように英語が話せたらなぁ。",
+        "reading": "せんせいのようにえいごがはなせたらなぁ。",
+        "english": "I wish I could speak English the way my teacher does."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0109",
+    "character": "医",
+    "meaning": "doctor, medicine",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "strokeCount": 7,
+    "radical": "匸",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "medical doctor"
+      },
+      {
+        "word": "医学",
+        "reading": "いがく",
+        "meaning": "medical science"
+      },
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentist"
+      },
+      {
+        "word": "医師",
+        "reading": "いし",
+        "meaning": "doctor, physician"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "医者になるつもりだったのですが。",
+        "reading": "いしゃになるつもりだったのですが。",
+        "english": "I intended to become a doctor."
+      },
+      {
+        "japanese": "日本語の話せる医者はいますか。",
+        "reading": "にほんごのはなせるいしゃはいますか。",
+        "english": "Do you know any doctors who speak Japanese?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0110",
+    "character": "仕",
+    "meaning": "attend, doing, official, serve",
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つか.える"
+    ],
+    "strokeCount": 5,
+    "radical": "人",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "job"
+      },
+      {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning": "method"
+      },
+      {
+        "word": "仕上がる",
+        "reading": "しあがる",
+        "meaning": "to be finished"
+      },
+      {
+        "word": "給仕",
+        "reading": "きゅうじ",
+        "meaning": "office boy (girl), page, waiter"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "仕事をサボったからクビになった。",
+        "reading": "しごとをサボったからクビになった。",
+        "english": "He got the sack for slacking off at work."
+      },
+      {
+        "japanese": "どの仕事もやすやすとはできない。",
+        "reading": "どのしごともやすやすとはできない。",
+        "english": "No work can be done with ease."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0111",
+    "character": "去",
+    "meaning": "gone, past, quit, leave",
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "さ.る",
+      "-さ.る"
+    ],
+    "strokeCount": 5,
+    "radical": "厶",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "last year"
+      },
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "the past, bygone days, the previous"
+      },
+      {
+        "word": "去る",
+        "reading": "さる",
+        "meaning": "to leave, to go away"
+      },
+      {
+        "word": "消去",
+        "reading": "しょうきょ",
+        "meaning": "elimination, erasing, dying out, melting away"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ビルは去年の秋に私に会いに来た。",
+        "reading": "ビルはきょねんのあきにわたしにあいにきた。",
+        "english": "Bill came to see me last autumn."
+      },
+      {
+        "japanese": "わたしは去年一年生でした。",
+        "reading": "わたしはきょねんいちねんせいでした。",
+        "english": "I was a first year student last year."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0112",
+    "character": "味",
+    "meaning": "flavor, taste",
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "strokeCount": 8,
+    "radical": "口",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      },
+      {
+        "word": "味",
+        "reading": "あじ",
+        "meaning": "flavour"
+      },
+      {
+        "word": "興味",
+        "reading": "きょうみ",
+        "meaning": "an interest"
+      },
+      {
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning": "hobby"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その語にはいくつかの意味がある。",
+        "reading": "そのごにはいくつかのいみがある。",
+        "english": "The word has several meanings."
+      },
+      {
+        "japanese": "おっしゃる意味がわかりませんが。",
+        "reading": "おっしゃるいみがわかりませんが。",
+        "english": "What you said does not make sense."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0113",
+    "character": "写",
+    "meaning": "copy, be photographed, describe",
+    "onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "kunyomi": [
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "strokeCount": 5,
+    "radical": "冖",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "photograph"
+      },
+      {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "to copy or photograph"
+      },
+      {
+        "word": "写る",
+        "reading": "うつる",
+        "meaning": "to be photographed, to be projected"
+      },
+      {
+        "word": "写生",
+        "reading": "しゃせい",
+        "meaning": "sketching, drawing from nature"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なんてキレイな写真なんでしょう。",
+        "reading": "なんてキレイなしゃしんなんでしょう。",
+        "english": "What a beautiful picture!"
+      },
+      {
+        "japanese": "ここにあなたに見せる写真がある。",
+        "reading": "ここにあなたにみせるしゃしんがある。",
+        "english": "Here is a picture to show you."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0114",
+    "character": "字",
+    "meaning": "character, letter, word, section of village",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "strokeCount": 6,
+    "radical": "子",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "Chinese character"
+      },
+      {
+        "word": "字引",
+        "reading": "じびき",
+        "meaning": "dictionary"
+      },
+      {
+        "word": "字",
+        "reading": "じ",
+        "meaning": "character"
+      },
+      {
+        "word": "数字",
+        "reading": "すうじ",
+        "meaning": "numeral, figure"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この漢字はどういう意味ですか。",
+        "reading": "このかんじはどういういみですか。",
+        "english": "What does this kanji mean?"
+      },
+      {
+        "japanese": "君はこの漢字が読めますか。",
+        "reading": "きみはこのかんじがよめますか。",
+        "english": "Can you read this kanji?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0115",
+    "character": "答",
+    "meaning": "solution, answer",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた.える",
+      "こた.え"
+    ],
+    "strokeCount": 12,
+    "radical": "竹",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "答える",
+        "reading": "こたえる",
+        "meaning": "to answer"
+      },
+      {
+        "word": "答",
+        "reading": "こたえ",
+        "meaning": "response"
+      },
+      {
+        "word": "答案",
+        "reading": "とうあん",
+        "meaning": "examination paper, examination script"
+      },
+      {
+        "word": "解答",
+        "reading": "かいとう",
+        "meaning": "answer, solution"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "お母さんに口答えしてはいけませんよ。",
+        "reading": "おかあさんにくちごたえしてはいけませんよ。",
+        "english": "Don't answer your mother back."
+      },
+      {
+        "japanese": "「はい、ありません」とジョーダンさんは答えた。",
+        "reading": "「はい、ありません」とジョーダンさんはこたえた。",
+        "english": "\"No, I don't,\" said Mr Jordan."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0116",
+    "character": "夜",
+    "meaning": "night, evening",
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "strokeCount": 8,
+    "radical": "夕",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "昨夜",
+        "reading": "ゆうべ",
+        "meaning": "last night"
+      },
+      {
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "evening, night"
+      },
+      {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "tonight"
+      },
+      {
+        "word": "徹夜",
+        "reading": "てつや",
+        "meaning": "all night, all night vigil, sleepless night"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "昨夜はよく眠れましたか。",
+        "reading": "ゆうべはよくねむれましたか。",
+        "english": "Did you have a good sleep last night?"
+      },
+      {
+        "japanese": "昨夜あなたはテレビを見ましたか。",
+        "reading": "ゆうべあなたはテレビをみましたか。",
+        "english": "Did you watch TV last night?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0117",
+    "character": "音",
+    "meaning": "sound, noise",
+    "onyomi": [
+      "オン",
+      "イン",
+      "-ノン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "strokeCount": 9,
+    "radical": "音",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
+      },
+      {
+        "word": "音",
+        "reading": "おと",
+        "meaning": "sound, note"
+      },
+      {
+        "word": "発音",
+        "reading": "はつおん",
+        "meaning": "pronunciation"
+      },
+      {
+        "word": "騒音",
+        "reading": "そうおん",
+        "meaning": "noise"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この音楽を聞いてくつろぎなさい。",
+        "reading": "このおんがくをきいてくつろぎなさい。",
+        "english": "Listen to this music and relax."
+      },
+      {
+        "japanese": "ダンス音楽のレコードをかけてくれないか。",
+        "reading": "ダンスおんがくのレコードをかけてくれないか。",
+        "english": "Will you play some dance records?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0118",
+    "character": "注",
+    "meaning": "pour, irrigate, shed (tears), flow into",
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "そそ.ぐ",
+      "さ.す",
+      "つ.ぐ"
+    ],
+    "strokeCount": 8,
+    "radical": "水",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "注意",
+        "reading": "ちゅうい",
+        "meaning": "caution"
+      },
+      {
+        "word": "注射",
+        "reading": "ちゅうしゃ",
+        "meaning": "injection"
+      },
+      {
+        "word": "注ぐ",
+        "reading": "そそぐ",
+        "meaning": "to pour (into), to irrigate, to pay, to fill, to feed (e.g. a fire)"
+      },
+      {
+        "word": "注",
+        "reading": "ちゅう",
+        "meaning": "annotation, explanatory note"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "以下の通り注文いたします。",
+        "reading": "いかのとおりちゅうもんいたします。",
+        "english": "I would like to place an order for the following."
+      },
+      {
+        "japanese": "別紙の注文書の通り注文いたします。",
+        "reading": "べっしのちゅうもんしょのとおりちゅうもんいたします。",
+        "english": "I have enclosed your order form."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0119",
+    "character": "帰",
+    "meaning": "homecoming, arrive at, lead to, result in",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえ.る",
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
+    ],
+    "strokeCount": 10,
+    "radical": "巾",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to go back"
+      },
+      {
+        "word": "帰り",
+        "reading": "かえり",
+        "meaning": "return"
+      },
+      {
+        "word": "帰宅",
+        "reading": "きたく",
+        "meaning": "returning home"
+      },
+      {
+        "word": "お帰り",
+        "reading": "おかえり",
+        "meaning": "return, welcome"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "「帰ろ」「マックよってかない？」",
+        "reading": "「かえろ」「マックよってかない？」",
+        "english": "\"Let's head back.\" \"Shall we drop by McDonald's?\""
+      },
+      {
+        "japanese": "父はちょうど帰ってきたところだ。",
+        "reading": "ちちはちょうどかえってきたところだ。",
+        "english": "My father has just come home."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0120",
+    "character": "古",
+    "meaning": "old",
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "strokeCount": 5,
+    "radical": "口",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "古い",
+        "reading": "ふるい",
+        "meaning": "old (not used for people)"
+      },
+      {
+        "word": "中古",
+        "reading": "ちゅうこ",
+        "meaning": "used, second-hand, old"
+      },
+      {
+        "word": "稽古",
+        "reading": "けいこ",
+        "meaning": "practice, training, study"
+      },
+      {
+        "word": "古典",
+        "reading": "こてん",
+        "meaning": "old book, classics, classic"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私は古いストーブに１０ドルの値をつけた。",
+        "reading": "わたしはふるいストーブに１０ドルのあたいをつけた。",
+        "english": "I bid ten dollars for the old stove."
+      },
+      {
+        "japanese": "時は金なりと古いことわざにもある。",
+        "reading": "ときはかねなりとふるいことわざにもある。",
+        "english": "An old proverb says that time is money."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0121",
+    "character": "歌",
+    "meaning": "song, sing",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "strokeCount": 14,
+    "radical": "欠",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "歌",
+        "reading": "うた",
+        "meaning": "song"
+      },
+      {
+        "word": "歌う",
+        "reading": "うたう",
+        "meaning": "to sing"
+      },
+      {
+        "word": "歌手",
+        "reading": "かしゅ",
+        "meaning": "singer"
+      },
+      {
+        "word": "歌謡",
+        "reading": "かよう",
+        "meaning": "song, ballad"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "歌がうまければいいのになあ。",
+        "reading": "うたがうまければいいのになあ。",
+        "english": "I wish I were a good singer."
+      },
+      {
+        "japanese": "この歌の名前は『オンリー・ユー』です。",
+        "reading": "このうたのなまえは『オンリー・ユー』です。",
+        "english": "This song's name is \"Only You\"."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0122",
+    "character": "買",
+    "meaning": "buy",
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か.う"
+    ],
+    "strokeCount": 12,
+    "radical": "貝",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "買い物",
+        "reading": "かいもの",
+        "meaning": "shopping"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "meaning": "to buy"
+      },
+      {
+        "word": "売買",
+        "reading": "ばいばい",
+        "meaning": "trade, buying and selling"
+      },
+      {
+        "word": "購買",
+        "reading": "こうばい",
+        "meaning": "purchase, buy"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "１日おきに買い物に行く。",
+        "english": "I go shopping every other day."
+      },
+      {
+        "japanese": "ジェーンは買い物に出かけている。",
+        "reading": "ジェーンはかいものにでかけている。",
+        "english": "Jane is out shopping."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0123",
+    "character": "悪",
+    "meaning": "bad, vice, rascal, false",
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "kunyomi": [
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "strokeCount": 11,
+    "radical": "心",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
+      },
+      {
+        "word": "悪魔",
+        "reading": "あくま",
+        "meaning": "devil, demon, evil spirit"
+      },
+      {
+        "word": "悪口",
+        "reading": "わるくち",
+        "meaning": "abuse, insult, slander, evil speaking"
+      },
+      {
+        "word": "意地悪",
+        "reading": "いじわる",
+        "meaning": "malicious, ill-tempered, unkind"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ヘミングウェイの文章は悪文だった。",
+        "reading": "ヘミングウェイのぶんしょうはあくぶんだった。",
+        "english": "Hemingway had a poor writing style."
+      },
+      {
+        "japanese": "これは悪い話ではないでしょう？",
+        "reading": "これはわるいはなしではないでしょう？",
+        "english": "This isn't an unappealing proposition, is it?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0124",
+    "character": "図",
+    "meaning": "map, drawing, plan, extraordinary",
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "strokeCount": 7,
+    "radical": "囗",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map"
+      },
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "library"
+      },
+      {
+        "word": "合図",
+        "reading": "あいず",
+        "meaning": "sign, signal"
+      },
+      {
+        "word": "図",
+        "reading": "ず",
+        "meaning": "figure (e.g. Fig 1), drawing, picture, illustration"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この大きなアメリカの地図を見て。",
+        "reading": "このおおきなアメリカのちずをみて。",
+        "english": "Look at this large map of America."
+      },
+      {
+        "japanese": "ちょっとこの地図を見なさい。",
+        "reading": "ちょっとこのちずをみなさい。",
+        "english": "Take a look at this map."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0125",
+    "character": "週",
+    "meaning": "week",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "radical": "辵",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "this week"
+      },
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "last week"
+      },
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "meaning": "every week"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "next week"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "かぜがなおるのに３週間かかった。",
+        "reading": "かぜがなおるのに３しゅうかんかかった。",
+        "english": "It took three weeks for me to get over my cold."
+      },
+      {
+        "japanese": "今週はどちらにいらしゃいましたか。",
+        "reading": "こんしゅうはどちらにいらしゃいましたか。",
+        "english": "Where have you been this week?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0126",
+    "character": "室",
+    "meaning": "room, apartment, chamber, greenhouse",
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "strokeCount": 9,
+    "radical": "宀",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
+      },
+      {
+        "word": "会議室",
+        "reading": "かいぎしつ",
+        "meaning": "meeting room"
+      },
+      {
+        "word": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "study room, laboratory"
+      },
+      {
+        "word": "温室",
+        "reading": "おんしつ",
+        "meaning": "greenhouse"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ＬＬ教室を使ってもよいですか。",
+        "reading": "ＬＬきょうしつをつかってもよいですか。",
+        "english": "May we use the language lab?"
+      },
+      {
+        "japanese": "エアロビクス教室に一日入学したいのですが。",
+        "english": "I'd like to try out the aerobics class for a day."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0127",
+    "character": "歩",
+    "meaning": "walk, counter for steps",
+    "onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "kunyomi": [
+      "ある.く",
+      "あゆ.む"
+    ],
+    "strokeCount": 8,
+    "radical": "止",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "meaning": "to stroll"
+      },
+      {
+        "word": "進歩",
+        "reading": "しんぽ",
+        "meaning": "progress, development"
+      },
+      {
+        "word": "歩道",
+        "reading": "ほどう",
+        "meaning": "footpath, walkway, sidewalk"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "歩いて行きますか？それともバスで行きますか？",
+        "english": "Will you go on foot or by bus?"
+      },
+      {
+        "japanese": "歩きながら本を読んではいけない。",
+        "reading": "あるきながらほんをよんではいけない。",
+        "english": "Do not read while walking."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0128",
+    "character": "風",
+    "meaning": "wind, air, style, manner",
+    "onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "kunyomi": [
+      "かぜ",
+      "かざ-"
+    ],
+    "strokeCount": 9,
+    "radical": "風",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "お風呂",
+        "reading": "おふろ",
+        "meaning": "bath"
+      },
+      {
+        "word": "風",
+        "reading": "かぜ",
+        "meaning": "wind"
+      },
+      {
+        "word": "風邪",
+        "reading": "かぜ",
+        "meaning": "a cold"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私はほとんど毎日お風呂に入ります。",
+        "reading": "わたしはほとんどまいにちおふろにはいります。",
+        "english": "I take a bath almost every day."
+      },
+      {
+        "japanese": "お風呂はありませんでした。",
+        "reading": "おふろはありませんでした。",
+        "english": "There was no bathroom."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0129",
+    "character": "紙",
+    "meaning": "paper",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "strokeCount": 10,
+    "radical": "糸",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "紙",
+        "reading": "かみ",
+        "meaning": "paper"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "letter"
+      },
+      {
+        "word": "紙屑",
+        "reading": "かみくず",
+        "meaning": "wastepaper"
+      },
+      {
+        "word": "紙幣",
+        "reading": "しへい",
+        "meaning": "paper money, notes, bills"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あちらに着いたら手紙をください。",
+        "reading": "あちらについたらてがみをください。",
+        "english": "Please write to me when you get there."
+      },
+      {
+        "japanese": "紙は木から作られる。",
+        "reading": "かみはきからつくられる。",
+        "english": "Paper is made from wood."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0130",
+    "character": "黒",
+    "meaning": "black",
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろ.ずむ",
+      "くろ.い"
+    ],
+    "strokeCount": 11,
+    "radical": "黑",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "黒",
+        "reading": "くろ",
+        "meaning": "black"
+      },
+      {
+        "word": "黒い",
+        "reading": "くろい",
+        "meaning": "black"
+      },
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "blackboard"
+      },
+      {
+        "word": "真っ黒",
+        "reading": "まっくろ",
+        "meaning": "pitch black"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "黒に黒をたしても白にはならぬ。",
+        "reading": "くろにくろをたしてもしろにはならぬ。",
+        "english": "Two blacks do not make a white."
+      },
+      {
+        "japanese": "赤と黒のマジックかサインペン持ってない？",
+        "reading": "あかとくろのマジックかサインペンもってない？",
+        "english": "I need red and black markers or felt-tip pens. Do you have any?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0131",
+    "character": "花",
+    "meaning": "flower",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "strokeCount": 7,
+    "radical": "艸",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "花瓶",
+        "reading": "かびん",
+        "meaning": "a vase"
+      },
+      {
+        "word": "花",
+        "reading": "はな",
+        "meaning": "flower"
+      },
+      {
+        "word": "花見",
+        "reading": "はなみ",
+        "meaning": "cherry-blossom viewing"
+      },
+      {
+        "word": "生け花",
+        "reading": "いけばな",
+        "meaning": "flower arrangement"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "アリスは頭に花をさしています。",
+        "reading": "アリスはあたまにはなをさしています。",
+        "english": "Alice has a flower in her hair."
+      },
+      {
+        "japanese": "花びんに水を入れなさい。",
+        "english": "Put some water into the vase."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0132",
+    "character": "春",
+    "meaning": "springtime, spring (season)",
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "strokeCount": 9,
+    "radical": "日",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "meaning": "spring"
+      },
+      {
+        "word": "青春",
+        "reading": "せいしゅん",
+        "meaning": "youth, springtime of life, adolescent"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "これらの花は春に咲く。",
+        "reading": "これらのはなははるにさく。",
+        "english": "These flowers bloom in spring."
+      },
+      {
+        "japanese": "今年は春の訪れが早かった。",
+        "reading": "ことしははるのおとずれがはやかった。",
+        "english": "Spring has come early this year."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0133",
+    "character": "赤",
+    "meaning": "red",
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "strokeCount": 7,
+    "radical": "赤",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "赤",
+        "reading": "あか",
+        "meaning": "red"
+      },
+      {
+        "word": "赤い",
+        "reading": "あかい",
+        "meaning": "red"
+      },
+      {
+        "word": "赤ん坊",
+        "reading": "あかんぼう",
+        "meaning": "baby"
+      },
+      {
+        "word": "真っ赤",
+        "reading": "まっか",
+        "meaning": "deep red, flushed (of face)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "赤インクで書いてはいけない。",
+        "reading": "あかインクでかいてはいけない。",
+        "english": "Don't write in red ink."
+      },
+      {
+        "japanese": "その家は赤レンガづくりです。",
+        "reading": "そのいえはあかレンガづくりです。",
+        "english": "The house is built of red bricks."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0134",
+    "character": "青",
+    "meaning": "blue, green",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "strokeCount": 8,
+    "radical": "靑",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "青",
+        "reading": "あお",
+        "meaning": "blue"
+      },
+      {
+        "word": "青い",
+        "reading": "あおい",
+        "meaning": "blue"
+      },
+      {
+        "word": "青年",
+        "reading": "せいねん",
+        "meaning": "youth, young man"
+      },
+      {
+        "word": "青白い",
+        "reading": "あおじろい",
+        "meaning": "pale, pallid"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "信号が青に変わったわよ。",
+        "reading": "しんごうがあおにかわったわよ。",
+        "english": "The traffic light turned green."
+      },
+      {
+        "japanese": "夏の通学服は白と青のチェックです。",
+        "english": "My summer school dress is blue and white checkered."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0135",
+    "character": "館",
+    "meaning": "building, mansion, large building, palace",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "やかた",
+      "たて"
+    ],
+    "strokeCount": 16,
+    "radical": "食",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": "cinema"
+      },
+      {
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embassy"
+      },
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "library"
+      },
+      {
+        "word": "美術館",
+        "reading": "びじゅつかん",
+        "meaning": "art gallery"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その映画館は人々でいっぱいだった。",
+        "reading": "そのえいがかんはひとびとでいっぱいだった。",
+        "english": "The cinema was filled with people."
+      },
+      {
+        "japanese": "この近くに映画館はありますか。",
+        "reading": "このちかくにえいがかんはありますか。",
+        "english": "Are there any movie theaters near here?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0136",
+    "character": "屋",
+    "meaning": "roof, house, shop, dealer",
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "strokeCount": 9,
+    "radical": "尸",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "room"
+      },
+      {
+        "word": "八百屋",
+        "reading": "やおや",
+        "meaning": "greengrocer"
+      },
+      {
+        "word": "屋上",
+        "reading": "おくじょう",
+        "meaning": "rooftop"
+      },
+      {
+        "word": "小屋",
+        "reading": "こや",
+        "meaning": "hut, cabin, shed, (animal) pen"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あの角には、かつて本屋があった。",
+        "reading": "あのかどには、かつてほんやがあった。",
+        "english": "There used to be a bookstore on that corner."
+      },
+      {
+        "japanese": "あなたの部屋を掃除しましたか。",
+        "reading": "あなたのへやをそうじしましたか。",
+        "english": "Did you clean your room?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0137",
+    "character": "色",
+    "meaning": "color",
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "strokeCount": 6,
+    "radical": "色",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "meaning": "colour"
+      },
+      {
+        "word": "黄色",
+        "reading": "きいろ",
+        "meaning": "yellow"
+      },
+      {
+        "word": "黄色い",
+        "reading": "きいろい",
+        "meaning": "yellow"
+      },
+      {
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "brown"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "カメレオンはどんな色にでもなれる。",
+        "reading": "カメレオンはどんないろにでもなれる。",
+        "english": "The chameleon can take on any color."
+      },
+      {
+        "japanese": "この色、気に入りましたか。",
+        "reading": "このいろ、きにいりましたか。",
+        "english": "Do you like this color?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0138",
+    "character": "走",
+    "meaning": "run",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし.る"
+    ],
+    "strokeCount": 7,
+    "radical": "走",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "to run"
+      },
+      {
+        "word": "走行",
+        "reading": "そうこう",
+        "meaning": "running a wheeled vehicle (e.g. car), traveling"
+      },
+      {
+        "word": "逃走",
+        "reading": "とうそう",
+        "meaning": "flight, desertion, escape"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この車は時速６０キロで走っている。",
+        "reading": "このくるまはじそく６０キロではしっている。",
+        "english": "This car is going 60km an hour."
+      },
+      {
+        "japanese": "ジェーンはときどき学校まで走っていく。",
+        "reading": "ジェーンはときどきがっこうまではしっていく。",
+        "english": "Jane sometimes runs to school."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0139",
+    "character": "秋",
+    "meaning": "autumn",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき",
+      "とき"
+    ],
+    "strokeCount": 9,
+    "radical": "禾",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "秋",
+        "reading": "あき",
+        "meaning": "autumn"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "秋はもうすぐそこまで来ている。",
+        "reading": "あきはもうすぐそこまできている。",
+        "english": "Autumn is just around the corner."
+      },
+      {
+        "japanese": "さわやかな秋となりました。",
+        "reading": "さわやかなあきとなりました。",
+        "english": "Cool fall is here."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0140",
+    "character": "夏",
+    "meaning": "summer",
+    "onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "strokeCount": 10,
+    "radical": "夊",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "summer"
+      },
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "summer holiday"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "夏の通学服は白と青のチェックです。",
+        "english": "My summer school dress is blue and white checkered."
+      },
+      {
+        "japanese": "この前の夏にこの池は水がなくなりました。",
+        "english": "The pond dried up last summer."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0141",
+    "character": "習",
+    "meaning": "learn",
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "なら.う",
+      "なら.い"
+    ],
+    "strokeCount": 11,
+    "radical": "羽",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": "to learn"
+      },
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "to practice"
+      },
+      {
+        "word": "習慣",
+        "reading": "しゅうかん",
+        "meaning": "custom, manners"
+      },
+      {
+        "word": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "revision"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "車の運転を習っています。",
+        "reading": "くるまのうんてんをならっています。",
+        "english": "I've been learning to drive."
+      },
+      {
+        "japanese": "今ギターを習っています。",
+        "reading": "いまギターをならっています。",
+        "english": "I am learning to play the guitar now."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0142",
+    "character": "駅",
+    "meaning": "station",
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 14,
+    "radical": "馬",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "station"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "グランド・セントラル駅までやってください。",
+        "reading": "グランド・セントラルえきまでやってください。",
+        "english": "Grand Central Station, please."
+      },
+      {
+        "japanese": "ここから駅まで２マイルあります。",
+        "reading": "ここからえきまで２マイルあります。",
+        "english": "It's two miles from here to the station."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0143",
+    "character": "洋",
+    "meaning": "ocean, sea, foreign, Western style",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "radical": "水",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "western-style clothes"
+      },
+      {
+        "word": "西洋",
+        "reading": "せいよう",
+        "meaning": "western countries"
+      },
+      {
+        "word": "海洋",
+        "reading": "かいよう",
+        "meaning": "ocean"
+      },
+      {
+        "word": "東洋",
+        "reading": "とうよう",
+        "meaning": "Orient"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "お前に新しい洋服を作ってあげよう。",
+        "reading": "おまえにあたらしいようふくをつくってあげよう。",
+        "english": "I will make a new suit for you."
+      },
+      {
+        "japanese": "とてもすてきな洋服ですね。",
+        "reading": "とてもすてきなようふくですね。",
+        "english": "That's a beautiful dress."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0144",
+    "character": "旅",
+    "meaning": "trip, travel",
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "strokeCount": 10,
+    "radical": "方",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel"
+      },
+      {
+        "word": "旅館",
+        "reading": "りょかん",
+        "meaning": "Japanese hotel"
+      },
+      {
+        "word": "旅",
+        "reading": "たび",
+        "meaning": "travel, trip, journey"
+      },
+      {
+        "word": "旅客",
+        "reading": "りょかく",
+        "meaning": "passenger (transport)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "いつ旅行においでになりますか。",
+        "reading": "いつりょこうにおいでになりますか。",
+        "english": "When will you go on a journey?"
+      },
+      {
+        "japanese": "旅行の初めの二日間は雨降りだった。",
+        "reading": "りょこうのはじめのふつかかんはあめふりだった。",
+        "english": "The first two days of my trip were rainy."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0145",
+    "character": "服",
+    "meaning": "clothing, admit, obey, discharge",
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 8,
+    "radical": "月",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "服",
+        "reading": "ふく",
+        "meaning": "clothes"
+      },
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "western-style clothes"
+      },
+      {
+        "word": "衣服",
+        "reading": "いふく",
+        "meaning": "clothes"
+      },
+      {
+        "word": "克服",
+        "reading": "こくふく",
+        "meaning": "subjugation, conquest"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "夏の通学服は白と青のチェックです。",
+        "english": "My summer school dress is blue and white checkered."
+      },
+      {
+        "japanese": "この服はわたしにはもったいない。",
+        "reading": "このふくはわたしにはもったいない。",
+        "english": "This suit is too good for me."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0146",
+    "character": "夕",
+    "meaning": "evening",
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "strokeCount": 3,
+    "radical": "夕",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "word": "夕飯",
+        "reading": "ゆうはん",
+        "meaning": "dinner"
+      },
+      {
+        "word": "夕べ",
+        "reading": "ゆうべ",
+        "meaning": "evening"
+      },
+      {
+        "word": "夕刊",
+        "reading": "ゆうかん",
+        "meaning": "evening paper"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "夕食がテーブルに並べられた。",
+        "reading": "ゆうしょくがテーブルにならべられた。",
+        "english": "Supper was laid out on the table."
+      },
+      {
+        "japanese": "ひょっとすると夕方前に雨になるかもしれない。",
+        "reading": "ひょっとするとゆうがた#1392580にあめになるかもしれない。",
+        "english": "It might rain before evening."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0147",
+    "character": "借",
+    "meaning": "borrow, rent",
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か.りる"
+    ],
+    "strokeCount": 10,
+    "radical": "人",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": "to borrow"
+      },
+      {
+        "word": "借金",
+        "reading": "しゃっきん",
+        "meaning": "debt, loan, liabilities"
+      },
+      {
+        "word": "借り",
+        "reading": "かり",
+        "meaning": "borrowing, debt, loan"
+      },
+      {
+        "word": "拝借",
+        "reading": "はいしゃく",
+        "meaning": "borrowing"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この本をお借りしてもよろしいですか。",
+        "reading": "このほんをおかりしてもよろしいですか。",
+        "english": "May I borrow this book?"
+      },
+      {
+        "japanese": "借りた本をなくしてしまいました。",
+        "reading": "かりたほんをなくしてしまいました。",
+        "english": "I lost the book you lent me."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0148",
+    "character": "曜",
+    "meaning": "weekday",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 18,
+    "radical": "日",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "火曜日",
+        "reading": "かようび",
+        "meaning": "Tuesday"
+      },
+      {
+        "word": "金曜日",
+        "reading": "きんようび",
+        "meaning": "Friday"
+      },
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday"
+      },
+      {
+        "word": "水曜日",
+        "reading": "すいようび",
+        "meaning": "Wednesday"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "火曜日に国会が開かれる。",
+        "reading": "かようびにこっかいがひらかれる。",
+        "english": "The Diet will meet on Tuesday."
+      },
+      {
+        "japanese": "火曜日まで待ってもよいのではありませんか。",
+        "reading": "かようびまでまってもよいのではありませんか。",
+        "english": "You might as well wait until Tuesday."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0149",
+    "character": "飲",
+    "meaning": "drink, smoke, take",
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "kunyomi": [
+      "の.む",
+      "-の.み"
+    ],
+    "strokeCount": 12,
+    "radical": "食",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "meaning": "a drink"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink"
+      },
+      {
+        "word": "湯飲み",
+        "reading": "ゆのみ",
+        "meaning": "teacup"
+      },
+      {
+        "word": "飲み込む",
+        "reading": "のみこむ",
+        "meaning": "to gulp down, to swallow deeply, to understand, to take in, to catch on to, to learn, to digest"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あのおいしいワインをなぜ飲まないんだい。",
+        "reading": "あのおいしいワインをなぜのまないんだい。",
+        "english": "Why not try that delicious wine?"
+      },
+      {
+        "japanese": "お酒を飲んでもいいですか。",
+        "reading": "おさけをのんでもいいですか。",
+        "english": "Can I drink alcohol?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0150",
+    "character": "肉",
+    "meaning": "meat",
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [
+      "しし"
+    ],
+    "strokeCount": 6,
+    "radical": "肉",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef"
+      },
+      {
+        "word": "鶏肉",
+        "reading": "とりにく",
+        "meaning": "chicken meat"
+      },
+      {
+        "word": "肉",
+        "reading": "にく",
+        "meaning": "meat"
+      },
+      {
+        "word": "豚肉",
+        "reading": "ぶたにく",
+        "meaning": "pork"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "肉を薄く切りなさい。",
+        "reading": "にくをうすくきりなさい。",
+        "english": "Cut the meat into thin slices."
+      },
+      {
+        "japanese": "日本人はイギリス人より牛肉を食べる。",
+        "reading": "にほんじんはイギリスじんよりぎゅうにくをたべる。",
+        "english": "The Japanese eat more beef than the British do."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0151",
+    "character": "貸",
+    "meaning": "lend",
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.す",
+      "か.し-",
+      "かし-"
+    ],
+    "strokeCount": 12,
+    "radical": "貝",
+    "grade": 5,
+    "exampleWords": [
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": "to lend"
+      },
+      {
+        "word": "貸し",
+        "reading": "かし",
+        "meaning": "loan, lending"
+      },
+      {
+        "word": "貸し出し",
+        "reading": "かしだし",
+        "meaning": "lending, loaning"
+      },
+      {
+        "word": "貸間",
+        "reading": "かしま",
+        "meaning": "room to let"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "ホッチキスを貸してくれませんか。",
+        "reading": "ホッチキスをかしてくれませんか。",
+        "english": "Will you please lend me a stapler?"
+      },
+      {
+        "japanese": "ヘアドライヤーを貸してください。",
+        "reading": "ヘアドライヤーをかしてください。",
+        "english": "Can I borrow your hair drier?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0152",
+    "character": "堂",
+    "meaning": "public chamber, hall",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "radical": "土",
+    "grade": 5,
+    "exampleWords": [
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "dining hall"
+      },
+      {
+        "word": "講堂",
+        "reading": "こうどう",
+        "meaning": "auditorium"
+      },
+      {
+        "word": "議事堂",
+        "reading": "ぎじどう",
+        "meaning": "Diet building"
+      },
+      {
+        "word": "堂々",
+        "reading": "どうどう",
+        "meaning": "magnificent, grand, impressive"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "食堂はセルフサービスでした。",
+        "reading": "しょくどうはセルフサービスでした。",
+        "english": "The cafeteria was self-service."
+      },
+      {
+        "japanese": "食堂は何時にあきますか。",
+        "reading": "しょくどうはなんじにあきますか。",
+        "english": "What time does the dining room open?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0153",
+    "character": "鳥",
+    "meaning": "bird, chicken",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "strokeCount": 11,
+    "radical": "鳥",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "meaning": "bird"
+      },
+      {
+        "word": "小鳥",
+        "reading": "ことり",
+        "meaning": "small bird"
+      },
+      {
+        "word": "鳥居",
+        "reading": "とりい",
+        "meaning": "torii (Shinto shrine archway)"
+      },
+      {
+        "word": "渡り鳥",
+        "reading": "わたりどり",
+        "meaning": "migratory bird, bird of passage"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "なんてきれいな鳥なんだろう。",
+        "reading": "なんてきれいなとりなんだろう。",
+        "english": "What a beautiful bird it is!"
+      },
+      {
+        "japanese": "木の中でさえずっている鳥を見てごらん。",
+        "reading": "きのなかでさえずっているとりをみてごらん。",
+        "english": "Look at the bird singing in the tree."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0154",
+    "character": "飯",
+    "meaning": "meal, boiled rice",
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "strokeCount": 12,
+    "radical": "食",
+    "grade": 4,
+    "exampleWords": [
+      {
+        "word": "御飯",
+        "reading": "ごはん",
+        "meaning": "cooked rice, meal"
+      },
+      {
+        "word": "晩御飯",
+        "reading": "ばんごはん",
+        "meaning": "evening meal"
+      },
+      {
+        "word": "昼御飯",
+        "reading": "ひるごはん",
+        "meaning": "midday meal"
+      },
+      {
+        "word": "夕飯",
+        "reading": "ゆうはん",
+        "meaning": "dinner"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "朝ご飯に何を食べますか。",
+        "reading": "あさごはんになにをたべますか。",
+        "english": "What do you usually have for breakfast?"
+      },
+      {
+        "japanese": "おはよう。ご飯をよそっても良いかしら？",
+        "reading": "おはよう。ごはんをよそってもよいかしら？",
+        "english": "Morning. Shall I dish up?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0155",
+    "character": "勉",
+    "meaning": "exertion, endeavour, encourage, strive",
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "strokeCount": 10,
+    "radical": "力",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "to study"
+      },
+      {
+        "word": "勤勉",
+        "reading": "きんべん",
+        "meaning": "industry, diligence"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "あなたは何時間勉強していますか。",
+        "reading": "あなたはなんじかんべんきょうしていますか。",
+        "english": "How many hours have you been studying?"
+      },
+      {
+        "japanese": "なぜあなたは毎日勉強するのですか。",
+        "reading": "なぜあなたはまいにちべんきょうするのですか。",
+        "english": "Why do you study every day?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0156",
+    "character": "冬",
+    "meaning": "winter",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "strokeCount": 5,
+    "radical": "冫",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "winter"
+      },
+      {
+        "word": "冬眠",
+        "reading": "とうみん",
+        "meaning": "hibernation, winter sleep"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "まもなく冬だ。",
+        "reading": "まもなくふゆだ。",
+        "english": "It will be winter before long."
+      },
+      {
+        "japanese": "冬でもなおアスパラガスが食べられる。",
+        "reading": "ふゆでもなおアスパラガスがたべられる。",
+        "english": "You can still get asparagus in the winter."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0157",
+    "character": "昼",
+    "meaning": "daytime, noon",
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "strokeCount": 9,
+    "radical": "日",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "昼",
+        "reading": "ひる",
+        "meaning": "noon, daytime"
+      },
+      {
+        "word": "昼御飯",
+        "reading": "ひるごはん",
+        "meaning": "midday meal"
+      },
+      {
+        "word": "昼間",
+        "reading": "ひるま",
+        "meaning": "daytime, during the day"
+      },
+      {
+        "word": "昼休み",
+        "reading": "ひるやすみ",
+        "meaning": "noon break"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "私たちは喫茶店で昼食をとった。",
+        "reading": "わたしたちはきっさてんでちゅうしょくをとった。",
+        "english": "We ate lunch in a coffee lounge."
+      },
+      {
+        "japanese": "昼はホットドッグを食べたんだ。",
+        "reading": "ひるはホットドッグをたべたんだ。",
+        "english": "I ate a hot dog for lunch."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0158",
+    "character": "茶",
+    "meaning": "tea",
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "radical": "艸",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "meaning": "green tea"
+      },
+      {
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "meaning": "coffee lounge"
+      },
+      {
+        "word": "紅茶",
+        "reading": "こうちゃ",
+        "meaning": "black tea"
+      },
+      {
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "brown"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "３時はお茶にしよう。",
+        "reading": "３じはおちゃにしよう。",
+        "english": "Let's have tea at 3:00."
+      },
+      {
+        "japanese": "お茶かコーヒーでもいかがですか。",
+        "reading": "おちゃかコーヒーでもいかがですか。",
+        "english": "Would you like tea or coffee?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0159",
+    "character": "弟",
+    "meaning": "younger brother, faithful service to elders",
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "strokeCount": 7,
+    "radical": "弓",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "(humble) siblings"
+      },
+      {
+        "word": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "弟のことなんかほっときなさい。",
+        "reading": "おとうとのことなんかほっときなさい。",
+        "english": "Leave him alone."
+      },
+      {
+        "japanese": "マイクは弟にひどいいたずらをした。",
+        "reading": "マイクはおとうとにひどいいたずらをした。",
+        "english": "Mike played a bad trick on his brother."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0160",
+    "character": "牛",
+    "meaning": "cow",
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "strokeCount": 4,
+    "radical": "牛",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef"
+      },
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "milk"
+      },
+      {
+        "word": "牛",
+        "reading": "うし",
+        "meaning": "cattle, cow"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "日本人はイギリス人より牛肉を食べる。",
+        "reading": "にほんじんはイギリスじんよりぎゅうにくをたべる。",
+        "english": "The Japanese eat more beef than the British do."
+      },
+      {
+        "japanese": "この牛肉は１ポンドにつき４ドルです。",
+        "reading": "このぎゅうにくは１ポンドにつき４ドルです。",
+        "english": "This beef is four dollars per pound."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0161",
+    "character": "魚",
+    "meaning": "fish",
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "strokeCount": 11,
+    "radical": "魚",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": "fish"
+      },
+      {
+        "word": "金魚",
+        "reading": "きんぎょ",
+        "meaning": "goldfish"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "日本人は魚をたくさん食べますか。",
+        "reading": "にほんじんはさかなをたくさんたべますか。",
+        "english": "Do Japanese eat a lot of fish?"
+      },
+      {
+        "japanese": "魚は水中でなければ生きられない。",
+        "reading": "さかなはすいちゅうでなければいきられない。",
+        "english": "Fish cannot live out of water."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0162",
+    "character": "兄",
+    "meaning": "elder brother, big brother",
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "strokeCount": 5,
+    "radical": "儿",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "(humble) older brother"
+      },
+      {
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "meaning": "(honorable) older brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "(humble) siblings"
+      },
+      {
+        "word": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "cousin (male)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "これは兄です。かっこいいですね。",
+        "reading": "これはあにです。かっこいいですね。",
+        "english": "This is my brother. Handsome, isn't he?"
+      },
+      {
+        "japanese": "兄はアパートをさがしています。",
+        "reading": "あにはアパートをさがしています。",
+        "english": "My brother is looking for an apartment."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0163",
+    "character": "犬",
+    "meaning": "dog",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "strokeCount": 4,
+    "radical": "犬",
+    "grade": 1,
+    "exampleWords": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "meaning": "dog"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "その犬はかみついたりしませんよ。",
+        "reading": "そのいぬはかみついたりしませんよ。",
+        "english": "The dog will not harm you."
+      },
+      {
+        "japanese": "この犬は何でもほとんど食べます。",
+        "reading": "このいぬはなんでもほとんどたべます。",
+        "english": "This dog eats almost anything."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0164",
+    "character": "妹",
+    "meaning": "younger sister",
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "strokeCount": 8,
+    "radical": "女",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "(humble) younger sister"
+      },
+      {
+        "word": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "cousin (female)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "男の子は妹を見下ろしがちである。",
+        "reading": "おとこのこはいもうとをみおろしがちである。",
+        "english": "Boys tend to look down on their younger sisters."
+      },
+      {
+        "japanese": "あいつの妹、とてもかわいいね。",
+        "reading": "あいつのいもうと、とてもかわいいね。",
+        "english": "His little sister is very cute, isn't she?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0165",
+    "character": "姉",
+    "meaning": "elder sister",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね",
+      "はは"
+    ],
+    "strokeCount": 8,
+    "radical": "女",
+    "grade": 2,
+    "exampleWords": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "meaning": "(humble) older sister"
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": "(honorable) older sister"
+      },
+      {
+        "word": "従姉妹",
+        "reading": "いとこ",
+        "meaning": "cousin (female)"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "先月、姉は６ポンドの男の子を生んだ。",
+        "reading": "せんげつ、あねは６ポンドのおとこのこをうんだ。",
+        "english": "Last month my sister gave birth to a six-pound baby."
+      },
+      {
+        "japanese": "姉は私のズボンにアイロンをかけてくれる。",
+        "english": "My sister presses my trousers."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0166",
+    "character": "漢",
+    "meaning": "Sino-, China",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 13,
+    "radical": "水",
+    "grade": 3,
+    "exampleWords": [
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "Chinese character"
+      },
+      {
+        "word": "漢和",
+        "reading": "かんわ",
+        "meaning": "Chinese Character-Japanese (e.g. dictionary)"
+      },
+      {
+        "word": "漢語",
+        "reading": "かんご",
+        "meaning": "Chinese word, Sino-Japanese word"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "この漢字はどういう意味ですか。",
+        "reading": "このかんじはどういういみですか。",
+        "english": "What does this kanji mean?"
+      },
+      {
+        "japanese": "君はこの漢字が読めますか。",
+        "reading": "きみはこのかんじがよめますか。",
+        "english": "Can you read this kanji?"
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0167",
+    "character": "坊",
+    "meaning": "boy, priest's residence, priest",
+    "onyomi": [
+      "ボウ",
+      "ボッ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 7,
+    "radical": "土",
+    "grade": 8,
+    "exampleWords": [
+      {
+        "word": "赤ん坊",
+        "reading": "あかんぼう",
+        "meaning": "baby"
+      },
+      {
+        "word": "寝坊",
+        "reading": "ねぼう",
+        "meaning": "sleeping in late"
+      },
+      {
+        "word": "坊さん",
+        "reading": "ぼうさん",
+        "meaning": "Buddhist priest, monk"
+      },
+      {
+        "word": "坊や",
+        "reading": "ぼうや",
+        "meaning": "boy"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "母親は赤ん坊をベッドに横にした。",
+        "reading": "ははおやはあかんぼうをベッドによこにした。",
+        "english": "The mother laid her baby on the bed."
+      },
+      {
+        "japanese": "うちの赤ん坊は口をきくようになってきました。",
+        "english": "Our baby is learning to speak."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0168",
+    "character": "凄",
+    "meaning": "uncanny, weird, threatening, horrible",
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "さむ.い",
+      "すご.い",
+      "すさ.まじい"
+    ],
+    "strokeCount": 10,
+    "radical": "冫",
+    "grade": 8,
+    "exampleWords": [
+      {
+        "word": "凄い",
+        "reading": "すごい",
+        "meaning": "terrific"
+      },
+      {
+        "word": "物凄い",
+        "reading": "ものすごい",
+        "meaning": "earth-shattering, staggering, to a very great extent"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "凄い明かりが野球場にあたっていた。",
+        "reading": "すごいあかりがやきゅうじょうにあたっていた。",
+        "english": "A great light was diffused over the baseball stadium."
+      }
+    ],
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-k-0169",
+    "character": "痩",
+    "meaning": "get thin",
+    "onyomi": [
+      "ソウ",
+      "チュウ",
+      "シュウ",
+      "シュ"
+    ],
+    "kunyomi": [
+      "や.せる"
+    ],
+    "strokeCount": 12,
+    "radical": "疒",
+    "grade": 8,
+    "exampleWords": [
+      {
+        "word": "痩せる",
+        "reading": "やせる",
+        "meaning": "to become thin"
+      }
+    ],
+    "exampleSentences": [
+      {
+        "japanese": "彼女はレールのように痩せていた。",
+        "reading": "かのじょはレールのようにやせていた。",
+        "english": "She was as thin as a rail."
+      },
+      {
+        "japanese": "彼はオオカミのように痩せている。",
+        "reading": "かれはオオカミのようにやせている。",
+        "english": "He is as lean as a wolf."
+      }
+    ],
+    "jlptLevel": "n4"
+  }
+]

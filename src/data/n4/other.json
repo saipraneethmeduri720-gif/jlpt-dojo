@@ -1,0 +1,695 @@
+[
+  {
+    "id": "n4-o-0001",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一冊",
+    "reading": "いっさつ",
+    "meaning": "one book (bound)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0002",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二冊",
+    "reading": "にさつ",
+    "meaning": "two books",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0003",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三冊",
+    "reading": "さんさつ",
+    "meaning": "three books",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0004",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一匹",
+    "reading": "いっぴき",
+    "meaning": "one small animal",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0005",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二匹",
+    "reading": "にひき",
+    "meaning": "two small animals",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0006",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三匹",
+    "reading": "さんびき",
+    "meaning": "three small animals",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0007",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一回",
+    "reading": "いっかい",
+    "meaning": "one time/occurrence",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0008",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二回",
+    "reading": "にかい",
+    "meaning": "two times",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0009",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三回",
+    "reading": "さんかい",
+    "meaning": "three times",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0010",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一週間",
+    "reading": "いっしゅうかん",
+    "meaning": "one week (duration)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0011",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二週間",
+    "reading": "にしゅうかん",
+    "meaning": "two weeks",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0012",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三週間",
+    "reading": "さんしゅうかん",
+    "meaning": "three weeks",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0013",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一ヶ月",
+    "reading": "いっかげつ",
+    "meaning": "one month (duration)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0014",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二ヶ月",
+    "reading": "にかげつ",
+    "meaning": "two months",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0015",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三ヶ月",
+    "reading": "さんかげつ",
+    "meaning": "three months",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0016",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一年",
+    "reading": "いちねん",
+    "meaning": "one year (duration)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0017",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二年",
+    "reading": "にねん",
+    "meaning": "two years",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0018",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三年",
+    "reading": "さんねん",
+    "meaning": "three years",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0019",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一番",
+    "reading": "いちばん",
+    "meaning": "first; number one; best",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0020",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二番",
+    "reading": "にばん",
+    "meaning": "second",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0021",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三番",
+    "reading": "さんばん",
+    "meaning": "third",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0022",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "一階",
+    "reading": "いっかい",
+    "meaning": "first floor",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0023",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "二階",
+    "reading": "にかい",
+    "meaning": "second floor",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0024",
+    "title": "Counter (助数詞)",
+    "subCategory": "counters",
+    "japanese": "三階",
+    "reading": "さんがい",
+    "meaning": "third floor",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0025",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "おととし",
+    "reading": "おととし",
+    "meaning": "the year before last",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0026",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "去年",
+    "reading": "きょねん",
+    "meaning": "last year",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0027",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今年",
+    "reading": "ことし",
+    "meaning": "this year",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0028",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "来年",
+    "reading": "らいねん",
+    "meaning": "next year",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0029",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "再来年",
+    "reading": "さらいねん",
+    "meaning": "the year after next",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0030",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "先月",
+    "reading": "せんげつ",
+    "meaning": "last month",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0031",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "今月",
+    "reading": "こんげつ",
+    "meaning": "this month",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0032",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "来月",
+    "reading": "らいげつ",
+    "meaning": "next month",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0033",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "every week",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0034",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "毎月",
+    "reading": "まいつき",
+    "meaning": "every month",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0035",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "毎年",
+    "reading": "まいとし",
+    "meaning": "every year",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0036",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "〜ごろ",
+    "reading": "〜ごろ",
+    "meaning": "around ~ (approximate time)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0037",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "〜すぎ",
+    "reading": "〜すぎ",
+    "meaning": "past ~ (time)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0038",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "〜まえ",
+    "reading": "〜まえ",
+    "meaning": "before ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0039",
+    "title": "Time expression",
+    "subCategory": "time",
+    "japanese": "〜から〜まで",
+    "reading": "〜から〜まで",
+    "meaning": "from ~ to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0040",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜たことがあります",
+    "reading": "〜たことがあります",
+    "meaning": "have done ~ before (experience)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0041",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜たり〜たりします",
+    "reading": "〜たり〜たりします",
+    "meaning": "do things like ~ and ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0042",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ながら",
+    "reading": "〜ながら",
+    "meaning": "while doing ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0043",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜やすい",
+    "reading": "〜やすい",
+    "meaning": "easy to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0044",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜にくい",
+    "reading": "〜にくい",
+    "meaning": "difficult to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0045",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜すぎる",
+    "reading": "〜すぎる",
+    "meaning": "too much; over-",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0046",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜そうです",
+    "reading": "〜そうです",
+    "meaning": "looks like ~ (hearsay/appearance)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0047",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜かもしれません",
+    "reading": "〜かもしれません",
+    "meaning": "might ~; perhaps",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0048",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜つもりです",
+    "reading": "〜つもりです",
+    "meaning": "intend to ~ (plan)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0049",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜よていです",
+    "reading": "〜よていです",
+    "meaning": "plan to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0050",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ば",
+    "reading": "〜ば",
+    "meaning": "if ~ (conditional)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0051",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜なら",
+    "reading": "〜なら",
+    "meaning": "if ~ (conditional)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0052",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ても",
+    "reading": "〜ても",
+    "meaning": "even if ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0053",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜なくてもいいです",
+    "reading": "〜なくてもいいです",
+    "meaning": "don't have to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0054",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜なければなりません",
+    "reading": "〜なければなりません",
+    "meaning": "must ~ (obligation)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0055",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てしまう",
+    "reading": "〜てしまう",
+    "meaning": "finish ~; end up doing ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0056",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ておく",
+    "reading": "〜ておく",
+    "meaning": "do ~ in advance",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0057",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てある",
+    "reading": "〜てある",
+    "meaning": "has been done ~ (resulting state)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0058",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てみる",
+    "reading": "〜てみる",
+    "meaning": "try doing ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0059",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ていく",
+    "reading": "〜ていく",
+    "meaning": "do ~ and go; continue to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0060",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜てくる",
+    "reading": "〜てくる",
+    "meaning": "do ~ and come; come to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0061",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ところです",
+    "reading": "〜ところです",
+    "meaning": "just about to do ~ / in the middle of ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0062",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ばかりです",
+    "reading": "〜ばかりです",
+    "meaning": "just did ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0063",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜はずです",
+    "reading": "〜はずです",
+    "meaning": "should be ~ (expectation)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0064",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ようです",
+    "reading": "〜ようです",
+    "meaning": "seems ~ (observation)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0065",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜らしいです",
+    "reading": "〜らしいです",
+    "meaning": "seems ~ (hearsay)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0066",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜みたいです",
+    "reading": "〜みたいです",
+    "meaning": "looks like ~ (colloquial)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0067",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ようにします",
+    "reading": "〜ようにします",
+    "meaning": "make an effort to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0068",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ようになります",
+    "reading": "〜ようになります",
+    "meaning": "come to ~ (become able)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0069",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ことにします",
+    "reading": "〜ことにします",
+    "meaning": "decide to ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0070",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ことになります",
+    "reading": "〜ことになります",
+    "meaning": "it has been decided that ~",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0071",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "いらっしゃいます",
+    "reading": "いらっしゃいます",
+    "meaning": "come/go/be (honorific of 来る/行く/いる)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0072",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "おっしゃいます",
+    "reading": "おっしゃいます",
+    "meaning": "say (honorific of 言う)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0073",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "めしあがります",
+    "reading": "めしあがります",
+    "meaning": "eat/drink (honorific of 食べる/飲む)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0074",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "ごらんになります",
+    "reading": "ごらんになります",
+    "meaning": "look/see (honorific of 見る)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0075",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "なさいます",
+    "reading": "なさいます",
+    "meaning": "do (honorific of する)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0076",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "お〜になります",
+    "reading": "お〜になります",
+    "meaning": "honorific pattern (お+stem+になる)",
+    "jlptLevel": "n4"
+  },
+  {
+    "id": "n4-o-0077",
+    "title": "Honorific (尊敬語)",
+    "subCategory": "keigo",
+    "japanese": "お〜ください",
+    "reading": "お〜ください",
+    "meaning": "please do ~ (honorific request)",
+    "jlptLevel": "n4"
+  }
+]

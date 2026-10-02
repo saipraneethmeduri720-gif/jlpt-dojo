@@ -1,0 +1,263 @@
+[
+  {
+    "id": "n1-o-0001",
+    "title": "Literary conjunction (文語的接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "かくして",
+    "reading": "かくして",
+    "meaning": "thus; and so (literary)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0002",
+    "title": "Literary conjunction (文語的接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "いわんや",
+    "reading": "いわんや",
+    "meaning": "much less; let alone (literary)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0003",
+    "title": "Literary conjunction (文語的接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "しかるに",
+    "reading": "しかるに",
+    "meaning": "however; and yet (literary)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0004",
+    "title": "Literary conjunction (文語的接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "されど",
+    "reading": "されど",
+    "meaning": "nevertheless (archaic/literary)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0005",
+    "title": "Literary conjunction (文語的接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "すなわち",
+    "reading": "すなわち",
+    "meaning": "namely; in other words",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0006",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "青天の霹靂",
+    "reading": "せいてんのへきれき",
+    "meaning": "a bolt from the blue",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0007",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "画竜点睛",
+    "reading": "がりょうてんせい",
+    "meaning": "the finishing touch (lit. adding the eye to a painted dragon)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0008",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "温故知新",
+    "reading": "おんこちしん",
+    "meaning": "learning from the past (lit. reviewing the old to know the new)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0009",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "五十歩百歩",
+    "reading": "ごじゅっぽひゃっぽ",
+    "meaning": "six of one, half a dozen of the other",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0010",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "漁夫の利",
+    "reading": "ぎょふのり",
+    "meaning": "profit from others' conflict (lit. the fisherman's gain)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0011",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "杞憂",
+    "reading": "きゆう",
+    "meaning": "needless fear (lit. worries of the Qi)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0012",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "四面楚歌",
+    "reading": "しめんそか",
+    "meaning": "besieged on all sides",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0013",
+    "title": "Four-character idiom (四字熟語)",
+    "subCategory": "idioms",
+    "japanese": "馬耳東風",
+    "reading": "ばじとうふう",
+    "meaning": "utter indifference (lit. east wind on a horse's ear)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0014",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜にあたって",
+    "reading": "〜にあたって",
+    "meaning": "on the occasion of ~ (formal)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0015",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜をよそに",
+    "reading": "〜をよそに",
+    "meaning": "in defiance of ~; ignoring ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0016",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜をものともせず",
+    "reading": "〜をものともせず",
+    "meaning": "undaunted by ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0017",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がてら",
+    "reading": "〜がてら",
+    "meaning": "while ~ (doing two things)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0018",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜かたがた",
+    "reading": "〜かたがた",
+    "meaning": "both ~ and ~ (formal)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0019",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜かたわら",
+    "reading": "〜かたわら",
+    "meaning": "while ~; in addition to ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0020",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜なり",
+    "reading": "〜なり",
+    "meaning": "as soon as ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0021",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜や否や",
+    "reading": "〜やいなや",
+    "meaning": "no sooner than ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0022",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜そばから",
+    "reading": "〜そばから",
+    "meaning": "as soon as ~ (repeatedly)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0023",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜に至って",
+    "reading": "〜にいたって",
+    "meaning": "only when it comes to ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0024",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜に至るまで",
+    "reading": "〜にいたるまで",
+    "meaning": "up to ~; even ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0025",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜までもない",
+    "reading": "〜までもない",
+    "meaning": "there is no need to ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0026",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜べからず",
+    "reading": "〜べからず",
+    "meaning": "must not ~ (written prohibition)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0027",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ずくめ",
+    "reading": "〜ずくめ",
+    "meaning": "entirely ~; nothing but ~",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0028",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ながらも",
+    "reading": "〜ながらも",
+    "meaning": "although ~ (despite)",
+    "jlptLevel": "n1"
+  },
+  {
+    "id": "n1-o-0029",
+    "title": "Advanced pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜とはいえ",
+    "reading": "〜とはいえ",
+    "meaning": "although ~; it is said that ~",
+    "jlptLevel": "n1"
+  }
+]

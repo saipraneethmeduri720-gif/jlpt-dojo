@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #FDFBF7;
+    --bg-card: #FFFFFF;
+    --color-primary: #14213D;
+    --color-accent: #E83929;
+    --color-charcoal: #1C1917;
+    --border-subtle: #E8E3DA;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--color-charcoal);
+    font-feature-settings: "palt" 1;
+    overflow-x: hidden;
+  }
+
+  /* Accessible focus outline */
+  *:focus-visible {
+    outline: 2px solid #E83929;
+    outline-offset: 2px;
+  }
+}
+
+/* Custom subtle scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F2EB;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D8D2C6;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #B8B0A2;
+}
+
+/* Japanese card & decorative styles */
+.washi-card {
+  background: #FFFFFF;
+  border: 1px solid #EAE5DC;
+  box-shadow: 0 2px 10px rgba(20, 33, 61, 0.03);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.washi-card:hover {
+  border-color: #D8D1C4;
+  box-shadow: 0 8px 24px rgba(20, 33, 61, 0.06);
+}
+
+/* Subtle traditional Japanese Asanoha / Seigaiha geometric background accent */
+.bg-japanese-pattern {
+  background-color: #FDFBF7;
+  background-image: radial-gradient(#14213D 0.5px, transparent 0.5px), radial-gradient(#E83929 0.5px, #FDFBF7 0.5px);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+  background-opacity: 0.03;
+}
+
+/* Kanji card hover bounce & glow */
+.kanji-box {
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.kanji-box:hover {
+  transform: translateY(-2px);
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseSubtle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-pulse-subtle {
+  animation: pulseSubtle 2s ease-in-out infinite;
+}

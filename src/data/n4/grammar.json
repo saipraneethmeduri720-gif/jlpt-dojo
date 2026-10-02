@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "n4-g-0001",
+    "pattern": "あげる / くれる / もらう",
+    "meaning": "give (to someone else); give (to me or my group); receive",
+    "structure": "Noun (receiver) + に + Noun + を + あげる / Noun (giver) + が + Noun + を + くれる / Noun (giver) + に + Noun + を + もらう",
+    "usage": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "私は弟に古いゲームをあげた。",
+        "english": "I gave my old game to my little brother."
+      },
+      {
+        "japanese": "姉が誕生日にかわいいかばんをくれました。",
+        "english": "My older sister gave me a cute bag for my birthday."
+      },
+      {
+        "japanese": "友達から旅行のおみやげをもらった。",
+        "english": "I got a souvenir from my friend's trip."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "giving-receiving"
+  },
+  {
+    "id": "n4-g-0002",
+    "pattern": "〜てあげる",
+    "meaning": "do something for someone (as a favor)",
+    "structure": "Verb-te + あげる",
+    "usage": "Said directly to a superior it can sound condescending; use the humble お〜しましょうか (お持ちしましょうか) instead.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "妹の宿題を手伝ってあげました。",
+        "english": "I helped my little sister with her homework."
+      },
+      {
+        "japanese": "道に迷っている人に、駅までの行き方を教えてあげた。",
+        "english": "I showed someone who was lost how to get to the station."
+      },
+      {
+        "japanese": "重そうだね。持ってあげようか。",
+        "english": "That looks heavy. Want me to carry it for you?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "giving-receiving"
+  },
+  {
+    "id": "n4-g-0003",
+    "pattern": "〜てくれる",
+    "meaning": "someone does something for me (or my group)",
+    "structure": "Verb-te + くれる",
+    "usage": "The subject is the person doing the favor; the one who benefits is the speaker or someone close to them.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "友達が引っ越しを手伝ってくれた。",
+        "english": "A friend helped me move."
+      },
+      {
+        "japanese": "父が駅まで車で送ってくれました。",
+        "english": "My father drove me to the station."
+      },
+      {
+        "japanese": "母が毎朝お弁当を作ってくれます。",
+        "english": "My mother makes me a boxed lunch every morning."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "giving-receiving"
+  },
+  {
+    "id": "n4-g-0004",
+    "pattern": "〜てもらう",
+    "meaning": "have someone do something (for me); get someone to do",
+    "structure": "Verb-te + もらう",
+    "usage": "The receiver of the favor is the subject, and the person who does the action is marked with に.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "先輩にレポートを見てもらった。",
+        "english": "I had a senior student look over my report."
+      },
+      {
+        "japanese": "友達に写真を撮ってもらった。",
+        "english": "I had a friend take my picture."
+      },
+      {
+        "japanese": "分からないところを先生に説明してもらいました。",
+        "english": "I had the teacher explain the parts I didn't understand."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "giving-receiving"
+  },
+  {
+    "id": "n4-g-0005",
+    "pattern": "〜てくださる / 〜ていただく",
+    "meaning": "(honorific) someone kindly does for me; (humble) I receive the favor of someone doing",
+    "structure": "Verb-te + くださる / Verb-te + いただく",
+    "usage": "くださる is the honorific version of くれる (ます-form: くださいます); いただく is the humble version of もらう.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "先生が私の作文を直してくださいました。",
+        "english": "My teacher kindly corrected my essay."
+      },
+      {
+        "japanese": "ホテルの方に、おいしい店を教えていただきました。",
+        "english": "The hotel staff kindly told me about a good restaurant."
+      },
+      {
+        "japanese": "今日は来ていただいて、ありがとうございました。",
+        "english": "Thank you very much for coming today."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "giving-receiving"
+  },
+  {
+    "id": "n4-g-0006",
+    "pattern": "〜ていく",
+    "meaning": "do something and go; go on doing (from now into the future)",
+    "structure": "Verb-te + いく",
+    "usage": "Movement or change away from the speaker, or from now toward the future. Compare 〜てくる.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "雨が降りそうだから、傘を持っていきます。",
+        "english": "It looks like rain, so I'll take an umbrella."
+      },
+      {
+        "japanese": "これからもっと寒くなっていくでしょう。",
+        "english": "It will probably keep getting colder from now on."
+      },
+      {
+        "japanese": "時間があるなら、お茶を飲んでいきませんか。",
+        "english": "If you have time, won't you have some tea before you go?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "change"
+  },
+  {
+    "id": "n4-g-0007",
+    "pattern": "〜てくる",
+    "meaning": "do something and come back; come doing; (change) up to now; start to",
+    "structure": "Verb-te + くる",
+    "usage": "Movement or change toward the speaker, or from the past up to now. 行ってきます literally means 'I'll go and come back.'",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "ちょっとコンビニに行ってきます。",
+        "english": "I'm just popping out to the convenience store."
+      },
+      {
+        "japanese": "日本語が少しずつ分かってきた。",
+        "english": "I've gradually started to understand Japanese."
+      },
+      {
+        "japanese": "おなかがすいてきた。",
+        "english": "I'm starting to get hungry."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "change"
+  },
+  {
+    "id": "n4-g-0008",
+    "pattern": "〜てしまう / 〜ちゃう",
+    "meaning": "finish completely; do by accident; end up doing (with regret)",
+    "structure": "Verb-te + しまう",
+    "usage": "In speech 〜てしまう contracts to 〜ちゃう, and 〜でしまう to 〜じゃう (飲んじゃう).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "電車に傘を忘れてしまいました。",
+        "english": "I left my umbrella on the train."
+      },
+      {
+        "japanese": "この本はおもしろくて、一晩で読んでしまった。",
+        "english": "This book was so interesting that I read the whole thing in one night."
+      },
+      {
+        "japanese": "あ、ケーキを全部食べちゃった。",
+        "english": "Oops, I ate all the cake."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "completion"
+  },
+  {
+    "id": "n4-g-0009",
+    "pattern": "〜ておく",
+    "meaning": "do in advance (to prepare); do and leave as is",
+    "structure": "Verb-te + おく",
+    "usage": "In casual speech 〜ておく often becomes 〜とく (買っとく), and 〜でおく becomes 〜どく (読んどく).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "旅行の前に、ホテルを予約しておきます。",
+        "english": "I'll book the hotel before the trip."
+      },
+      {
+        "japanese": "パーティーのために、飲み物を冷やしておいた。",
+        "english": "I chilled the drinks for the party."
+      },
+      {
+        "japanese": "エアコンはつけておいてください。",
+        "english": "Please leave the air conditioner on."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "purpose"
+  },
+  {
+    "id": "n4-g-0010",
+    "pattern": "〜てみる",
+    "meaning": "try doing (to see what it is like)",
+    "structure": "Verb-te + みる",
+    "usage": "Means trying something out to see the result, not making an effort to do something difficult.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "このシャツ、着てみてもいいですか。",
+        "english": "May I try this shirt on?"
+      },
+      {
+        "japanese": "新しくできたラーメン屋に行ってみた。",
+        "english": "I went to check out the new ramen shop."
+      },
+      {
+        "japanese": "日本の料理を自分で作ってみたいです。",
+        "english": "I want to try making Japanese food myself."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "attempt"
+  },
+  {
+    "id": "n4-g-0011",
+    "pattern": "〜てある",
+    "meaning": "has been done (and stays that way); resulting state of a deliberate action",
+    "structure": "Verb-te + ある",
+    "usage": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "入り口に地図がはってあります。",
+        "english": "There's a map put up at the entrance."
+      },
+      {
+        "japanese": "テーブルの上にお皿が並べてあった。",
+        "english": "Plates had been set out on the table."
+      },
+      {
+        "japanese": "ビールなら冷蔵庫に入れてあるよ。",
+        "english": "If you want beer, I've put some in the fridge."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "state"
+  },
+  {
+    "id": "n4-g-0012",
+    "pattern": "〜とき",
+    "meaning": "when; at the time when",
+    "structure": "Verb-plain / i-Adj / na-Adj + な / Noun + の + とき",
+    "usage": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "子どものとき、よく川で泳ぎました。",
+        "english": "When I was a child, I often swam in the river."
+      },
+      {
+        "japanese": "日本へ行くとき、新しいかばんを買いました。",
+        "english": "I bought a new bag before my trip to Japan."
+      },
+      {
+        "japanese": "日本へ行ったとき、友達にお土産を買いました。",
+        "english": "When I went to Japan, I bought souvenirs for my friends there."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0013",
+    "pattern": "〜間 / 〜間に",
+    "meaning": "while; during (the whole time); at some point during",
+    "structure": "Verb-te + いる / Verb-dict / Noun + の + 間（に）",
+    "usage": "間 means the action continues through the whole period; 間に means it happens at some point within the period.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "夏休みの間、祖父の家にいました。",
+        "english": "I stayed at my grandfather's house during the summer vacation."
+      },
+      {
+        "japanese": "母が寝ている間に、部屋を掃除した。",
+        "english": "I cleaned my room while my mother was asleep."
+      },
+      {
+        "japanese": "電車を待っている間、ずっと本を読んでいた。",
+        "english": "I read a book the whole time I was waiting for the train."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0014",
+    "pattern": "〜そうだ（appearance）",
+    "meaning": "looks like; seems; looks about to",
+    "structure": "Verb-stem / i-Adj stem / na-Adj + そうだ",
+    "usage": "A judgment from what you see. いい → よさそう, ない → なさそう. Not used with adjectives for plainly visible traits (赤い, かわいい); かわいそう means 'pitiful'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "そのカレー、辛そうだね。",
+        "english": "That curry looks spicy."
+      },
+      {
+        "japanese": "空が暗いですね。雨が降りそうです。",
+        "english": "The sky is dark. It looks like it's going to rain."
+      },
+      {
+        "japanese": "久しぶりに会った祖父は元気そうだった。",
+        "english": "My grandfather, whom I hadn't seen in a while, looked well."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "appearance"
+  },
+  {
+    "id": "n4-g-0015",
+    "pattern": "〜そうだ（hearsay）",
+    "meaning": "I heard that; they say that",
+    "structure": "Verb-plain / i-Adj + そうだ / na-Adj + だ + そうだ / Noun + だ + そうだ",
+    "usage": "Attaches to full plain forms, unlike the 'looks like' そうだ, which attaches to stems. It has no past or negative form.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "天気予報では、明日は雪が降るそうです。",
+        "english": "The weather forecast says it will snow tomorrow."
+      },
+      {
+        "japanese": "駅前の本屋は来月なくなるそうだ。",
+        "english": "I heard the bookstore in front of the station is closing down next month."
+      },
+      {
+        "japanese": "リンさんのお兄さんは医者だそうです。",
+        "english": "I hear Lin's older brother is a doctor."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "hearsay"
+  },
+  {
+    "id": "n4-g-0016",
+    "pattern": "〜らしい（hearsay/conjecture）",
+    "meaning": "apparently; it seems; I hear",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + らしい",
+    "usage": "Based on something heard or read, so the speaker sounds a little detached. The 'typical of' らしい (男らしい) is a separate N3 point.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "駅の近くに新しいカフェができたらしい。",
+        "english": "Apparently a new café has opened near the station."
+      },
+      {
+        "japanese": "部屋の電気が消えている。もう寝たらしい。",
+        "english": "The light in the room is off. Looks like they've already gone to bed."
+      },
+      {
+        "japanese": "あの店のラーメンはとても有名らしいです。",
+        "english": "Apparently that shop's ramen is really famous."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "hearsay"
+  },
+  {
+    "id": "n4-g-0017",
+    "pattern": "〜ようだ",
+    "meaning": "it seems; it appears (judging from evidence)",
+    "structure": "Verb-plain / i-Adj + ようだ / na-Adj + な + ようだ / Noun + の + ようだ",
+    "usage": "A somewhat formal way to state a judgment from what you observe or feel; みたいだ is the casual equivalent. The 'like, as if' use is covered at N3.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "誰もいないようですね。",
+        "english": "It seems nobody's here."
+      },
+      {
+        "japanese": "かぜをひいたようで、朝からのどが痛い。",
+        "english": "I seem to have caught a cold; my throat has hurt since this morning."
+      },
+      {
+        "japanese": "外は寒いようだ。みんなコートを着ている。",
+        "english": "It seems cold outside. Everyone is wearing a coat."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjecture"
+  },
+  {
+    "id": "n4-g-0018",
+    "pattern": "〜みたい",
+    "meaning": "seems like; looks like; like (casual)",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + みたい",
+    "usage": "Casual equivalent of ようだ. It attaches directly to nouns and na-adjectives (静かみたい) without な or の. Before a noun it becomes みたいな.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "隣の部屋に誰か来たみたい。",
+        "english": "Sounds like someone has come to the room next door."
+      },
+      {
+        "japanese": "今日の彼女は元気がないみたいだね。",
+        "english": "She doesn't seem very cheerful today, does she?"
+      },
+      {
+        "japanese": "このケーキ、お店のケーキみたい！",
+        "english": "This cake is just like a store-bought one!"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjecture"
+  },
+  {
+    "id": "n4-g-0019",
+    "pattern": "〜すぎる",
+    "meaning": "too; too much; excessively",
+    "structure": "Verb-stem / i-Adj stem / na-Adj + すぎる",
+    "usage": "Conjugates like a Group 2 verb (すぎた, すぎて). いい → よすぎる, and the adjective ない → なさすぎる.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "ゆうべ飲みすぎて、頭が痛い。",
+        "english": "I drank too much last night, and now I have a headache."
+      },
+      {
+        "japanese": "この靴は私には大きすぎます。",
+        "english": "These shoes are too big for me."
+      },
+      {
+        "japanese": "この問題は簡単すぎて、つまらない。",
+        "english": "This question is too easy, so it's boring."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "degree"
+  },
+  {
+    "id": "n4-g-0020",
+    "pattern": "〜方",
+    "meaning": "how to; way of doing",
+    "structure": "Verb-stem + 方",
+    "usage": "The result is a noun, so the object takes の instead of を (日本語の話し方). With する-verbs: 勉強のしかた.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この機械の使い方を教えてください。",
+        "english": "Please show me how to use this machine."
+      },
+      {
+        "japanese": "この漢字の読み方が分かりません。",
+        "english": "I don't know how to read this kanji."
+      },
+      {
+        "japanese": "祖母においしいみそ汁の作り方を習った。",
+        "english": "I learned how to make tasty miso soup from my grandmother."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "manner"
+  },
+  {
+    "id": "n4-g-0021",
+    "pattern": "〜中",
+    "meaning": "in the middle of; during (ちゅう); throughout; all over (じゅう)",
+    "structure": "Noun + 中",
+    "usage": "ちゅう marks an ongoing activity or a period (会議中, 午前中, 今週中); じゅう means 'throughout' a time or place (一日中, 世界中).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "父は今、電話中です。",
+        "english": "My father is on the phone right now."
+      },
+      {
+        "japanese": "昨日は一日中雨が降っていた。",
+        "english": "It rained all day yesterday."
+      },
+      {
+        "japanese": "この歌は世界中で知られている。",
+        "english": "This song is known all over the world."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0022",
+    "pattern": "〜つもり",
+    "meaning": "intend to; plan to",
+    "structure": "Verb-dict / Verb-nai + つもり",
+    "usage": "States a firm personal intention. 〜つもりはない means 'have no intention of'. Asking a superior 〜つもりですか can sound blunt.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "夏休みは北海道を旅行するつもりです。",
+        "english": "I intend to travel around Hokkaido during the summer break."
+      },
+      {
+        "japanese": "今日はお酒を飲まないつもりです。",
+        "english": "I intend not to drink alcohol today."
+      },
+      {
+        "japanese": "大学を出たら、どうするつもりですか。",
+        "english": "What do you plan to do after you graduate from university?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "intention"
+  },
+  {
+    "id": "n4-g-0023",
+    "pattern": "〜予定",
+    "meaning": "plan to; be scheduled to",
+    "structure": "Verb-dict + 予定 / Noun + の + 予定",
+    "usage": "Refers to a fixed schedule or arrangement, often involving other people; more objective than つもり.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "来月、大阪に引っ越す予定です。",
+        "english": "I'm planning to move to Osaka next month."
+      },
+      {
+        "japanese": "会議は三時に終わる予定です。",
+        "english": "The meeting is scheduled to end at three."
+      },
+      {
+        "japanese": "出発は朝八時の予定です。",
+        "english": "Departure is scheduled for eight in the morning."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "intention"
+  },
+  {
+    "id": "n4-g-0024",
+    "pattern": "〜ことにする",
+    "meaning": "decide to",
+    "structure": "Verb-dict / Verb-nai + ことにする",
+    "usage": "A decision made by the speaker; compare 〜ことになる. 〜ことにしている (N3) means 'make it a rule to'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "健康のために、毎朝歩くことにした。",
+        "english": "I decided to walk every morning for my health."
+      },
+      {
+        "japanese": "高かったので、買わないことにしました。",
+        "english": "It was expensive, so I decided not to buy it."
+      },
+      {
+        "japanese": "もう遅いから、タクシーで帰ることにしよう。",
+        "english": "It's already late, so let's take a taxi home."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "decision"
+  },
+  {
+    "id": "n4-g-0025",
+    "pattern": "〜ことになる",
+    "meaning": "it has been decided that; it turns out that",
+    "structure": "Verb-dict / Verb-nai + ことになる",
+    "usage": "Presents a decision as made by others or by circumstances. People also use it for their own decisions to sound less assertive.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "来年の春から、名古屋の店で働くことになりました。",
+        "english": "It's been decided that I'll work at the Nagoya store from next spring."
+      },
+      {
+        "japanese": "今度の日曜日、クラスのみんなでバーベキューをすることになった。",
+        "english": "It's been settled that the whole class will have a barbecue this Sunday."
+      },
+      {
+        "japanese": "友達の結婚式で、私がスピーチをすることになりました。",
+        "english": "It turns out I'll be giving a speech at my friend's wedding."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "decision"
+  },
+  {
+    "id": "n4-g-0026",
+    "pattern": "〜ことができる",
+    "meaning": "can; be able to; be possible to",
+    "structure": "Verb-dict + ことができる",
+    "usage": "A bit more formal than the potential form. Also used for what is possible or allowed (ここでたばこを吸うことはできません).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この図書館では、本を二週間借りることができます。",
+        "english": "At this library, you can borrow books for two weeks."
+      },
+      {
+        "japanese": "妹はピアノを弾くことができる。",
+        "english": "My little sister can play the piano."
+      },
+      {
+        "japanese": "ここからは富士山を見ることができません。",
+        "english": "You can't see Mt. Fuji from here."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "ability"
+  },
+  {
+    "id": "n4-g-0027",
+    "pattern": "〜える / 〜られる（potential）",
+    "meaning": "can; be able to (potential form)",
+    "structure": "Verb-dict (Group 1: final u → e) + る / Verb-nai stem + られる (Group 2)",
+    "usage": "Irregular: する → できる, 来る → 来られる. The object often takes が instead of を. In casual speech Group 2 verbs often drop ら (見れる).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "私は漢字が二百ぐらい読めます。",
+        "english": "I can read about two hundred kanji."
+      },
+      {
+        "japanese": "兄は辛い料理が食べられない。",
+        "english": "My older brother can't eat spicy food."
+      },
+      {
+        "japanese": "明日のパーティーに来られますか。",
+        "english": "Can you come to the party tomorrow?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "ability"
+  },
+  {
+    "id": "n4-g-0028",
+    "pattern": "〜れる / 〜られる（passive）",
+    "meaning": "be done (by someone); passive voice",
+    "structure": "Verb-nai stem + れる (Group 1) / Verb-nai stem + られる (Group 2)",
+    "usage": "Irregular: する → される, 来る → 来られる. The doer is marked with に. Often shows that the subject was troubled by someone's action (雨に降られた).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "先生に作文をほめられました。",
+        "english": "My essay was praised by my teacher."
+      },
+      {
+        "japanese": "電車の中で足を踏まれた。",
+        "english": "Someone stepped on my foot on the train."
+      },
+      {
+        "japanese": "この寺は六百年前に建てられました。",
+        "english": "This temple was built six hundred years ago."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "voice"
+  },
+  {
+    "id": "n4-g-0029",
+    "pattern": "〜せる / 〜させる",
+    "meaning": "make someone do; let someone do (causative)",
+    "structure": "Verb-nai stem + せる (Group 1) / Verb-nai stem + させる (Group 2)",
+    "usage": "Irregular: する → させる, 来る → 来させる. With intransitive verbs the person takes を; with transitive verbs, に. Context decides 'make' or 'let'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "母は毎日弟に野菜を食べさせる。",
+        "english": "My mother makes my little brother eat vegetables every day."
+      },
+      {
+        "japanese": "コーチは毎日、選手たちを走らせた。",
+        "english": "The coach made the players run every day."
+      },
+      {
+        "japanese": "息子が行きたいと言ったので、一人で旅行に行かせました。",
+        "english": "My son said he wanted to go, so I let him travel on his own."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "voice"
+  },
+  {
+    "id": "n4-g-0030",
+    "pattern": "〜せられる / 〜させられる",
+    "meaning": "be made to do (against one's will)",
+    "structure": "Verb-nai stem + せられる (Group 1; short form される) / Verb-nai stem + させられる (Group 2)",
+    "usage": "Irregular: する → させられる, 来る → 来させられる. The short Group 1 form (待たされる) is common in speech, but not with verbs ending in す (話させられる).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "子どものころ、母に毎日ピアノを練習させられた。",
+        "english": "When I was a child, my mother made me practice the piano every day."
+      },
+      {
+        "japanese": "駅で三十分も待たされました。",
+        "english": "I was kept waiting at the station for a whole thirty minutes."
+      },
+      {
+        "japanese": "会社の飲み会で歌を歌わされた。",
+        "english": "I was made to sing at the company drinking party."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "voice"
+  },
+  {
+    "id": "n4-g-0031",
+    "pattern": "〜おう / 〜よう",
+    "meaning": "let's (casual); I'll (volitional form)",
+    "structure": "Verb-dict (Group 1: final u → o) + う / Verb-stem + よう (Group 2)",
+    "usage": "Irregular: する → しよう, 来る → 来よう. The plain equivalent of 〜ましょう.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "疲れたね。少し休もう。",
+        "english": "That was tiring, huh? Let's take a short break."
+      },
+      {
+        "japanese": "週末、一緒に映画を見ようよ。",
+        "english": "Let's watch a movie together this weekend."
+      },
+      {
+        "japanese": "よし、今日から毎日日記を書こう。",
+        "english": "Right, starting today I'll write in my diary every day."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjugation"
+  },
+  {
+    "id": "n4-g-0032",
+    "pattern": "〜(よ)うと思う",
+    "meaning": "be thinking of doing; plan to",
+    "structure": "Verb-volitional + と思う",
+    "usage": "〜と思う often reports a decision made just now; 〜と思っている shows a plan held for some time. Softer than つもり.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "今年の夏は海に行こうと思っています。",
+        "english": "I'm thinking of going to the beach this summer."
+      },
+      {
+        "japanese": "明日は早く起きて、公園を走ろうと思う。",
+        "english": "I think I'll get up early tomorrow and go for a run in the park."
+      },
+      {
+        "japanese": "新しいパソコンを買おうと思ったけど、やめました。",
+        "english": "I was going to buy a new computer, but I decided against it."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "intention"
+  },
+  {
+    "id": "n4-g-0033",
+    "pattern": "〜え / 〜ろ",
+    "meaning": "do it! (imperative form; blunt command)",
+    "structure": "Verb-dict (Group 1: final u → e) / Verb-stem + ろ (Group 2)",
+    "usage": "Irregular: する → しろ, 来る → 来い, くれる → くれ. Very blunt; heard mainly from men, on signs, in emergencies and in cheering (がんばれ).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "早く起きろ！遅刻するぞ。",
+        "english": "Get up already! You'll be late."
+      },
+      {
+        "japanese": "危ない！止まれ！",
+        "english": "Look out! Stop!"
+      },
+      {
+        "japanese": "がんばれ！あと少しだ！",
+        "english": "Go for it! Just a little more!"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "command"
+  },
+  {
+    "id": "n4-g-0034",
+    "pattern": "〜な（prohibition）",
+    "meaning": "don't! (strong prohibition)",
+    "structure": "Verb-dict + な",
+    "usage": "Very strong and blunt. Do not confuse it with the sentence-ending な that expresses feeling (いいな).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "危ないから、この川では泳ぐな。",
+        "english": "It's dangerous, so don't swim in this river."
+      },
+      {
+        "japanese": "もう泣くな。大丈夫だよ。",
+        "english": "Don't cry anymore. It's all right."
+      },
+      {
+        "japanese": "壁に「ここにごみを捨てるな」と書いてある。",
+        "english": "It says \"Don't dump garbage here\" on the wall."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "prohibition"
+  },
+  {
+    "id": "n4-g-0035",
+    "pattern": "〜なさい",
+    "meaning": "do (instruction from a parent, teacher, etc.)",
+    "structure": "Verb-stem + なさい",
+    "usage": "Softer than the imperative form but still a firm instruction; used by parents, teachers and in exam directions, never toward superiors.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "もう九時よ。早く寝なさい。",
+        "english": "It's already nine. Go to bed now."
+      },
+      {
+        "japanese": "次の文を読んで、質問に答えなさい。",
+        "english": "Read the following passage and answer the questions."
+      },
+      {
+        "japanese": "ご飯の前に手を洗いなさい。",
+        "english": "Wash your hands before eating."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "command"
+  },
+  {
+    "id": "n4-g-0036",
+    "pattern": "〜ば",
+    "meaning": "if",
+    "structure": "Verb-ba / i-Adj stem + ければ / na-Adj + なら / Noun + なら",
+    "usage": "Focuses on the condition needed for a result. When the main clause is a request or invitation, たら is usually more natural unless the ば-clause is a state (ある, いる, adjectives).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この道をまっすぐ行けば、駅に着きます。",
+        "english": "If you go straight along this road, you'll reach the station."
+      },
+      {
+        "japanese": "安ければ、買いたいです。",
+        "english": "If it's cheap, I'd like to buy it."
+      },
+      {
+        "japanese": "分からないことがあれば、いつでも聞いてください。",
+        "english": "If there's anything you don't understand, feel free to ask anytime."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "condition"
+  },
+  {
+    "id": "n4-g-0037",
+    "pattern": "〜たら",
+    "meaning": "if; when; after",
+    "structure": "Verb-ta + ら / i-Adj stem + かったら / na-Adj + だったら / Noun + だったら",
+    "usage": "The most versatile conditional and very common in speech. With events certain to happen it means 'when/after'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "駅に着いたら、電話してください。",
+        "english": "Please call me when you get to the station."
+      },
+      {
+        "japanese": "もし明日雨だったら、家で映画を見よう。",
+        "english": "If it rains tomorrow, let's watch a movie at home."
+      },
+      {
+        "japanese": "暑かったら、窓を開けてもいいですよ。",
+        "english": "If you're hot, feel free to open the window."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "condition"
+  },
+  {
+    "id": "n4-g-0038",
+    "pattern": "〜なら",
+    "meaning": "if (it's the case that); if you're talking about",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + なら",
+    "usage": "Takes up what the listener said or a situation assumed to be true, then gives advice or an opinion. Unlike たら, the main action can come before the なら-clause.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "京都へ行くなら、秋がいいですよ。",
+        "english": "If you're going to Kyoto, autumn is a good time."
+      },
+      {
+        "japanese": "パソコンのことなら、兄に聞くといいよ。",
+        "english": "If it's about computers, you should ask my older brother."
+      },
+      {
+        "japanese": "そんなに眠いなら、今日は早く寝たら？",
+        "english": "If you're that sleepy, why not go to bed early today?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "condition"
+  },
+  {
+    "id": "n4-g-0039",
+    "pattern": "〜と（conditional）",
+    "meaning": "when; if; whenever (natural or automatic result)",
+    "structure": "Verb-dict / Verb-nai / i-Adj + と / na-Adj + だ + と / Noun + だ + と",
+    "usage": "For natural results, how machines work, directions and habits. The main clause cannot be a request, wish or invitation.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "このボタンを押すと、お茶が出ます。",
+        "english": "When you press this button, tea comes out."
+      },
+      {
+        "japanese": "春になると、桜が咲きます。",
+        "english": "When spring comes, the cherry blossoms bloom."
+      },
+      {
+        "japanese": "この道を右に曲がると、左に郵便局があります。",
+        "english": "If you turn right on this road, there's a post office on the left."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "condition"
+  },
+  {
+    "id": "n4-g-0040",
+    "pattern": "〜ても / 〜でも",
+    "meaning": "even if; even though",
+    "structure": "Verb-te + も / i-Adj-ku + ても / na-Adj + でも / Noun + でも",
+    "usage": "With question words or いくら it means 'no matter ...' (何を食べても, いくら待っても).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "雨が降っても、試合はあります。",
+        "english": "Even if it rains, the game will go ahead."
+      },
+      {
+        "japanese": "いくら練習しても、なかなか上手になりません。",
+        "english": "No matter how much I practice, I just don't get any better."
+      },
+      {
+        "japanese": "日曜日でも、この店は開いています。",
+        "english": "This shop is open even on Sundays."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "concession"
+  },
+  {
+    "id": "n4-g-0041",
+    "pattern": "〜のに（although）",
+    "meaning": "although; even though (with surprise or dissatisfaction)",
+    "structure": "Verb-plain / i-Adj + のに / na-Adj + な + のに / Noun + な + のに",
+    "usage": "Carries surprise, disappointment or complaint. The main clause cannot be a request or intention; use けど or ても there.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "一生懸命勉強したのに、試験に落ちてしまった。",
+        "english": "Even though I studied really hard, I failed the exam."
+      },
+      {
+        "japanese": "日曜日なのに、会社に行かなければならない。",
+        "english": "Even though it's Sunday, I have to go to work."
+      },
+      {
+        "japanese": "約束したのに、彼は来なかった。",
+        "english": "He didn't come, even though he promised."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "concession"
+  },
+  {
+    "id": "n4-g-0042",
+    "pattern": "〜のに（purpose）",
+    "meaning": "for; in order to (with use, time or cost)",
+    "structure": "Verb-dict + のに / Noun + に",
+    "usage": "Usually followed by words like 使う, いい, 便利, 必要 or かかる. With a noun, just に is used (旅行に便利).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "このかばんは旅行に行くのに便利です。",
+        "english": "This bag is handy for traveling."
+      },
+      {
+        "japanese": "家から駅まで歩くのに二十分かかります。",
+        "english": "It takes twenty minutes to walk from my house to the station."
+      },
+      {
+        "japanese": "引っ越しするのに十万円ぐらいかかった。",
+        "english": "It cost about 100,000 yen to move."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "purpose"
+  },
+  {
+    "id": "n4-g-0043",
+    "pattern": "〜ので",
+    "meaning": "because; since",
+    "structure": "Verb-plain / i-Adj + ので / na-Adj + な + ので / Noun + な + ので",
+    "usage": "Sounds softer and more objective than から, so it is preferred when giving reasons politely or apologizing.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "頭が痛いので、今日は早く帰ります。",
+        "english": "I have a headache, so I'm going home early today."
+      },
+      {
+        "japanese": "明日はテストなので、今夜は勉強します。",
+        "english": "I have a test tomorrow, so I'm studying tonight."
+      },
+      {
+        "japanese": "道がこんでいたので、少し遅れました。",
+        "english": "The roads were crowded, so I was a little late."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "reason"
+  },
+  {
+    "id": "n4-g-0044",
+    "pattern": "〜て（reason）",
+    "meaning": "because; so (cause of a feeling or state)",
+    "structure": "Verb-te / i-Adj stem + くて / na-Adj + で / Noun + で",
+    "usage": "The second part is usually a feeling, a potential form or a result, not a request or intention (use から or ので for those). Negative: 〜なくて (会えなくて寂しい).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "ニュースを聞いて、びっくりしました。",
+        "english": "I was surprised to hear the news."
+      },
+      {
+        "japanese": "このスープは熱くて、飲めません。",
+        "english": "This soup is too hot to drink."
+      },
+      {
+        "japanese": "かぜで学校を休みました。",
+        "english": "I stayed home from school with a cold."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "reason"
+  },
+  {
+    "id": "n4-g-0045",
+    "pattern": "〜し",
+    "meaning": "and what's more; and besides (listing reasons)",
+    "structure": "Verb-plain / i-Adj + し / na-Adj + だ + し / Noun + だ + し",
+    "usage": "Lists several reasons or points. A single し hints that there are other reasons too.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この部屋は広いし、駅から近いし、とても気に入っています。",
+        "english": "This apartment is spacious and close to the station, so I really like it."
+      },
+      {
+        "japanese": "今日は雨だし、疲れているし、どこにも行きたくない。",
+        "english": "It's raining and I'm tired, so I don't want to go anywhere today."
+      },
+      {
+        "japanese": "もう遅いし、そろそろ帰ろうか。",
+        "english": "It's getting late, so shall we head home?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "reason"
+  },
+  {
+    "id": "n4-g-0046",
+    "pattern": "〜けど / 〜けれども",
+    "meaning": "but; although; (soft lead-in)",
+    "structure": "Sentence + けど / けれども",
+    "usage": "More conversational than が; けれども is a little more formal than けど. Often used as a soft lead-in before a question or request.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この店は高いけど、おいしい。",
+        "english": "This place is expensive, but the food is good."
+      },
+      {
+        "japanese": "すみません、駅に行きたいんですけど、どう行けばいいですか。",
+        "english": "Excuse me, I'd like to get to the station. How do I get there?"
+      },
+      {
+        "japanese": "何度も電話したけれども、誰も出なかった。",
+        "english": "I called several times, but nobody answered."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "contrast"
+  },
+  {
+    "id": "n4-g-0047",
+    "pattern": "〜ために",
+    "meaning": "in order to; for (the sake of); because of",
+    "structure": "Verb-dict / Verb-ta / Noun + の + ために",
+    "usage": "For purpose, the verb must be something the subject can control (compare 〜ように). The 'because of' use sounds fairly formal.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "日本の大学に入るために、毎日勉強しています。",
+        "english": "I study every day in order to get into a Japanese university."
+      },
+      {
+        "japanese": "家族のために、一生懸命働いている。",
+        "english": "I work hard for my family."
+      },
+      {
+        "japanese": "大雪のために、電車が止まりました。",
+        "english": "The trains stopped because of the heavy snow."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "purpose"
+  },
+  {
+    "id": "n4-g-0048",
+    "pattern": "〜ように（purpose）",
+    "meaning": "so that; in order that",
+    "structure": "Verb-dict / Verb-nai + ように",
+    "usage": "Used with verbs the subject can't directly control: potential forms, 分かる, 見える, negatives. For deliberate actions use ために.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "後ろの人にも聞こえるように、大きな声で話してください。",
+        "english": "Please speak loudly so that the people in the back can hear too."
+      },
+      {
+        "japanese": "忘れないように、手にメモを書いた。",
+        "english": "I wrote a note on my hand so I wouldn't forget."
+      },
+      {
+        "japanese": "かぜをひかないように、暖かくして寝てください。",
+        "english": "Keep warm when you sleep so you don't catch a cold."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "purpose"
+  },
+  {
+    "id": "n4-g-0049",
+    "pattern": "〜ようにする",
+    "meaning": "try to; make sure to; make a habit of",
+    "structure": "Verb-dict / Verb-nai + ようにする",
+    "usage": "〜ようにしている describes a habit you keep up. Compare 〜ようになる, a change that comes about.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "毎日野菜を食べるようにしています。",
+        "english": "I make a point of eating vegetables every day."
+      },
+      {
+        "japanese": "これからは遅刻しないようにします。",
+        "english": "From now on, I'll make sure not to be late."
+      },
+      {
+        "japanese": "寝る前にスマホを見ないようにしている。",
+        "english": "I try not to look at my phone before bed."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "attempt"
+  },
+  {
+    "id": "n4-g-0050",
+    "pattern": "〜ようになる",
+    "meaning": "come to; reach the point where (change in ability or habit)",
+    "structure": "Verb-dict / Verb-nai + ようになる",
+    "usage": "Often used with potential verbs. For 'no longer', 〜なくなる is usually more natural than 〜ないようになる.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "練習して、自転車に乗れるようになりました。",
+        "english": "After practicing, I became able to ride a bike."
+      },
+      {
+        "japanese": "日本に来てから、朝ご飯を食べるようになった。",
+        "english": "Since coming to Japan, I've started eating breakfast."
+      },
+      {
+        "japanese": "赤ちゃんが少しずつ話せるようになってきた。",
+        "english": "Our baby is gradually learning to talk."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "change"
+  },
+  {
+    "id": "n4-g-0051",
+    "pattern": "〜てほしい",
+    "meaning": "want someone to do",
+    "structure": "Verb-te + ほしい / Verb-nai + で + ほしい",
+    "usage": "The person you want to act is marked with に. Said to a superior it can sound demanding; 〜ていただきたいです is more polite.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "もう少しゆっくり話してほしいです。",
+        "english": "I'd like you to speak a little more slowly."
+      },
+      {
+        "japanese": "この話は誰にも言わないでほしい。",
+        "english": "I don't want you to tell anyone about this."
+      },
+      {
+        "japanese": "早く春が来てほしいなあ。",
+        "english": "I wish spring would hurry up and come."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "desire"
+  },
+  {
+    "id": "n4-g-0052",
+    "pattern": "〜たがる",
+    "meaning": "(someone else) wants to",
+    "structure": "Verb-stem + たがる",
+    "usage": "Used for other people, since you can't directly know their wishes. Current wishes are usually expressed with 〜たがっている.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "子どもたちは外で遊びたがっている。",
+        "english": "The children want to play outside."
+      },
+      {
+        "japanese": "弟はいつも私のゲームをやりたがる。",
+        "english": "My little brother always wants to play my games."
+      },
+      {
+        "japanese": "犬が散歩に行きたがっています。",
+        "english": "The dog wants to go for a walk."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "desire"
+  },
+  {
+    "id": "n4-g-0053",
+    "pattern": "〜がる",
+    "meaning": "(someone else) feels; shows signs of feeling",
+    "structure": "i-Adj stem / na-Adj + がる",
+    "usage": "Turns feeling adjectives (怖い, 寂しい, ほしい) into verbs describing how others seem to feel. The object of the feeling takes を.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "妹は暗い所を怖がる。",
+        "english": "My little sister is scared of dark places."
+      },
+      {
+        "japanese": "祖母は孫に会えなくて寂しがっている。",
+        "english": "My grandmother is lonely because she can't see her grandchildren."
+      },
+      {
+        "japanese": "息子は新しい自転車をほしがっている。",
+        "english": "My son wants a new bicycle."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "emotion"
+  },
+  {
+    "id": "n4-g-0054",
+    "pattern": "〜かもしれない",
+    "meaning": "might; may; possibly",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + かもしれない",
+    "usage": "About 50% certainty or less. In casual speech it is often shortened to かも.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "午後から雨が降るかもしれません。",
+        "english": "It might rain in the afternoon."
+      },
+      {
+        "japanese": "かぎがない。電車の中で落としたかもしれない。",
+        "english": "My keys are gone. I might have dropped them on the train."
+      },
+      {
+        "japanese": "その話は本当かもしれない。",
+        "english": "That story might be true."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "possibility"
+  },
+  {
+    "id": "n4-g-0055",
+    "pattern": "〜だろう",
+    "meaning": "probably; I suppose (plain form of でしょう)",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + だろう",
+    "usage": "Common in writing and in men's casual speech; でしょう is the polite form. Often used with たぶん or きっと, or as 〜だろうと思う.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "明日はたぶん晴れるだろう。",
+        "english": "It will probably be sunny tomorrow."
+      },
+      {
+        "japanese": "彼女はもう家に着いただろう。",
+        "english": "She has probably gotten home by now."
+      },
+      {
+        "japanese": "この問題は子どもには難しいだろうと思います。",
+        "english": "I think this problem is probably too hard for children."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjecture"
+  },
+  {
+    "id": "n4-g-0056",
+    "pattern": "〜はずだ",
+    "meaning": "should be; is expected to (based on reasoning)",
+    "structure": "Verb-plain / i-Adj + はずだ / na-Adj + な + はずだ / Noun + の + はずだ",
+    "usage": "A confident expectation based on facts or logic, not a guess. It does not mean 'should' as a duty.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "荷物は明日届くはずです。",
+        "english": "The package should arrive tomorrow."
+      },
+      {
+        "japanese": "彼は十年もアメリカに住んでいたから、英語が上手なはずだ。",
+        "english": "He lived in America for ten years, so his English should be good."
+      },
+      {
+        "japanese": "おかしいな。かぎはここに置いたはずなのに。",
+        "english": "That's strange. I'm sure I put the keys here."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjecture"
+  },
+  {
+    "id": "n4-g-0057",
+    "pattern": "〜はずがない",
+    "meaning": "can't be; there's no way that",
+    "structure": "Verb-plain / i-Adj + はずがない / na-Adj + な + はずがない / Noun + の + はずがない",
+    "usage": "Strong denial based on reasoning. 〜ないはずだ ('should not be') is a milder expectation.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "あんなにまじめな人がうそをつくはずがない。",
+        "english": "There's no way someone that earnest would lie."
+      },
+      {
+        "japanese": "今日は日曜日だから、銀行が開いているはずがない。",
+        "english": "It's Sunday, so the bank can't be open."
+      },
+      {
+        "japanese": "かぎはちゃんとかけたから、ドアが開いているはずがない。",
+        "english": "I definitely locked it, so there's no way the door is open."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "conjecture"
+  },
+  {
+    "id": "n4-g-0058",
+    "pattern": "〜んです / 〜のです",
+    "meaning": "it's that ...; (explaining or asking for an explanation)",
+    "structure": "Verb-plain / i-Adj + んです / na-Adj + な + んです / Noun + な + んです",
+    "usage": "Adds a sense of explaining a situation or asking for the background. Casual forms are 〜んだ and 〜の. Overusing it can sound pushy.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "どうしたんですか。顔色が悪いですよ。",
+        "english": "What's the matter? You look pale."
+      },
+      {
+        "japanese": "すみません、遅れました。電車が止まっていたんです。",
+        "english": "Sorry I'm late. The trains had stopped."
+      },
+      {
+        "japanese": "日本語で手紙を書きたいんですが、手伝ってくれませんか。",
+        "english": "I want to write a letter in Japanese. Could you help me?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "reason"
+  },
+  {
+    "id": "n4-g-0059",
+    "pattern": "〜かどうか",
+    "meaning": "whether or not",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + かどうか",
+    "usage": "Embeds a yes-no question in a sentence. For questions with a question word, use 〜か alone (何時に来るか).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "明日行けるかどうか、まだ分かりません。",
+        "english": "I don't know yet whether I can go tomorrow."
+      },
+      {
+        "japanese": "この服が似合うかどうか、ちょっと着てみます。",
+        "english": "I'll try this on to see whether it suits me."
+      },
+      {
+        "japanese": "そのレストランがおいしいかどうか、友達に聞いてみよう。",
+        "english": "I'll ask my friend whether that restaurant is any good."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "question"
+  },
+  {
+    "id": "n4-g-0060",
+    "pattern": "〜か（embedded question）",
+    "meaning": "embedded question (what, where, who, etc.)",
+    "structure": "Question word + ... + Verb-plain / i-Adj / na-Adj / Noun + か",
+    "usage": "After a noun or na-adjective, だ is dropped (誰の傘か知らない).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "会議が何時に始まるか、教えてください。",
+        "english": "Please tell me what time the meeting starts."
+      },
+      {
+        "japanese": "どこで財布をなくしたか、覚えていません。",
+        "english": "I don't remember where I lost my wallet."
+      },
+      {
+        "japanese": "誰が窓を割ったか、知っていますか。",
+        "english": "Do you know who broke the window?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "question"
+  },
+  {
+    "id": "n4-g-0061",
+    "pattern": "〜と思う",
+    "meaning": "I think that",
+    "structure": "Verb-plain / i-Adj + と思う / na-Adj + だ + と思う / Noun + だ + と思う",
+    "usage": "Japanese usually negates the quoted clause (来ないと思う) rather than 思う. For another person's opinion, use 〜と思っている.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この映画はきっと人気が出ると思う。",
+        "english": "I'm sure this movie will become popular."
+      },
+      {
+        "japanese": "彼女は今日は来ないと思います。",
+        "english": "I don't think she's coming today."
+      },
+      {
+        "japanese": "日本の電車はとても便利だと思います。",
+        "english": "I think trains in Japan are very convenient."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "quotation"
+  },
+  {
+    "id": "n4-g-0062",
+    "pattern": "〜と言う",
+    "meaning": "say that; tell (quotation)",
+    "structure": "「Sentence」 + と言う / Sentence (plain) + と言う",
+    "usage": "Direct quotes go inside 「」; indirect quotes use plain forms. 〜と言っていた is common when passing on what someone said.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "先生は「明日はテストがあります」と言いました。",
+        "english": "The teacher said, \"There's a test tomorrow.\""
+      },
+      {
+        "japanese": "兄は今晩、帰りが遅くなると言っていた。",
+        "english": "My older brother said he'd be home late tonight."
+      },
+      {
+        "japanese": "日本では食べる前に「いただきます」と言います。",
+        "english": "In Japan, people say \"itadakimasu\" before eating."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "quotation"
+  },
+  {
+    "id": "n4-g-0063",
+    "pattern": "〜しか〜ない",
+    "meaning": "only; nothing but",
+    "structure": "Noun + しか + Verb-nai",
+    "usage": "Always paired with a negative verb. Compared with だけ, it stresses that the amount is small or not enough.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "財布に五百円しかない。",
+        "english": "I only have 500 yen in my wallet."
+      },
+      {
+        "japanese": "このことは、あなたにしか話していません。",
+        "english": "I haven't told anyone but you about this."
+      },
+      {
+        "japanese": "朝はコーヒーしか飲みません。",
+        "english": "I only drink coffee in the morning."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "limitation"
+  },
+  {
+    "id": "n4-g-0064",
+    "pattern": "〜ばかり",
+    "meaning": "nothing but; only; all",
+    "structure": "Noun + ばかり",
+    "usage": "Often implies there is too much of one thing. 〜てばかりいる (N3) and 〜たばかり ('just did') are separate points.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "弟は肉ばかり食べて、野菜を食べない。",
+        "english": "My little brother eats nothing but meat and won't touch vegetables."
+      },
+      {
+        "japanese": "このクラスは女の子ばかりだ。",
+        "english": "This class is all girls."
+      },
+      {
+        "japanese": "最近は雨の日ばかりで、洗濯ができない。",
+        "english": "It's been nothing but rainy days lately, so I can't do the laundry."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "limitation"
+  },
+  {
+    "id": "n4-g-0065",
+    "pattern": "〜たばかり",
+    "meaning": "have just done",
+    "structure": "Verb-ta + ばかり",
+    "usage": "Shows the speaker feels little time has passed, even if it was weeks ago. 〜たところ refers to only moments ago.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "日本に来たばかりなので、まだ日本語がよく分かりません。",
+        "english": "I've only just come to Japan, so I don't understand Japanese well yet."
+      },
+      {
+        "japanese": "さっき昼ご飯を食べたばかりだから、おなかがいっぱいだ。",
+        "english": "I just had lunch, so I'm full."
+      },
+      {
+        "japanese": "買ったばかりの傘をなくしてしまった。",
+        "english": "I lost the umbrella I had just bought."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0066",
+    "pattern": "〜ところだ",
+    "meaning": "be about to; be in the middle of; have just done",
+    "structure": "Verb-dict / Verb-te + いる / Verb-ta + ところだ",
+    "usage": "Dictionary form: about to. 〜ているところ: in the middle of. 〜たところ: just finished. It pinpoints the stage of an action.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "今から出かけるところです。",
+        "english": "I'm just about to go out."
+      },
+      {
+        "japanese": "今、晩ご飯を作っているところだから、後で電話するね。",
+        "english": "I'm in the middle of making dinner, so I'll call you later."
+      },
+      {
+        "japanese": "ちょうど今、駅に着いたところです。",
+        "english": "I've just this moment arrived at the station."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0067",
+    "pattern": "〜やすい / 〜にくい",
+    "meaning": "easy to; hard to",
+    "structure": "Verb-stem + やすい / Verb-stem + にくい",
+    "usage": "Both conjugate like i-adjectives. やすい can also mean 'tends to' (この服は汚れやすい).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "このペンは書きやすいです。",
+        "english": "This pen is easy to write with."
+      },
+      {
+        "japanese": "先生の説明は分かりやすい。",
+        "english": "The teacher's explanations are easy to understand."
+      },
+      {
+        "japanese": "この魚は骨が多くて食べにくい。",
+        "english": "This fish has a lot of bones, so it's hard to eat."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "degree"
+  },
+  {
+    "id": "n4-g-0068",
+    "pattern": "〜始める / 〜終わる / 〜続ける",
+    "meaning": "start doing; finish doing; keep doing",
+    "structure": "Verb-stem + 始める / Verb-stem + 終わる / Verb-stem + 続ける",
+    "usage": "〜終わる is used with actions that have a clear end (読む, 食べる, 書く). 〜終える is a more formal alternative.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "去年からギターを習い始めました。",
+        "english": "I started learning guitar last year."
+      },
+      {
+        "japanese": "その本、読み終わったら貸してくれない？",
+        "english": "When you finish reading that book, could you lend it to me?"
+      },
+      {
+        "japanese": "三時間も歩き続けて、足が痛くなった。",
+        "english": "My feet started to hurt after walking for three hours straight."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0069",
+    "pattern": "〜出す",
+    "meaning": "suddenly start doing; burst out",
+    "structure": "Verb-stem + 出す",
+    "usage": "Implies a sudden, often uncontrolled start. Unlike 〜始める, it is not used for planned actions or in requests.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "赤ちゃんが急に泣き出した。",
+        "english": "The baby suddenly burst out crying."
+      },
+      {
+        "japanese": "さっきまで晴れていたのに、急に雨が降り出した。",
+        "english": "It was sunny until a moment ago, but suddenly it started to rain."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0070",
+    "pattern": "〜ほど〜ない",
+    "meaning": "not as ... as",
+    "structure": "Noun / Verb-plain + ほど + i-Adj-ku + ない / na-Adj + ではない",
+    "usage": "The item before ほど is the standard of comparison. Always followed by a negative.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "今年の夏は去年ほど暑くない。",
+        "english": "This summer isn't as hot as last year."
+      },
+      {
+        "japanese": "私の町は東京ほどにぎやかではありません。",
+        "english": "My town isn't as lively as Tokyo."
+      },
+      {
+        "japanese": "テストは思ったほど難しくなかった。",
+        "english": "The test wasn't as hard as I'd expected."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "comparison"
+  },
+  {
+    "id": "n4-g-0071",
+    "pattern": "なかなか〜ない",
+    "meaning": "not easily; just won't; not readily",
+    "structure": "なかなか + Verb-nai",
+    "usage": "Shows that something doesn't happen as quickly or easily as hoped. With a positive form, なかなか means 'quite' (なかなかおいしい).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "バスがなかなか来ない。",
+        "english": "The bus just isn't coming."
+      },
+      {
+        "japanese": "漢字がなかなか覚えられません。",
+        "english": "I just can't seem to memorize kanji."
+      },
+      {
+        "japanese": "子どもがなかなか寝てくれない。",
+        "english": "The kids just won't go to sleep."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "negation"
+  },
+  {
+    "id": "n4-g-0072",
+    "pattern": "〜ずつ",
+    "meaning": "each; at a time; little by little",
+    "structure": "Noun (quantity) + ずつ",
+    "usage": "",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "りんごを一人に二つずつ配った。",
+        "english": "I handed out two apples to each person."
+      },
+      {
+        "japanese": "毎日少しずつ漢字を覚えています。",
+        "english": "I'm learning kanji a little at a time every day."
+      },
+      {
+        "japanese": "一人ずつ部屋に入ってください。",
+        "english": "Please enter the room one at a time."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "quantity"
+  },
+  {
+    "id": "n4-g-0073",
+    "pattern": "〜も（emphasis）",
+    "meaning": "as many as; as much as; (with a negative) not even one",
+    "structure": "Noun (number + counter) + も",
+    "usage": "Shows the speaker feels the amount is large. With 一 + counter and a negative verb, it means 'not even one'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "昨日は十時間も寝てしまった。",
+        "english": "I slept for a whole ten hours yesterday."
+      },
+      {
+        "japanese": "このかばんは五万円もするんですか。",
+        "english": "This bag costs as much as 50,000 yen?"
+      },
+      {
+        "japanese": "財布の中に一円もない。",
+        "english": "I don't have a single yen in my wallet."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "emphasis"
+  },
+  {
+    "id": "n4-g-0074",
+    "pattern": "〜までに",
+    "meaning": "by (a deadline); before",
+    "structure": "Noun / Verb-dict + までに",
+    "usage": "までに marks a deadline for a one-time action; まで marks how long something continues (六時まで働く).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "レポートは金曜日までに出してください。",
+        "english": "Please hand in the report by Friday."
+      },
+      {
+        "japanese": "六時までに家に帰らなければならない。",
+        "english": "I have to be home by six."
+      },
+      {
+        "japanese": "暗くなるまでに山を下りよう。",
+        "english": "Let's get down the mountain before it gets dark."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0075",
+    "pattern": "〜ことがある",
+    "meaning": "sometimes; there are times when",
+    "structure": "Verb-dict / Verb-nai + ことがある",
+    "usage": "Takes the dictionary or ない form. With the past form (〜たことがある) it means 'have done before' instead.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "忙しいときは、朝ご飯を食べないことがあります。",
+        "english": "When I'm busy, I sometimes skip breakfast."
+      },
+      {
+        "japanese": "この道は冬になると、雪で通れなくなることがある。",
+        "english": "In winter, this road sometimes becomes impassable because of snow."
+      },
+      {
+        "japanese": "週末は家族で料理をすることがある。",
+        "english": "On weekends, my family sometimes cooks together."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "tendency"
+  },
+  {
+    "id": "n4-g-0076",
+    "pattern": "〜ないといけない / 〜なくちゃ",
+    "meaning": "have to; must (conversational)",
+    "structure": "Verb-nai + といけない / Verb-nai stem + なくちゃ",
+    "usage": "Everyday alternatives to なければならない. なくちゃ comes from なくては; なきゃ (from なければ) is also very common.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "明日は早いから、もう寝ないといけない。",
+        "english": "I have an early start tomorrow, so I need to go to bed now."
+      },
+      {
+        "japanese": "あ、もうこんな時間！帰らなくちゃ。",
+        "english": "Oh, look at the time! I have to go home."
+      },
+      {
+        "japanese": "この薬は毎日飲まないといけません。",
+        "english": "You have to take this medicine every day."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "obligation"
+  },
+  {
+    "id": "n4-g-0077",
+    "pattern": "〜させてください",
+    "meaning": "please let me (do)",
+    "structure": "Verb-nai stem + せてください (Group 1) / Verb-nai stem + させてください (Group 2)",
+    "usage": "Built on the causative て-form (する → させて). 〜させていただけませんか is more polite.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "少し考えさせてください。",
+        "english": "Please let me think about it for a bit."
+      },
+      {
+        "japanese": "今日は私に払わせてください。",
+        "english": "Please let me pay today."
+      },
+      {
+        "japanese": "体の調子が悪いので、今日は早く帰らせてください。",
+        "english": "I'm not feeling well, so please let me go home early today."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "request"
+  },
+  {
+    "id": "n4-g-0078",
+    "pattern": "尊敬語",
+    "meaning": "honorific verbs; respectful language for others' actions",
+    "structure": "いらっしゃる（行く・来る・いる） / 召し上がる（食べる・飲む） / おっしゃる（言う） / なさる（する） / ご覧になる（見る） / くださる（くれる）",
+    "usage": "Raises the actions of people you respect, such as customers, teachers and superiors. Never use it for your own actions.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "社長は何時ごろいらっしゃいますか。",
+        "english": "Around what time will the company president be here?"
+      },
+      {
+        "japanese": "先生、どうぞ召し上がってください。",
+        "english": "Please help yourself, sensei."
+      },
+      {
+        "japanese": "部長は会議でそうおっしゃいました。",
+        "english": "The department manager said so at the meeting."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "honorific"
+  },
+  {
+    "id": "n4-g-0079",
+    "pattern": "謙譲語",
+    "meaning": "humble verbs; modest language for one's own actions",
+    "structure": "参る（行く・来る） / おる（いる） / いただく（食べる・飲む・もらう） / 申す（言う） / いたす（する） / 拝見する（見る） / 伺う（聞く・訪ねる）",
+    "usage": "Lowers your own actions, or your group's, toward someone you respect. 参る, おる, 申す and いたす also make speech sound formal in general.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "明日の午後、そちらに伺います。",
+        "english": "I'll come to your office tomorrow afternoon."
+      },
+      {
+        "japanese": "初めまして。リンと申します。",
+        "english": "Nice to meet you. My name is Lin."
+      },
+      {
+        "japanese": "お手紙、拝見しました。",
+        "english": "I have read your letter."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "humble"
+  },
+  {
+    "id": "n4-g-0080",
+    "pattern": "お〜になる",
+    "meaning": "(honorific) someone respected does",
+    "structure": "お + Verb-stem + になる",
+    "usage": "Not used with one-syllable stems (見る, 寝る) or verbs that have special forms (行く → いらっしゃる). する-nouns take ご + Noun + になる (ご利用になる).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "先生はもうお帰りになりました。",
+        "english": "The teacher has already gone home."
+      },
+      {
+        "japanese": "この本をお読みになりましたか。",
+        "english": "Have you read this book?"
+      },
+      {
+        "japanese": "社長はいつもこのホテルにお泊まりになります。",
+        "english": "The company president always stays at this hotel."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "honorific"
+  },
+  {
+    "id": "n4-g-0081",
+    "pattern": "お〜する",
+    "meaning": "(humble) I do (for someone respected)",
+    "structure": "お + Verb-stem + する / ご + Noun + する",
+    "usage": "Only for actions that affect or benefit the other person. お〜いたします is even more formal.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "重そうですね。お持ちしましょうか。",
+        "english": "That looks heavy. Shall I carry it for you?"
+      },
+      {
+        "japanese": "後で詳しくご説明します。",
+        "english": "I'll explain in detail later."
+      },
+      {
+        "japanese": "駅までお送りします。",
+        "english": "I'll see you to the station."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "humble"
+  },
+  {
+    "id": "n4-g-0082",
+    "pattern": "〜でございます",
+    "meaning": "is; am; are (very polite copula)",
+    "structure": "Noun / na-Adj + でございます",
+    "usage": "The very polite version of です, typical of shop and hotel staff speaking to customers. ございます on its own is the polite form of あります.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "お手洗いはあちらでございます。",
+        "english": "The restroom is over there."
+      },
+      {
+        "japanese": "こちらが、お部屋のかぎでございます。",
+        "english": "Here is your room key."
+      },
+      {
+        "japanese": "はい、山田商店でございます。",
+        "english": "Hello, Yamada Shoten speaking."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "politeness"
+  },
+  {
+    "id": "n4-g-0083",
+    "pattern": "〜ても構わない",
+    "meaning": "don't mind if; it's fine if",
+    "structure": "Verb-te + も構わない / i-Adj-ku + ても構わない / na-Adj + でも構わない / Noun + でも構わない",
+    "usage": "A little more formal than 〜てもいい. 〜なくても構わない means 'it's fine not to'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "ここに荷物を置いても構いませんか。",
+        "english": "Do you mind if I leave my bags here?"
+      },
+      {
+        "japanese": "少しぐらい高くても構わないから、いい辞書を買いたい。",
+        "english": "I don't mind if it's a bit pricey; I want to buy a good dictionary."
+      },
+      {
+        "japanese": "返事は明日でも構いませんよ。",
+        "english": "It's fine if you answer tomorrow."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "permission"
+  },
+  {
+    "id": "n4-g-0084",
+    "pattern": "〜の / 〜こと（nominalizer）",
+    "meaning": "the act of doing (turns a verb phrase into a noun)",
+    "structure": "Verb-plain + の / Verb-plain + こと",
+    "usage": "の is preferred with perception verbs (見る, 聞こえる) and in casual speech; こと is needed before です/だ and in set patterns such as 〜ことができる.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "私は写真を撮るのが好きです。",
+        "english": "I like taking photos."
+      },
+      {
+        "japanese": "趣味は古い映画を見ることです。",
+        "english": "My hobby is watching old movies."
+      },
+      {
+        "japanese": "かぎをかけるのを忘れました。",
+        "english": "I forgot to lock the door."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "nominalization"
+  },
+  {
+    "id": "n4-g-0085",
+    "pattern": "〜ばよかった",
+    "meaning": "should have (done); I wish I had",
+    "structure": "Verb-ba + よかった / Verb-nai stem + なければよかった",
+    "usage": "Expresses regret about the past. 〜たらよかった is a common conversational alternative.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "もっと早く家を出ればよかった。",
+        "english": "I should have left home earlier."
+      },
+      {
+        "japanese": "あんなこと、言わなければよかった。",
+        "english": "I wish I hadn't said that."
+      },
+      {
+        "japanese": "傘を持ってくればよかったなあ。",
+        "english": "I wish I'd brought an umbrella."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "regret"
+  },
+  {
+    "id": "n4-g-0086",
+    "pattern": "〜たらどう",
+    "meaning": "why don't you ...?; how about ...?",
+    "structure": "Verb-ta + らどう",
+    "usage": "Often shortened to 〜たら？. Can sound pushy toward superiors; 〜たらいかがですか is the polite version.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "疲れているなら、少し休んだらどう？",
+        "english": "If you're tired, why not rest a bit?"
+      },
+      {
+        "japanese": "分からなければ、先生に聞いてみたらどうですか。",
+        "english": "If you don't understand, why don't you try asking the teacher?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "suggestion"
+  },
+  {
+    "id": "n4-g-0087",
+    "pattern": "〜ほうがいい",
+    "meaning": "had better; should",
+    "structure": "Verb-ta / Verb-nai + ほうがいい",
+    "usage": "For advice, the past form (行ったほうがいい) is the usual choice and sounds stronger. The negative uses the ない form, not the past.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "熱があるなら、病院に行ったほうがいいですよ。",
+        "english": "If you have a fever, you'd better go to the hospital."
+      },
+      {
+        "japanese": "夜遅くに一人で歩かないほうがいい。",
+        "english": "You'd better not walk alone late at night."
+      },
+      {
+        "japanese": "大事な書類は、コピーしておいたほうがいいですよ。",
+        "english": "It's a good idea to make copies of important documents."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "advice"
+  },
+  {
+    "id": "n4-g-0088",
+    "pattern": "〜とか〜とか",
+    "meaning": "things like A and B; A, B and so on (casual)",
+    "structure": "Noun + とか + Noun + とか / Verb-dict + とか + Verb-dict + とか",
+    "usage": "More casual than 〜や〜など, and it can also list verbs or whole phrases.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "冷蔵庫に卵とか牛乳とかが入っています。",
+        "english": "There are things like eggs and milk in the fridge."
+      },
+      {
+        "japanese": "休みの日は、映画とか買い物とかに行きます。",
+        "english": "On my days off, I go to the movies, go shopping, that kind of thing."
+      },
+      {
+        "japanese": "健康のために、野菜を食べるとか運動するとか、何かしたほうがいい。",
+        "english": "For your health, you should do something, like eating vegetables or exercising."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "example"
+  },
+  {
+    "id": "n4-g-0089",
+    "pattern": "〜など",
+    "meaning": "etc.; and so on; such as",
+    "structure": "Noun + など",
+    "usage": "Often paired with や (AやBなど). After a single noun it softens a suggestion.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "机の上に本やノートなどがあります。",
+        "english": "On the desk there are books, notebooks and so on."
+      },
+      {
+        "japanese": "夏休みに京都や奈良などに行きました。",
+        "english": "During summer vacation I went to places like Kyoto and Nara."
+      },
+      {
+        "japanese": "お茶など、いかがですか。",
+        "english": "Would you care for some tea or something?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "example"
+  },
+  {
+    "id": "n4-g-0090",
+    "pattern": "〜でも（suggestion）",
+    "meaning": "or something (softening a suggestion)",
+    "structure": "Noun + でも",
+    "usage": "Offers one example while leaving other options open, which makes invitations and advice sound less pushy.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "ちょっと休んで、コーヒーでも飲みませんか。",
+        "english": "Why don't we take a break and have a coffee or something?"
+      },
+      {
+        "japanese": "雨だから、家でゲームでもしよう。",
+        "english": "It's raining, so let's play a game or something at home."
+      },
+      {
+        "japanese": "暇なら、本でも読んだら？",
+        "english": "If you're bored, why not read a book or something?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "suggestion"
+  },
+  {
+    "id": "n4-g-0091",
+    "pattern": "〜さ",
+    "meaning": "-ness (turns an adjective into a noun of degree)",
+    "structure": "i-Adj stem + さ / na-Adj + さ",
+    "usage": "いい becomes よさ. Common for measurements (高さ, 重さ, 大きさ, 長さ).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "この橋の長さはどのくらいですか。",
+        "english": "How long is this bridge?"
+      },
+      {
+        "japanese": "山の上の寒さにびっくりした。",
+        "english": "I was surprised by how cold it was at the top of the mountain."
+      },
+      {
+        "japanese": "この仕事の大変さは、やってみないと分からない。",
+        "english": "You can't understand how tough this job is until you try it."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "nominalization"
+  },
+  {
+    "id": "n4-g-0092",
+    "pattern": "〜目",
+    "meaning": "-th (ordinal: first, second, third ...)",
+    "structure": "Noun (number + counter) + 目",
+    "usage": "",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "右から三つ目の建物が図書館です。",
+        "english": "The third building from the right is the library."
+      },
+      {
+        "japanese": "日本に来るのは今回で二回目です。",
+        "english": "This is my second time coming to Japan."
+      },
+      {
+        "japanese": "二つ目の角を左に曲がってください。",
+        "english": "Please turn left at the second corner."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "quantity"
+  },
+  {
+    "id": "n4-g-0093",
+    "pattern": "〜おきに",
+    "meaning": "every other; at intervals of",
+    "structure": "Noun (number + counter) + おきに",
+    "usage": "With days (一日おき) it skips one unit, meaning 'every other day'. With minutes or distances it usually just means 'every X'.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "このバスは十五分おきに来ます。",
+        "english": "This bus comes every fifteen minutes."
+      },
+      {
+        "japanese": "一日おきにジョギングをしています。",
+        "english": "I go jogging every other day."
+      },
+      {
+        "japanese": "道の両側に、木が五メートルおきに植えてある。",
+        "english": "Trees are planted every five meters on both sides of the road."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "time"
+  },
+  {
+    "id": "n4-g-0094",
+    "pattern": "〜くする / 〜にする（make）",
+    "meaning": "make (something) ...; change something to a state",
+    "structure": "i-Adj-ku + する / na-Adj + に + する / Noun + に + する",
+    "usage": "Someone deliberately changes something. Compare 〜くなる / 〜になる, where the change happens by itself.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "テレビの音を小さくしてください。",
+        "english": "Please turn the TV down."
+      },
+      {
+        "japanese": "お客さんが来るから、部屋をきれいにしよう。",
+        "english": "We have guests coming, so let's tidy up the room."
+      },
+      {
+        "japanese": "暑いので、髪を短くしました。",
+        "english": "It's hot, so I had my hair cut short."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "change"
+  },
+  {
+    "id": "n4-g-0095",
+    "pattern": "〜がする",
+    "meaning": "(a smell, sound, taste or feeling) is perceived",
+    "structure": "Noun + がする",
+    "usage": "Used with におい, 音, 声, 味 and 気 (〜気がする: 'have a feeling that').",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "台所からいいにおいがする。",
+        "english": "There's a nice smell coming from the kitchen."
+      },
+      {
+        "japanese": "外で変な音がしました。",
+        "english": "I heard a strange noise outside."
+      },
+      {
+        "japanese": "このお茶は少し甘い味がする。",
+        "english": "This tea tastes slightly sweet."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "state"
+  },
+  {
+    "id": "n4-g-0096",
+    "pattern": "〜かな / 〜かしら",
+    "meaning": "I wonder",
+    "structure": "Verb-plain / i-Adj / na-Adj / Noun + かな / かしら",
+    "usage": "A soft question, often said to oneself. かしら sounds feminine and a little old-fashioned. 〜ないかな can express a wish (早く来ないかな).",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "明日は晴れるかな。",
+        "english": "I wonder if it'll be sunny tomorrow."
+      },
+      {
+        "japanese": "このお菓子、誰が買ってきたのかな。",
+        "english": "I wonder who bought these snacks."
+      },
+      {
+        "japanese": "この服、私に似合うかしら。",
+        "english": "I wonder if this outfit suits me."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "question"
+  },
+  {
+    "id": "n4-g-0097",
+    "pattern": "〜てくれませんか / 〜ていただけませんか",
+    "meaning": "could you please ...? (polite request)",
+    "structure": "Verb-te + くれませんか / Verb-te + いただけませんか",
+    "usage": "Softer than 〜てください. Politeness rises from 〜てくれませんか to 〜てもらえませんか to 〜ていただけませんか.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "すみません、写真を撮ってくれませんか。",
+        "english": "Excuse me, could you take my picture?"
+      },
+      {
+        "japanese": "この書類の書き方を教えていただけませんか。",
+        "english": "Could you please show me how to fill out this form?"
+      },
+      {
+        "japanese": "もう少し大きい声で話していただけませんか。",
+        "english": "Could you speak a little louder, please?"
+      }
+    ],
+    "notes": "",
+    "categoryTag": "request"
+  },
+  {
+    "id": "n4-g-0098",
+    "pattern": "〜ないで",
+    "meaning": "without doing; instead of doing",
+    "structure": "Verb-nai + で",
+    "usage": "〜ずに (N3) means the same but is more formal. Differs from 〜なくて, which gives a reason.",
+    "jlptLevel": "n4",
+    "examples": [
+      {
+        "japanese": "今朝は朝ご飯を食べないで学校に行った。",
+        "english": "This morning I went to school without eating breakfast."
+      },
+      {
+        "japanese": "傘を持たないで出かけて、雨にぬれてしまった。",
+        "english": "I went out without an umbrella and got soaked."
+      },
+      {
+        "japanese": "エレベーターを使わないで、階段で上がりましょう。",
+        "english": "Let's take the stairs instead of the elevator."
+      }
+    ],
+    "notes": "",
+    "categoryTag": "negation"
+  }
+]

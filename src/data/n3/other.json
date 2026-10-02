@@ -1,0 +1,380 @@
+[
+  {
+    "id": "n3-o-0001",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "そして",
+    "reading": "そして",
+    "meaning": "and; and then",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0002",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "それから",
+    "reading": "それから",
+    "meaning": "after that; and then",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0003",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "しかし",
+    "reading": "しかし",
+    "meaning": "however",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0004",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "でも",
+    "reading": "でも",
+    "meaning": "but",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0005",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "だから",
+    "reading": "だから",
+    "meaning": "so; therefore",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0006",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "それに",
+    "reading": "それに",
+    "meaning": "besides; moreover",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0007",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "すると",
+    "reading": "すると",
+    "meaning": "then; thereupon",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0008",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "ところで",
+    "reading": "ところで",
+    "meaning": "by the way",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0009",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "たとえば",
+    "reading": "たとえば",
+    "meaning": "for example",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0010",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "つまり",
+    "reading": "つまり",
+    "meaning": "in other words; that is",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0011",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "それでも",
+    "reading": "それでも",
+    "meaning": "even so; nevertheless",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0012",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "そのうえ",
+    "reading": "そのうえ",
+    "meaning": "in addition; furthermore",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0013",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "または",
+    "reading": "または",
+    "meaning": "or; alternatively",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0014",
+    "title": "Conjunction (接続詞)",
+    "subCategory": "conjunctions",
+    "japanese": "それとも",
+    "reading": "それとも",
+    "meaning": "or (between choices)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0015",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜おかげで",
+    "reading": "〜おかげで",
+    "meaning": "thanks to ~ (positive)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0016",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜せいで",
+    "reading": "〜せいで",
+    "meaning": "because of ~ (negative)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0017",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜くせに",
+    "reading": "〜くせに",
+    "meaning": "even though ~ (criticism)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0018",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜かわりに",
+    "reading": "〜かわりに",
+    "meaning": "instead of ~; in return",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0019",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜がち",
+    "reading": "〜がち",
+    "meaning": "tend to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0020",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜っぽい",
+    "reading": "〜っぽい",
+    "meaning": "-ish; tends to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0021",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜たびに",
+    "reading": "〜たびに",
+    "meaning": "every time ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0022",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜につれて",
+    "reading": "〜につれて",
+    "meaning": "as ~ (gradual change)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0023",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜によって",
+    "reading": "〜によって",
+    "meaning": "depending on ~; by ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0024",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜に対して",
+    "reading": "〜に対して",
+    "meaning": "toward ~; in contrast to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0025",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜わけではない",
+    "reading": "〜わけではない",
+    "meaning": "it doesn't mean that ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0026",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜わけにはいかない",
+    "reading": "〜わけにはいかない",
+    "meaning": "cannot afford to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0027",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ようにする",
+    "reading": "〜ようにする",
+    "meaning": "try to make sure that ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0028",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ようとする",
+    "reading": "〜ようとする",
+    "meaning": "try to ~; be about to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0029",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ないで",
+    "reading": "〜ないで",
+    "meaning": "without doing ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0030",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ずに",
+    "reading": "〜ずに",
+    "meaning": "without doing ~ (written)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0031",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜ところが",
+    "reading": "〜ところが",
+    "meaning": "however (unexpected result)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0032",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜はじめる",
+    "reading": "〜はじめる",
+    "meaning": "begin to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0033",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜つづける",
+    "reading": "〜つづける",
+    "meaning": "continue to ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0034",
+    "title": "Grammar pattern (文型)",
+    "subCategory": "expressions",
+    "japanese": "〜おわる",
+    "reading": "〜おわる",
+    "meaning": "finish ~",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0035",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "まいります",
+    "reading": "まいります",
+    "meaning": "come/go (humble of 来る/行く)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0036",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "もうします",
+    "reading": "もうします",
+    "meaning": "say; be called (humble of 言う)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0037",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "いたします",
+    "reading": "いたします",
+    "meaning": "do (humble of する)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0038",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "おります",
+    "reading": "おります",
+    "meaning": "be (humble of いる)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0039",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "ぞんじます",
+    "reading": "ぞんじます",
+    "meaning": "know (humble of 知る)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0040",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "うかがいます",
+    "reading": "うかがいます",
+    "meaning": "ask; visit (humble of 聞く/訪ねる)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0041",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "いただきます",
+    "reading": "いただきます",
+    "meaning": "receive (humble of もらう)",
+    "jlptLevel": "n3"
+  },
+  {
+    "id": "n3-o-0042",
+    "title": "Humble (謙譲語)",
+    "subCategory": "keigo",
+    "japanese": "さしあげます",
+    "reading": "さしあげます",
+    "meaning": "give (humble of あげる)",
+    "jlptLevel": "n3"
+  }
+]
